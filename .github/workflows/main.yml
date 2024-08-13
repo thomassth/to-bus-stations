@@ -1,0 +1,24 @@
+name: Refresh Feed
+on: 
+  schedule:
+    - cron: 10 15 * * 0-6
+  workflow_dispatch:
+jobs:
+  refresh-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch API Data 📦
+        uses: JamesIves/fetch-api-data-action@v2
+        with:
+          ENDPOINT: https://retro.umoiq.com/service/publicJSONFeed?command=routeList&a=ttc
+          retry: true
+      - name: Build and Deploy 
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          ACCESS_TOKEN: ${{ secrets.AUTORUN_KEY }}
+          BRANCH: main # Pushes the updates to the master branch.
+          FOLDER: fetch-api-data-action # The location of the data.json file saved by the Fetch API Data action.
+          TARGET_FOLDER: data # Saves the data into the 'data' directory on the master branch.
