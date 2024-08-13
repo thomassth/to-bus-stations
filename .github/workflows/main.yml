@@ -1,5 +1,5 @@
 name: Refresh Feed
-on: 
+on:
   schedule:
     - cron: 10 15 * * 0-6
   workflow_dispatch:
@@ -13,9 +13,10 @@ jobs:
       - name: Fetch API Data 📦
         uses: JamesIves/fetch-api-data-action@v2
         with:
-          ENDPOINT: https://retro.umoiq.com/service/publicJSONFeed?command=routeList&a=ttc
+          endpoint: https://retro.umoiq.com/service/publicJSONFeed?command=routeList&a=ttc
           retry: true
-      - name: Build and Deploy 
+          save-name: ttc-routes.json
+      - name: Build and Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           ACCESS_TOKEN: ${{ secrets.AUTORUN_KEY }}
