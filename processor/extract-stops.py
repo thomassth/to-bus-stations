@@ -24,14 +24,15 @@ for route in routes:
 
     stops = []
     for stop in data['route']['stop']:
-        stopTag = stop['tag']
-        stops.append(stopTag)
-        if stopTag in route_dictionary:
-            route_dictionary[stopTag]['lines'].append(route)
-        else:
-            route_dictionary[stopTag] = {'lon': stop['lon'], 'lat': stop['lat'], 'title': stop['title'], 'lines':[route]}
+        if(stop.get('stopId', None)):
+            stopId = stop['stopId']
+            stops.append(stopId)
+            if stopId in route_dictionary:
+                route_dictionary[stopId]['lines'].append(route)
+            else:
+                route_dictionary[stopId] = {'lon': stop['lon'], 'lat': stop['lat'], 'title': stop['title'], 'lines':[route]}
 
-route_array = [value for key, value in route_dictionary.items()]
+route_array = [{**value, 'id': key} for key, value in route_dictionary.items()]
 
 with open(data_path + 'stops.json', 'w') as json_file:
     json.dump(route_array, json_file)
