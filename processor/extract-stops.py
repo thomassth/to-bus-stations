@@ -4,7 +4,7 @@ import json
 # %%
 # Part 1: get a list of routes
 
-with open('../data/routes.json', 'r') as f:
+with open('../data/ttc-routes.json', 'r') as f:
   data = json.load(f)
 
 routes = []
@@ -31,7 +31,9 @@ for route in routes:
         else:
             route_dictionary[stopTag] = {'lon': stop['lon'], 'lat': stop['lat'], 'title': stop['title'], 'lines':[route]}
 
+route_array = [value for key, value in route_dictionary.items()]
+
 with open(data_path + 'stops.json', 'w') as json_file:
-    json.dump(route_dictionary, json_file)
+    json.dump(route_array, json_file)
 
 
