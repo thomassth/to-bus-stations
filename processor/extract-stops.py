@@ -26,7 +26,10 @@ for route in routes:
     for stop in data['route']['stop']:
         stopTag = stop['tag']
         stops.append(stopTag)
-        route_dictionary[stopTag] = {'lon': stop['lon'], 'lat': stop['lat'], 'title': stop['title']}
+        if stopTag in route_dictionary:
+            route_dictionary[stopTag]['lines'].append(route)
+        else:
+            route_dictionary[stopTag] = {'lon': stop['lon'], 'lat': stop['lat'], 'title': stop['title'], 'lines':[route]}
 
 with open(data_path + 'stops.json', 'w') as json_file:
     json.dump(route_dictionary, json_file)
