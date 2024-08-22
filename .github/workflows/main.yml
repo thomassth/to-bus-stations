@@ -12,12 +12,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Fetch API Data 📦
+      - name: Fetch TTC API Data
         uses: JamesIves/fetch-api-data-action@v2
         with:
           endpoint: https://retro.umoiq.com/service/publicJSONFeed?command=routeList&a=ttc
           retry: true
           save-name: ttc-routes
+      - name: Fetch GO bus API Data
+        uses: JamesIves/fetch-api-data-action@v2
+        with:
+          endpoint: https://api.openmetrolinx.com/OpenDataAPI/api/V1/ServiceataGlance/Buses/All?key=${{secrets.GO_ACCESS}}
+          retry: true
+          save-name: go-bus-routes
       - name: Build and Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v4
         with:
