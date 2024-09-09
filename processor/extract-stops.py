@@ -36,7 +36,8 @@ for route in routes:
                 route_dictionary[tag]['directions'] = directionText
                 route_dictionary[tag]['lines'] = [route]
 
-route_array = [{**value, 'id': key} for key, value in route_dictionary.items()]
+filtered_dict = {key: value for key, value in route_dictionary.items() if 'stopId' in value}
+route_array = [{**value, 'id': value['stopId']} for key, value in filtered_dict.items()]
 
 with open(data_path + 'stops.json', 'w') as json_file:
     json.dump(route_array, json_file)
