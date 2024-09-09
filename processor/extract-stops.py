@@ -22,15 +22,19 @@ for route in routes:
     with open('../data/ttc/' + str(route) + '.json', 'r') as f:
         data = json.load(f)
 
-    stops = []
-    for stop in data['route']['stop']:
-        if(stop.get('stopId', None)):
-            stopId = stop['stopId']
-            stops.append(stopId)
-            if stopId in route_dictionary:
-                route_dictionary[stopId]['lines'].append(route)
+    for direction in data['route']['direction']:
+        directionText = direction['title'].split(" - ")[0]
+        for stop in direction['stop']:
+            tag = stop['tag']
+            if tag in route_dictionary:
+                route_dictionary[tag]['lines'].append(route)
+                if directionText not in route_dictionary[tag]['directions']:
+                    route_dictionary[tag]['directions'] = ", ".join([route_dictionary[tag]['directions'], directionText])
             else:
-                route_dictionary[stopId] = {'lon': stop['lon'], 'lat': stop['lat'], 'title': stop['title'], 'lines':[route]}
+                filteredStop = [item for item in data['route']['stop'] if item['tag'] == tag]
+                route_dictionary[tag] = filteredStop[0]
+                route_dictionary[tag]['directions'] = directionText
+                route_dictionary[tag]['lines'] = [route]
 
 route_array = [{**value, 'id': key} for key, value in route_dictionary.items()]
 
