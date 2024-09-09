@@ -6,7 +6,7 @@ from pathlib import Path
 # %%
 # Part 1: get a list of routes
 
-with open('../data/routes.json', 'r') as f:
+with open('../data/ttc-routes.json', 'r') as f:
   data = json.load(f)
 
 routes = []
@@ -24,7 +24,7 @@ for route in routes:
   Path(path).mkdir(parents=True, exist_ok=True)
   # store the result into a json file.
   with open(path + '/' + str(route) + '.json', 'w') as outfile:
-    print('now processing ' + route)
+    print('now processing ' + str(route))
     json.dump(response.json(), outfile)
 
 
