@@ -26,15 +26,16 @@ for route in routes:
         directionText = direction['title'].split(" - ")[0]
         for stop in direction['stop']:
             tag = stop['tag']
-            if tag in route_dictionary:
-                route_dictionary[tag]['lines'].append(route)
-                if directionText not in route_dictionary[tag]['directions']:
-                    route_dictionary[tag]['directions'] = ", ".join([route_dictionary[tag]['directions'], directionText])
-            else:
-                filteredStop = [item for item in data['route']['stop'] if item['tag'] == tag]
-                route_dictionary[tag] = filteredStop[0]
-                route_dictionary[tag]['directions'] = directionText
-                route_dictionary[tag]['lines'] = [route]
+            if 'branch' in direction:
+                if tag in route_dictionary:
+                    route_dictionary[tag]['lines'].append(direction['branch'])
+                    if directionText not in route_dictionary[tag]['directions']:
+                        route_dictionary[tag]['directions'] = ", ".join([route_dictionary[tag]['directions'], directionText])
+                else:
+                    filteredStop = [item for item in data['route']['stop'] if item['tag'] == tag]
+                    route_dictionary[tag] = filteredStop[0]
+                    route_dictionary[tag]['directions'] = directionText
+                    route_dictionary[tag]['lines'] = [direction['branch']]
 
 filtered_dict = {key: value for key, value in route_dictionary.items() if 'stopId' in value}
 route_array = [{**value, 'id': value['stopId']} for key, value in filtered_dict.items()]
