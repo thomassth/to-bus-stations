@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "TimeStamp": "2024-09-19 11:28:32",
+    "TimeStamp": "2024-09-20 11:28:02",
     "ErrorCode": "200",
     "ErrorMessage": "OK"
   },
@@ -99,6 +99,11 @@
             "Direction": "E"
           },
           {
+            "Code": "15A",
+            "Display": "15A - Aldershot GO",
+            "Direction": "E"
+          },
+          {
             "Code": "15",
             "Display": "",
             "Direction": "W"
@@ -178,22 +183,12 @@
             "Direction": "E"
           },
           {
-            "Code": "18J",
-            "Display": "",
-            "Direction": "E"
-          },
-          {
             "Code": "18",
             "Display": "",
             "Direction": "W"
           },
           {
             "Code": "18C",
-            "Display": "",
-            "Direction": "W"
-          },
-          {
-            "Code": "18J",
             "Display": "",
             "Direction": "W"
           }
@@ -486,6 +481,11 @@
           {
             "Code": "30A",
             "Display": "30A - U of Waterloo",
+            "Direction": "W"
+          },
+          {
+            "Code": "30E",
+            "Display": "30E - U of Waterloo",
             "Direction": "W"
           }
         ]
@@ -1262,6 +1262,11 @@
             "Direction": "N"
           },
           {
+            "Code": "88C",
+            "Display": "88C  - Trent U",
+            "Direction": "N"
+          },
+          {
             "Code": "88",
             "Display": "",
             "Direction": "S"
@@ -1269,6 +1274,11 @@
           {
             "Code": "88B",
             "Display": "",
+            "Direction": "S"
+          },
+          {
+            "Code": "88C",
+            "Display": "88C - DC Oshawa GO",
             "Direction": "S"
           }
         ]
