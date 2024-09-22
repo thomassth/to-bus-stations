@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "TimeStamp": "2024-09-21 11:27:30",
+    "TimeStamp": "2024-09-22 11:25:44",
     "ErrorCode": "200",
     "ErrorMessage": "OK"
   },
@@ -137,6 +137,16 @@
             "Direction": "W"
           },
           {
+            "Code": "18C",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "18J",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
             "Code": "18",
             "Display": "18  - Hamilton GO",
             "Direction": "W"
@@ -144,16 +154,6 @@
           {
             "Code": "18A",
             "Display": "18A - West Harbour GO",
-            "Direction": "W"
-          },
-          {
-            "Code": "18D",
-            "Display": "18D - Clarkson GO",
-            "Direction": "W"
-          },
-          {
-            "Code": "18F",
-            "Display": "18F - Hamilton GO",
             "Direction": "W"
           },
           {
@@ -495,17 +495,7 @@
           },
           {
             "Code": "36B",
-            "Display": "36B - York Mills Term",
-            "Direction": "E"
-          },
-          {
-            "Code": "36B",
             "Display": "",
-            "Direction": "W"
-          },
-          {
-            "Code": "36B",
-            "Display": "36B - Bramalea Term",
             "Direction": "W"
           }
         ]
