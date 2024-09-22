@@ -1,16 +1,23 @@
 name: Refresh Feed
 on:
+  push:
+    branches: ['main']
+
   schedule:
     - cron: 10 15 * * 0-6
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   refresh-feed:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: 'main'
 
       - name: Fetch TTC API Data
         uses: JamesIves/fetch-api-data-action@v2
@@ -18,15 +25,18 @@ jobs:
           endpoint: https://retro.umoiq.com/service/publicJSONFeed?command=routeList&a=ttc
           retry: true
           save-name: ttc-routes
+
       - name: Get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y%m%d')"
+
       - name: Fetch GO bus API Data
         uses: JamesIves/fetch-api-data-action@v2
         with:
           endpoint: https://api.openmetrolinx.com/OpenDataAPI/api/V1/Schedule/Line/All/${{ steps.date.outputs.date }}?key=${{secrets.GO_ACCESS}}
           retry: true
           save-name: go-bus-routes
+
       - name: Build and Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v4
         with:
@@ -34,3 +44,31 @@ jobs:
           folder: fetch-api-data-action # The location of the data.json file saved by the Fetch API Data action.
           target-folder: data # Saves the data into the 'data' directory on the master branch.
           clean: false
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Crawl TTC Stops
+        working-directory: ./crawling
+        run: python ttc-stops.py
+
+      - name: Extract TTC Stops
+        working-directory: ./processor
+        run: python extract-stops.py
+
+      - name: Clean up
+        run: rm -rf fetch-api-data-action
+
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git pull origin main
+          git add -A
+          git commit -m "Commit changes from GitHub Actions workflow"
+          git push origin main
