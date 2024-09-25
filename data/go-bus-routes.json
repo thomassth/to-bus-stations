@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "TimeStamp": "2024-09-24 11:28:45",
+    "TimeStamp": "2024-09-25 11:29:13",
     "ErrorCode": "200",
     "ErrorMessage": "OK"
   },
@@ -1084,16 +1084,6 @@
             "Direction": "N"
           },
           {
-            "Code": "65F",
-            "Display": "",
-            "Direction": "N"
-          },
-          {
-            "Code": "65K",
-            "Display": "",
-            "Direction": "N"
-          },
-          {
             "Code": "65",
             "Display": "",
             "Direction": "S"
@@ -1109,18 +1099,8 @@
             "Direction": "S"
           },
           {
-            "Code": "65K",
-            "Display": "",
-            "Direction": "S"
-          },
-          {
             "Code": "65",
             "Display": "65 - Union Station",
-            "Direction": "S"
-          },
-          {
-            "Code": "65K",
-            "Display": "65K - Maple GO",
             "Direction": "S"
           }
         ]
@@ -1424,11 +1404,6 @@
           {
             "Code": "BR",
             "Display": "BR - Bradford GO",
-            "Direction": "N"
-          },
-          {
-            "Code": "BR",
-            "Display": "BR - Maple GO",
             "Direction": "N"
           },
           {
