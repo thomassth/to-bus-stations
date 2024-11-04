@@ -1,11 +1,29 @@
 {
   "Metadata": {
-    "TimeStamp": "2024-11-03 10:26:06",
+    "TimeStamp": "2024-11-04 10:29:43",
     "ErrorCode": "200",
     "ErrorMessage": "OK"
   },
   "AllLines": {
     "Line": [
+      {
+        "Name": "Brock University",
+        "Code": "11",
+        "IsBus": true,
+        "IsTrain": false,
+        "Variant": [
+          {
+            "Code": "11",
+            "Display": "",
+            "Direction": "E"
+          },
+          {
+            "Code": "11",
+            "Display": "",
+            "Direction": "W"
+          }
+        ]
+      },
       {
         "Name": "Niagara Falls / Toronto",
         "Code": "12",
@@ -18,8 +36,23 @@
             "Direction": "E"
           },
           {
+            "Code": "12A",
+            "Display": "",
+            "Direction": "E"
+          },
+          {
             "Code": "12B",
             "Display": "",
+            "Direction": "E"
+          },
+          {
+            "Code": "12",
+            "Display": "12  - Burlington Carpool",
+            "Direction": "E"
+          },
+          {
+            "Code": "12B",
+            "Display": "12B - Burlington GO",
             "Direction": "E"
           },
           {
@@ -30,6 +63,21 @@
           {
             "Code": "12B",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "12C",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "12",
+            "Display": "12  - Niagara Falls",
+            "Direction": "W"
+          },
+          {
+            "Code": "12B",
+            "Display": "12B - Niagara Falls",
             "Direction": "W"
           }
         ]
@@ -43,6 +91,11 @@
           {
             "Code": "15",
             "Display": "",
+            "Direction": "E"
+          },
+          {
+            "Code": "15",
+            "Display": "15 - Aldershot GO",
             "Direction": "E"
           },
           {
@@ -65,8 +118,41 @@
           },
           {
             "Code": "16",
+            "Display": "16  - Union Station",
+            "Direction": "E"
+          },
+          {
+            "Code": "16",
             "Display": "",
             "Direction": "W"
+          },
+          {
+            "Code": "16",
+            "Display": "16  - Hamilton GO",
+            "Direction": "W"
+          }
+        ]
+      },
+      {
+        "Name": "Waterloo / Hamilton",
+        "Code": "17",
+        "IsBus": true,
+        "IsTrain": false,
+        "Variant": [
+          {
+            "Code": "17",
+            "Display": "",
+            "Direction": "N"
+          },
+          {
+            "Code": "17",
+            "Display": "17  - U of Waterloo",
+            "Direction": "N"
+          },
+          {
+            "Code": "17",
+            "Display": "17  - Hamilton GO",
+            "Direction": "S"
           }
         ]
       },
@@ -82,12 +168,12 @@
             "Direction": "E"
           },
           {
-            "Code": "18A",
+            "Code": "18G",
             "Display": "",
             "Direction": "E"
           },
           {
-            "Code": "18B",
+            "Code": "18H",
             "Display": "",
             "Direction": "E"
           },
@@ -102,17 +188,7 @@
             "Direction": "W"
           },
           {
-            "Code": "18A",
-            "Display": "",
-            "Direction": "W"
-          },
-          {
             "Code": "18C",
-            "Display": "",
-            "Direction": "W"
-          },
-          {
-            "Code": "18H",
             "Display": "",
             "Direction": "W"
           },
@@ -136,7 +212,17 @@
           },
           {
             "Code": "19",
+            "Display": "19 - Finch Terminal",
+            "Direction": "E"
+          },
+          {
+            "Code": "19",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "19",
+            "Display": "19 - Square One",
             "Direction": "W"
           }
         ]
@@ -148,7 +234,17 @@
         "IsTrain": false,
         "Variant": [
           {
+            "Code": "21",
+            "Display": "",
+            "Direction": "E"
+          },
+          {
             "Code": "21A",
+            "Display": "",
+            "Direction": "E"
+          },
+          {
+            "Code": "21B",
             "Display": "",
             "Direction": "E"
           },
@@ -158,17 +254,27 @@
             "Direction": "E"
           },
           {
-            "Code": "21D",
+            "Code": "21E",
             "Display": "",
             "Direction": "E"
           },
           {
-            "Code": "21F",
-            "Display": "",
+            "Code": "21C",
+            "Display": "21C - Union Station",
             "Direction": "E"
+          },
+          {
+            "Code": "21",
+            "Display": "",
+            "Direction": "W"
           },
           {
             "Code": "21A",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "21B",
             "Display": "",
             "Direction": "W"
           },
@@ -178,14 +284,27 @@
             "Direction": "W"
           },
           {
-            "Code": "21D",
+            "Code": "21E",
             "Display": "",
             "Direction": "W"
+          }
+        ]
+      },
+      {
+        "Name": "Milton / Oakville",
+        "Code": "22",
+        "IsBus": true,
+        "IsTrain": false,
+        "Variant": [
+          {
+            "Code": "22",
+            "Display": "",
+            "Direction": "N"
           },
           {
-            "Code": "21F",
+            "Code": "22",
             "Display": "",
-            "Direction": "W"
+            "Direction": "S"
           }
         ]
       },
@@ -206,8 +325,18 @@
             "Direction": "E"
           },
           {
-            "Code": "25L",
-            "Display": "",
+            "Code": "25",
+            "Display": "25  - Square One",
+            "Direction": "E"
+          },
+          {
+            "Code": "25A",
+            "Display": "25A - Square One",
+            "Direction": "E"
+          },
+          {
+            "Code": "25C",
+            "Display": "25C - Square One",
             "Direction": "E"
           },
           {
@@ -216,13 +345,18 @@
             "Direction": "W"
           },
           {
-            "Code": "25C",
-            "Display": "",
+            "Code": "25",
+            "Display": "25  - U of Waterloo",
             "Direction": "W"
           },
           {
-            "Code": "25L",
-            "Display": "",
+            "Code": "25A",
+            "Display": "25A - U of Waterloo",
+            "Direction": "W"
+          },
+          {
+            "Code": "25C",
+            "Display": "25C - U of Waterloo",
             "Direction": "W"
           }
         ]
@@ -245,12 +379,32 @@
           },
           {
             "Code": "27A",
+            "Display": "27A - Finch Terminal",
+            "Direction": "E"
+          },
+          {
+            "Code": "27B",
+            "Display": "27B - Finch Terminal",
+            "Direction": "E"
+          },
+          {
+            "Code": "27A",
             "Display": "",
             "Direction": "W"
           },
           {
             "Code": "27B",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "27A",
+            "Display": "27A - Milton GO",
+            "Direction": "W"
+          },
+          {
+            "Code": "27B",
+            "Display": "27B - Meadowvale GO",
             "Direction": "W"
           }
         ]
@@ -263,12 +417,27 @@
         "Variant": [
           {
             "Code": "29",
-            "Display": "",
+            "Display": "29 - Kipling Bus Terminal",
+            "Direction": "E"
+          },
+          {
+            "Code": "29A",
+            "Display": "29A - Square One",
             "Direction": "E"
           },
           {
             "Code": "29",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "29",
+            "Display": "29 - Guelph Central GO",
+            "Direction": "W"
+          },
+          {
+            "Code": "29A",
+            "Display": "29A - U of Guelph",
             "Direction": "W"
           }
         ]
@@ -291,12 +460,27 @@
           },
           {
             "Code": "30",
+            "Display": "30 - Bramalea GO",
+            "Direction": "E"
+          },
+          {
+            "Code": "30A",
+            "Display": "30A - Bramalea GO",
+            "Direction": "E"
+          },
+          {
+            "Code": "30",
             "Display": "",
             "Direction": "W"
           },
           {
+            "Code": "30",
+            "Display": "30 - U of Waterloo",
+            "Direction": "W"
+          },
+          {
             "Code": "30A",
-            "Display": "",
+            "Display": "30A - U of Waterloo",
             "Direction": "W"
           }
         ]
@@ -308,6 +492,16 @@
         "IsTrain": false,
         "Variant": [
           {
+            "Code": "31",
+            "Display": "",
+            "Direction": "E"
+          },
+          {
+            "Code": "31B",
+            "Display": "",
+            "Direction": "E"
+          },
+          {
             "Code": "31E",
             "Display": "",
             "Direction": "E"
@@ -318,22 +512,22 @@
             "Direction": "E"
           },
           {
-            "Code": "31K",
-            "Display": "",
-            "Direction": "E"
-          },
-          {
             "Code": "31L",
             "Display": "",
             "Direction": "E"
           },
           {
-            "Code": "31X",
+            "Code": "31",
             "Display": "",
-            "Direction": "E"
+            "Direction": "W"
           },
           {
             "Code": "31A",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "31B",
             "Display": "",
             "Direction": "W"
           },
@@ -353,8 +547,56 @@
             "Direction": "W"
           },
           {
-            "Code": "31X",
+            "Code": "31M",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "31R",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "31M",
+            "Display": "31M - U of Guelph",
+            "Direction": "W"
+          }
+        ]
+      },
+      {
+        "Name": "Brampton Trinity Common / North York",
+        "Code": "32",
+        "IsBus": true,
+        "IsTrain": false,
+        "Variant": [
+          {
+            "Code": "32",
+            "Display": "",
+            "Direction": "E"
+          },
+          {
+            "Code": "32B",
+            "Display": "",
+            "Direction": "E"
+          },
+          {
+            "Code": "32",
+            "Display": "32  - York Mills Term",
+            "Direction": "E"
+          },
+          {
+            "Code": "32",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "32B",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "32",
+            "Display": "32  - Trinity Common",
             "Direction": "W"
           }
         ]
@@ -371,8 +613,48 @@
             "Direction": "E"
           },
           {
+            "Code": "33A",
+            "Display": "",
+            "Direction": "E"
+          },
+          {
+            "Code": "33B",
+            "Display": "",
+            "Direction": "E"
+          },
+          {
+            "Code": "33C",
+            "Display": "",
+            "Direction": "E"
+          },
+          {
+            "Code": "33E",
+            "Display": "",
+            "Direction": "E"
+          },
+          {
+            "Code": "33F",
+            "Display": "",
+            "Direction": "E"
+          },
+          {
             "Code": "33G",
             "Display": "",
+            "Direction": "E"
+          },
+          {
+            "Code": "33H",
+            "Display": "",
+            "Direction": "E"
+          },
+          {
+            "Code": "33B",
+            "Display": "33B - York Mills Term",
+            "Direction": "E"
+          },
+          {
+            "Code": "33E",
+            "Display": "33E - York Mills Term",
             "Direction": "E"
           },
           {
@@ -381,8 +663,33 @@
             "Direction": "W"
           },
           {
-            "Code": "33G",
+            "Code": "33A",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "33B",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "33E",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "33",
+            "Display": "33 - U of Guelph",
+            "Direction": "W"
+          },
+          {
+            "Code": "33B",
+            "Display": "33B - Mount Pleasant GO",
+            "Direction": "W"
+          },
+          {
+            "Code": "33E",
+            "Display": "33E - Georgetown GO",
             "Direction": "W"
           }
         ]
@@ -400,8 +707,74 @@
           },
           {
             "Code": "36B",
+            "Display": "36B - York Mills Term",
+            "Direction": "E"
+          },
+          {
+            "Code": "36B",
             "Display": "",
             "Direction": "W"
+          },
+          {
+            "Code": "36B",
+            "Display": "36B - Bramalea Term",
+            "Direction": "W"
+          }
+        ]
+      },
+      {
+        "Name": "Orangeville / Brampton",
+        "Code": "37",
+        "IsBus": true,
+        "IsTrain": false,
+        "Variant": [
+          {
+            "Code": "37",
+            "Display": "",
+            "Direction": "N"
+          },
+          {
+            "Code": "37A",
+            "Display": "",
+            "Direction": "N"
+          },
+          {
+            "Code": "37",
+            "Display": "37  - Orangeville",
+            "Direction": "N"
+          },
+          {
+            "Code": "37",
+            "Display": "",
+            "Direction": "S"
+          },
+          {
+            "Code": "37",
+            "Display": "37  - Brampton Term",
+            "Direction": "S"
+          },
+          {
+            "Code": "37B",
+            "Display": "37B - Brampton Term",
+            "Direction": "S"
+          }
+        ]
+      },
+      {
+        "Name": "Bolton / Malton",
+        "Code": "38",
+        "IsBus": true,
+        "IsTrain": false,
+        "Variant": [
+          {
+            "Code": "38",
+            "Display": "",
+            "Direction": "N"
+          },
+          {
+            "Code": "38",
+            "Display": "",
+            "Direction": "S"
           }
         ]
       },
@@ -418,7 +791,85 @@
           },
           {
             "Code": "40",
+            "Display": "40 - Richmond Hill Ctr",
+            "Direction": "E"
+          },
+          {
+            "Code": "40",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "40",
+            "Display": "40 - Hamilton GO",
+            "Direction": "W"
+          }
+        ]
+      },
+      {
+        "Name": "Hamilton / Pickering",
+        "Code": "41",
+        "IsBus": true,
+        "IsTrain": false,
+        "Variant": [
+          {
+            "Code": "41C",
+            "Display": "",
+            "Direction": "E"
+          },
+          {
+            "Code": "41",
+            "Display": "41 - Pickering GO",
+            "Direction": "E"
+          },
+          {
+            "Code": "41A",
+            "Display": "41A - Pickering GO",
+            "Direction": "E"
+          },
+          {
+            "Code": "41B",
+            "Display": "41B - Centennial College",
+            "Direction": "E"
+          },
+          {
+            "Code": "41C",
+            "Display": "41C - Centennial College",
+            "Direction": "E"
+          },
+          {
+            "Code": "41D",
+            "Display": "41D - Centennial College",
+            "Direction": "E"
+          },
+          {
+            "Code": "41",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "41A",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "41",
+            "Display": "41 - Hamilton GO",
+            "Direction": "W"
+          },
+          {
+            "Code": "41A",
+            "Display": "41A - Square One",
+            "Direction": "W"
+          },
+          {
+            "Code": "41C",
+            "Display": "41C - Square One",
+            "Direction": "W"
+          },
+          {
+            "Code": "41D",
+            "Display": "41D - Bramalea GO",
             "Direction": "W"
           }
         ]
@@ -430,12 +881,75 @@
         "IsTrain": false,
         "Variant": [
           {
-            "Code": "47",
+            "Code": "47D",
+            "Display": "",
+            "Direction": "E"
+          },
+          {
+            "Code": "47G",
             "Display": "",
             "Direction": "E"
           },
           {
             "Code": "47",
+            "Display": "47  - Hwy. 407 Bus Term",
+            "Direction": "E"
+          },
+          {
+            "Code": "47D",
+            "Display": "47D - Hwy. 407 Bus Term",
+            "Direction": "E"
+          },
+          {
+            "Code": "47G",
+            "Display": "47G - Erin Mills",
+            "Direction": "E"
+          },
+          {
+            "Code": "47",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "47D",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "47G",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "47",
+            "Display": "47  - Hamilton GO",
+            "Direction": "W"
+          },
+          {
+            "Code": "47D",
+            "Display": "47D - McMaster U",
+            "Direction": "W"
+          },
+          {
+            "Code": "47G",
+            "Display": "47G - McMaster U",
+            "Direction": "W"
+          }
+        ]
+      },
+      {
+        "Name": "Guelph / Hwy 407 Terminal",
+        "Code": "48",
+        "IsBus": true,
+        "IsTrain": false,
+        "Variant": [
+          {
+            "Code": "48",
+            "Display": "48 - Hwy. 407 Bus Term",
+            "Direction": "E"
+          },
+          {
+            "Code": "48",
             "Display": "",
             "Direction": "W"
           }
@@ -448,14 +962,108 @@
         "IsTrain": false,
         "Variant": [
           {
-            "Code": "52",
+            "Code": "52A",
+            "Display": "52A - Hwy. 407 Bus Term",
+            "Direction": "W"
+          }
+        ]
+      },
+      {
+        "Name": "Markham / Hwy 407 Terminal",
+        "Code": "54",
+        "IsBus": true,
+        "IsTrain": false,
+        "Variant": [
+          {
+            "Code": "54",
             "Display": "",
             "Direction": "E"
           },
           {
-            "Code": "52",
+            "Code": "54",
+            "Display": "54 - Mount Joy GO",
+            "Direction": "E"
+          },
+          {
+            "Code": "54",
             "Display": "",
             "Direction": "W"
+          },
+          {
+            "Code": "54",
+            "Display": "54 - Hwy. 407 Bus Term",
+            "Direction": "W"
+          }
+        ]
+      },
+      {
+        "Name": "Oshawa / Oakville",
+        "Code": "56",
+        "IsBus": true,
+        "IsTrain": false,
+        "Variant": [
+          {
+            "Code": "56",
+            "Display": "",
+            "Direction": "E"
+          },
+          {
+            "Code": "56",
+            "Display": "56 - DC Oshawa GO",
+            "Direction": "E"
+          },
+          {
+            "Code": "56A",
+            "Display": "56A - DC Oshawa GO",
+            "Direction": "E"
+          },
+          {
+            "Code": "56B",
+            "Display": "56B - Hwy. 407 Bus Term",
+            "Direction": "E"
+          },
+          {
+            "Code": "56",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "56",
+            "Display": "56 - Oakville GO",
+            "Direction": "W"
+          },
+          {
+            "Code": "56A",
+            "Display": "56A - Square One",
+            "Direction": "W"
+          },
+          {
+            "Code": "56B",
+            "Display": "56B - Oakville GO",
+            "Direction": "W"
+          }
+        ]
+      },
+      {
+        "Name": "Richmond Hill",
+        "Code": "61",
+        "IsBus": true,
+        "IsTrain": false,
+        "Variant": [
+          {
+            "Code": "61",
+            "Display": "",
+            "Direction": "N"
+          },
+          {
+            "Code": "61",
+            "Display": "61 - Bloomington GO",
+            "Direction": "N"
+          },
+          {
+            "Code": "61",
+            "Display": "61 - Union Station",
+            "Direction": "S"
           }
         ]
       },
@@ -466,7 +1074,7 @@
         "IsTrain": false,
         "Variant": [
           {
-            "Code": "65C",
+            "Code": "65",
             "Display": "",
             "Direction": "N"
           },
@@ -481,7 +1089,58 @@
             "Direction": "S"
           },
           {
+            "Code": "65A",
+            "Display": "",
+            "Direction": "S"
+          },
+          {
             "Code": "65E",
+            "Display": "",
+            "Direction": "S"
+          },
+          {
+            "Code": "65",
+            "Display": "65 - Union Station",
+            "Direction": "S"
+          }
+        ]
+      },
+      {
+        "Name": "East Gwillimbury / Hwy 407 Terminal",
+        "Code": "66",
+        "IsBus": true,
+        "IsTrain": false,
+        "Variant": [
+          {
+            "Code": "66",
+            "Display": "",
+            "Direction": "N"
+          },
+          {
+            "Code": "66",
+            "Display": "",
+            "Direction": "S"
+          }
+        ]
+      },
+      {
+        "Name": "Keswick / North York",
+        "Code": "67",
+        "IsBus": true,
+        "IsTrain": false,
+        "Variant": [
+          {
+            "Code": "67",
+            "Display": "",
+            "Direction": "N"
+          },
+          {
+            "Code": "67",
+            "Display": "67 - Woodbine/404",
+            "Direction": "N"
+          },
+          {
+            "Code": "67",
             "Display": "",
             "Direction": "S"
           }
@@ -505,6 +1164,16 @@
           },
           {
             "Code": "68",
+            "Display": "68 - Barrie Terminal",
+            "Direction": "N"
+          },
+          {
+            "Code": "68E",
+            "Display": "68E - East Gwillimbury GO",
+            "Direction": "N"
+          },
+          {
+            "Code": "68",
             "Display": "",
             "Direction": "S"
           },
@@ -523,12 +1192,12 @@
         "Variant": [
           {
             "Code": "70B",
-            "Display": "",
+            "Display": "70B - Uxbridge",
             "Direction": "N"
           },
           {
             "Code": "70D",
-            "Display": "",
+            "Display": "70D - Uxbridge",
             "Direction": "N"
           },
           {
@@ -538,7 +1207,7 @@
           },
           {
             "Code": "70D",
-            "Display": "",
+            "Display": "70D - Mount Joy GO",
             "Direction": "S"
           }
         ]
@@ -551,22 +1220,27 @@
         "Variant": [
           {
             "Code": "71",
-            "Display": "",
+            "Display": "71  - Uxbridge",
             "Direction": "N"
           },
           {
             "Code": "71C",
-            "Display": "",
+            "Display": "71C - Old Elm GO",
             "Direction": "N"
           },
           {
-            "Code": "71",
+            "Code": "71E",
             "Display": "",
             "Direction": "S"
           },
           {
+            "Code": "71",
+            "Display": "71  - Union Station",
+            "Direction": "S"
+          },
+          {
             "Code": "71C",
-            "Display": "",
+            "Display": "71C - Union Station",
             "Direction": "S"
           }
         ]
@@ -583,7 +1257,7 @@
             "Direction": "N"
           },
           {
-            "Code": "88C",
+            "Code": "88B",
             "Display": "",
             "Direction": "N"
           },
@@ -593,7 +1267,7 @@
             "Direction": "S"
           },
           {
-            "Code": "88C",
+            "Code": "88B",
             "Display": "",
             "Direction": "S"
           }
@@ -630,7 +1304,32 @@
           },
           {
             "Code": "92",
+            "Display": "92 - DC Oshawa GO",
+            "Direction": "E"
+          },
+          {
+            "Code": "92A",
+            "Display": "92A - Dundas/Hwy 412 P+R",
+            "Direction": "E"
+          },
+          {
+            "Code": "92",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "92A",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "92",
+            "Display": "92 - Yorkdale Term",
+            "Direction": "W"
+          },
+          {
+            "Code": "92A",
+            "Display": "92A  - Yorkdale Term",
             "Direction": "W"
           }
         ]
@@ -648,7 +1347,17 @@
           },
           {
             "Code": "94",
+            "Display": "94  - Pickering GO",
+            "Direction": "E"
+          },
+          {
+            "Code": "94",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "94",
+            "Display": "94  - Square One",
             "Direction": "W"
           }
         ]
@@ -666,7 +1375,17 @@
           },
           {
             "Code": "96B",
+            "Display": "96B - DC Oshawa GO",
+            "Direction": "E"
+          },
+          {
+            "Code": "96B",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "96B",
+            "Display": "96B - Finch Terminal",
             "Direction": "W"
           }
         ]
@@ -712,6 +1431,26 @@
           },
           {
             "Code": "GT",
+            "Display": "GT - Bramalea GO",
+            "Direction": "W"
+          },
+          {
+            "Code": "GT",
+            "Display": "GT - Georgetown GO",
+            "Direction": "W"
+          },
+          {
+            "Code": "GT",
+            "Display": "GT - Guelph Central GO",
+            "Direction": "W"
+          },
+          {
+            "Code": "GT",
+            "Display": "GT - Kitchener GO",
+            "Direction": "W"
+          },
+          {
+            "Code": "GT",
             "Display": "GT - Mount Pleasant GO",
             "Direction": "W"
           }
@@ -753,6 +1492,11 @@
           },
           {
             "Code": "LW",
+            "Display": "LW - Hamilton GO Centre",
+            "Direction": "W"
+          },
+          {
+            "Code": "LW",
             "Display": "LW - Niagara Falls GO (VIA Station)",
             "Direction": "W"
           },
@@ -765,6 +1509,42 @@
             "Code": "LW",
             "Display": "LW - West Harbour GO",
             "Direction": "W"
+          }
+        ]
+      },
+      {
+        "Name": "Milton",
+        "Code": "MI",
+        "IsBus": false,
+        "IsTrain": true,
+        "Variant": [
+          {
+            "Code": "MI",
+            "Display": "MI - Union Station",
+            "Direction": "E"
+          },
+          {
+            "Code": "MI",
+            "Display": "MI - Milton GO",
+            "Direction": "W"
+          }
+        ]
+      },
+      {
+        "Name": "Richmond Hill",
+        "Code": "RH",
+        "IsBus": false,
+        "IsTrain": true,
+        "Variant": [
+          {
+            "Code": "RH",
+            "Display": "RH - Bloomington GO",
+            "Direction": "N"
+          },
+          {
+            "Code": "RH",
+            "Display": "RH - Union Station",
+            "Direction": "S"
           }
         ]
       },
