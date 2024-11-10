@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "TimeStamp": "2024-11-09 10:27:15",
+    "TimeStamp": "2024-11-10 10:25:23",
     "ErrorCode": "200",
     "ErrorMessage": "OK"
   },
@@ -23,6 +23,11 @@
             "Direction": "E"
           },
           {
+            "Code": "12B",
+            "Display": "12B - Burlington GO",
+            "Direction": "E"
+          },
+          {
             "Code": "12",
             "Display": "",
             "Direction": "W"
@@ -30,6 +35,16 @@
           {
             "Code": "12B",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "12",
+            "Display": "12  - Niagara Falls",
+            "Direction": "W"
+          },
+          {
+            "Code": "12B",
+            "Display": "12B - Niagara Falls",
             "Direction": "W"
           }
         ]
@@ -49,6 +64,11 @@
             "Code": "15",
             "Display": "",
             "Direction": "W"
+          },
+          {
+            "Code": "15",
+            "Display": "15 - Brantford Term",
+            "Direction": "W"
           }
         ]
       },
@@ -65,7 +85,17 @@
           },
           {
             "Code": "16",
+            "Display": "16  - Union Station",
+            "Direction": "E"
+          },
+          {
+            "Code": "16",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "16",
+            "Display": "16  - Hamilton GO",
             "Direction": "W"
           }
         ]
@@ -82,18 +112,23 @@
             "Direction": "E"
           },
           {
-            "Code": "18A",
-            "Display": "",
-            "Direction": "E"
-          },
-          {
             "Code": "18B",
             "Display": "",
             "Direction": "E"
           },
           {
+            "Code": "18",
+            "Display": "18  - Aldershot GO",
+            "Direction": "E"
+          },
+          {
+            "Code": "18A",
+            "Display": "18A - Union Station",
+            "Direction": "E"
+          },
+          {
             "Code": "18J",
-            "Display": "",
+            "Display": "18J - Union Station",
             "Direction": "E"
           },
           {
@@ -102,28 +137,33 @@
             "Direction": "W"
           },
           {
-            "Code": "18A",
-            "Display": "",
-            "Direction": "W"
-          },
-          {
-            "Code": "18D",
-            "Display": "",
-            "Direction": "W"
-          },
-          {
-            "Code": "18F",
-            "Display": "",
-            "Direction": "W"
-          },
-          {
-            "Code": "18H",
+            "Code": "18C",
             "Display": "",
             "Direction": "W"
           },
           {
             "Code": "18J",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "18",
+            "Display": "18  - Hamilton GO",
+            "Direction": "W"
+          },
+          {
+            "Code": "18A",
+            "Display": "18A - West Harbour GO",
+            "Direction": "W"
+          },
+          {
+            "Code": "18H",
+            "Display": "18H - Oakville GO",
+            "Direction": "W"
+          },
+          {
+            "Code": "18J",
+            "Display": "18J - West Harbour GO",
             "Direction": "W"
           }
         ]
@@ -141,7 +181,17 @@
           },
           {
             "Code": "19",
+            "Display": "19 - Finch Terminal",
+            "Direction": "E"
+          },
+          {
+            "Code": "19",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "19",
+            "Display": "19 - Square One",
             "Direction": "W"
           }
         ]
@@ -216,6 +266,11 @@
             "Direction": "E"
           },
           {
+            "Code": "25C",
+            "Display": "25C - Square One",
+            "Direction": "E"
+          },
+          {
             "Code": "25",
             "Display": "",
             "Direction": "W"
@@ -228,6 +283,11 @@
           {
             "Code": "25L",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "25C",
+            "Display": "25C - U of Waterloo",
             "Direction": "W"
           }
         ]
@@ -249,6 +309,11 @@
             "Direction": "E"
           },
           {
+            "Code": "27B",
+            "Display": "27B - Finch Terminal",
+            "Direction": "E"
+          },
+          {
             "Code": "27A",
             "Display": "",
             "Direction": "W"
@@ -256,6 +321,11 @@
           {
             "Code": "27B",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "27B",
+            "Display": "27B - Meadowvale GO",
             "Direction": "W"
           }
         ]
@@ -268,7 +338,7 @@
         "Variant": [
           {
             "Code": "29",
-            "Display": "",
+            "Display": "29 - Kipling Bus Terminal",
             "Direction": "E"
           },
           {
@@ -382,12 +452,32 @@
           },
           {
             "Code": "33",
+            "Display": "33 - York Mills Term",
+            "Direction": "E"
+          },
+          {
+            "Code": "33G",
+            "Display": "33G - Mount Pleasant GO",
+            "Direction": "E"
+          },
+          {
+            "Code": "33",
             "Display": "",
             "Direction": "W"
           },
           {
             "Code": "33G",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "33",
+            "Display": "33 - U of Guelph",
+            "Direction": "W"
+          },
+          {
+            "Code": "33G",
+            "Display": "33G - Georgetown GO",
             "Direction": "W"
           }
         ]
@@ -441,7 +531,17 @@
           },
           {
             "Code": "47",
+            "Display": "47  - Hwy. 407 Bus Term",
+            "Direction": "E"
+          },
+          {
+            "Code": "47",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "47",
+            "Display": "47  - Hamilton GO",
             "Direction": "W"
           }
         ]
@@ -454,12 +554,17 @@
         "Variant": [
           {
             "Code": "52",
-            "Display": "",
+            "Display": "52 - DC Oshawa GO",
             "Direction": "E"
           },
           {
             "Code": "52",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "52",
+            "Display": "52 - Hwy. 407 Bus Term",
             "Direction": "W"
           }
         ]
@@ -510,6 +615,11 @@
           },
           {
             "Code": "68",
+            "Display": "68 - Barrie Terminal",
+            "Direction": "N"
+          },
+          {
+            "Code": "68",
             "Display": "",
             "Direction": "S"
           },
@@ -528,12 +638,12 @@
         "Variant": [
           {
             "Code": "70B",
-            "Display": "",
+            "Display": "70B - Uxbridge",
             "Direction": "N"
           },
           {
             "Code": "70D",
-            "Display": "",
+            "Display": "70D - Uxbridge",
             "Direction": "N"
           },
           {
@@ -543,7 +653,7 @@
           },
           {
             "Code": "70D",
-            "Display": "",
+            "Display": "70D - Mount Joy GO",
             "Direction": "S"
           }
         ]
@@ -556,22 +666,22 @@
         "Variant": [
           {
             "Code": "71",
-            "Display": "",
+            "Display": "71  - Uxbridge",
             "Direction": "N"
           },
           {
             "Code": "71C",
-            "Display": "",
+            "Display": "71C - Old Elm GO",
             "Direction": "N"
           },
           {
             "Code": "71",
-            "Display": "",
+            "Display": "71  - Union Station",
             "Direction": "S"
           },
           {
             "Code": "71C",
-            "Display": "",
+            "Display": "71C - Union Station",
             "Direction": "S"
           }
         ]
@@ -616,8 +726,8 @@
             "Direction": "E"
           },
           {
-            "Code": "90E",
-            "Display": "",
+            "Code": "90Y",
+            "Display": "90Y - Pickering GO",
             "Direction": "E"
           },
           {
@@ -626,8 +736,8 @@
             "Direction": "W"
           },
           {
-            "Code": "90E",
-            "Display": "",
+            "Code": "90Y",
+            "Display": "90Y - Union Station",
             "Direction": "W"
           }
         ]
@@ -645,7 +755,17 @@
           },
           {
             "Code": "92",
+            "Display": "92 - DC Oshawa GO",
+            "Direction": "E"
+          },
+          {
+            "Code": "92",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "92",
+            "Display": "92 - Yorkdale Term",
             "Direction": "W"
           }
         ]
@@ -663,7 +783,17 @@
           },
           {
             "Code": "94",
+            "Display": "94  - Pickering GO",
+            "Direction": "E"
+          },
+          {
+            "Code": "94",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "94",
+            "Display": "94  - Square One",
             "Direction": "W"
           }
         ]
@@ -681,7 +811,17 @@
           },
           {
             "Code": "96B",
+            "Display": "96B - DC Oshawa GO",
+            "Direction": "E"
+          },
+          {
+            "Code": "96B",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "96B",
+            "Display": "96B - Finch Terminal",
             "Direction": "W"
           }
         ]
