@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "TimeStamp": "2024-11-13 10:28:46",
+    "TimeStamp": "2024-11-14 10:28:52",
     "ErrorCode": "200",
     "ErrorMessage": "OK"
   },
@@ -78,6 +78,11 @@
           {
             "Code": "12B",
             "Display": "12B - Niagara Falls",
+            "Direction": "W"
+          },
+          {
+            "Code": "12S",
+            "Display": "12S - SPECIAL",
             "Direction": "W"
           }
         ]
@@ -184,6 +189,11 @@
           },
           {
             "Code": "18",
+            "Display": "18  - Aldershot GO",
+            "Direction": "E"
+          },
+          {
+            "Code": "18",
             "Display": "",
             "Direction": "W"
           },
@@ -195,6 +205,11 @@
           {
             "Code": "18J",
             "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "18",
+            "Display": "18  - Hamilton GO",
             "Direction": "W"
           }
         ]
@@ -341,6 +356,11 @@
           },
           {
             "Code": "25",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "25C",
             "Display": "",
             "Direction": "W"
           },
@@ -537,16 +557,6 @@
             "Direction": "W"
           },
           {
-            "Code": "31K",
-            "Display": "",
-            "Direction": "W"
-          },
-          {
-            "Code": "31L",
-            "Display": "",
-            "Direction": "W"
-          },
-          {
             "Code": "31M",
             "Display": "",
             "Direction": "W"
@@ -690,6 +700,11 @@
           {
             "Code": "33E",
             "Display": "33E - Georgetown GO",
+            "Direction": "W"
+          },
+          {
+            "Code": "33G",
+            "Display": "33G - Georgetown GO",
             "Direction": "W"
           }
         ]
@@ -1084,6 +1099,16 @@
             "Direction": "N"
           },
           {
+            "Code": "65G",
+            "Display": "65G - Aurora GO",
+            "Direction": "N"
+          },
+          {
+            "Code": "65H",
+            "Display": "65H - Aurora GO",
+            "Direction": "N"
+          },
+          {
             "Code": "65",
             "Display": "",
             "Direction": "S"
@@ -1099,8 +1124,8 @@
             "Direction": "S"
           },
           {
-            "Code": "65",
-            "Display": "65 - Union Station",
+            "Code": "65S",
+            "Display": "65S - SPECIAL",
             "Direction": "S"
           }
         ]
@@ -1173,6 +1198,11 @@
             "Direction": "N"
           },
           {
+            "Code": "68S",
+            "Display": "68S - SPECIAL",
+            "Direction": "N"
+          },
+          {
             "Code": "68",
             "Display": "",
             "Direction": "S"
@@ -1229,11 +1259,6 @@
             "Direction": "N"
           },
           {
-            "Code": "71E",
-            "Display": "",
-            "Direction": "S"
-          },
-          {
             "Code": "71",
             "Display": "71  - Union Station",
             "Direction": "S"
@@ -1241,6 +1266,11 @@
           {
             "Code": "71C",
             "Display": "71C - Union Station",
+            "Direction": "S"
+          },
+          {
+            "Code": "71S",
+            "Display": "71S - SPECIAL",
             "Direction": "S"
           }
         ]
@@ -1488,6 +1518,11 @@
           {
             "Code": "LW",
             "Display": "LW - Aldershot GO",
+            "Direction": "W"
+          },
+          {
+            "Code": "LW",
+            "Display": "LW - Burlington GO",
             "Direction": "W"
           },
           {
