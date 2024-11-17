@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "TimeStamp": "2024-11-16 10:28:22",
+    "TimeStamp": "2024-11-17 10:26:33",
     "ErrorCode": "200",
     "ErrorMessage": "OK"
   },
@@ -45,11 +45,6 @@
           {
             "Code": "12B",
             "Display": "12B - Niagara Falls",
-            "Direction": "W"
-          },
-          {
-            "Code": "12S",
-            "Display": "12S - SPECIAL",
             "Direction": "W"
           }
         ]
@@ -142,6 +137,16 @@
             "Direction": "W"
           },
           {
+            "Code": "18C",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "18J",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
             "Code": "18",
             "Display": "18  - Hamilton GO",
             "Direction": "W"
@@ -149,16 +154,6 @@
           {
             "Code": "18A",
             "Display": "18A - West Harbour GO",
-            "Direction": "W"
-          },
-          {
-            "Code": "18D",
-            "Display": "18D - Clarkson GO",
-            "Direction": "W"
-          },
-          {
-            "Code": "18F",
-            "Display": "18F - Hamilton GO",
             "Direction": "W"
           },
           {
@@ -378,16 +373,6 @@
             "Code": "30A",
             "Display": "",
             "Direction": "W"
-          },
-          {
-            "Code": "30",
-            "Display": "30 - U of Waterloo",
-            "Direction": "W"
-          },
-          {
-            "Code": "30A",
-            "Display": "30A - U of Waterloo",
-            "Direction": "W"
           }
         ]
       },
@@ -481,11 +466,6 @@
             "Direction": "W"
           },
           {
-            "Code": "33F",
-            "Display": "",
-            "Direction": "W"
-          },
-          {
             "Code": "33G",
             "Display": "",
             "Direction": "W"
@@ -493,11 +473,6 @@
           {
             "Code": "33",
             "Display": "33 - U of Guelph",
-            "Direction": "W"
-          },
-          {
-            "Code": "33B",
-            "Display": "33B - Mount Pleasant GO",
             "Direction": "W"
           },
           {
@@ -520,17 +495,7 @@
           },
           {
             "Code": "36B",
-            "Display": "36B - York Mills Term",
-            "Direction": "E"
-          },
-          {
-            "Code": "36B",
             "Display": "",
-            "Direction": "W"
-          },
-          {
-            "Code": "36B",
-            "Display": "36B - Bramalea Term",
             "Direction": "W"
           }
         ]
@@ -717,11 +682,6 @@
           {
             "Code": "71C",
             "Display": "71C - Union Station",
-            "Direction": "S"
-          },
-          {
-            "Code": "71S",
-            "Display": "71S - SPECIAL",
             "Direction": "S"
           }
         ]
@@ -938,11 +898,6 @@
           },
           {
             "Code": "LW",
-            "Display": "LW - Burlington GO",
-            "Direction": "W"
-          },
-          {
-            "Code": "LW",
             "Display": "LW - Niagara Falls GO (VIA Station)",
             "Direction": "W"
           },
@@ -954,19 +909,6 @@
           {
             "Code": "LW",
             "Display": "LW - West Harbour GO",
-            "Direction": "W"
-          }
-        ]
-      },
-      {
-        "Name": "Milton",
-        "Code": "MI",
-        "IsBus": false,
-        "IsTrain": true,
-        "Variant": [
-          {
-            "Code": "MI",
-            "Display": "MI - Milton GO",
             "Direction": "W"
           }
         ]
