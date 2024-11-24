@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "TimeStamp": "2024-11-23 10:27:13",
+    "TimeStamp": "2024-11-24 10:26:19",
     "ErrorCode": "200",
     "ErrorMessage": "OK"
   },
@@ -29,11 +29,6 @@
           },
           {
             "Code": "12B",
-            "Display": "",
-            "Direction": "W"
-          },
-          {
-            "Code": "12S",
             "Display": "",
             "Direction": "W"
           }
@@ -112,12 +107,7 @@
             "Direction": "W"
           },
           {
-            "Code": "18D",
-            "Display": "",
-            "Direction": "W"
-          },
-          {
-            "Code": "18F",
+            "Code": "18C",
             "Display": "",
             "Direction": "W"
           },
@@ -391,16 +381,6 @@
             "Direction": "W"
           },
           {
-            "Code": "33B",
-            "Display": "",
-            "Direction": "W"
-          },
-          {
-            "Code": "33F",
-            "Display": "",
-            "Direction": "W"
-          },
-          {
             "Code": "33G",
             "Display": "",
             "Direction": "W"
@@ -588,11 +568,6 @@
             "Code": "71C",
             "Display": "",
             "Direction": "S"
-          },
-          {
-            "Code": "71S",
-            "Display": "",
-            "Direction": "S"
           }
         ]
       },
@@ -778,11 +753,6 @@
           },
           {
             "Code": "LW",
-            "Display": "LW - Burlington GO",
-            "Direction": "W"
-          },
-          {
-            "Code": "LW",
             "Display": "LW - Niagara Falls GO (VIA Station)",
             "Direction": "W"
           },
@@ -804,6 +774,11 @@
         "IsBus": false,
         "IsTrain": true,
         "Variant": [
+          {
+            "Code": "MI",
+            "Display": "MI - Union Station",
+            "Direction": "E"
+          },
           {
             "Code": "MI",
             "Display": "MI - Milton GO",
