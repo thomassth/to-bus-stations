@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "TimeStamp": "2024-11-28 10:29:47",
+    "TimeStamp": "2024-11-29 10:29:44",
     "ErrorCode": "200",
     "ErrorMessage": "OK"
   },
@@ -74,6 +74,11 @@
             "Direction": "E"
           },
           {
+            "Code": "15A",
+            "Display": "",
+            "Direction": "E"
+          },
+          {
             "Code": "15",
             "Display": "",
             "Direction": "W"
@@ -138,11 +143,6 @@
             "Direction": "E"
           },
           {
-            "Code": "18J",
-            "Display": "",
-            "Direction": "E"
-          },
-          {
             "Code": "18",
             "Display": "",
             "Direction": "W"
@@ -153,7 +153,17 @@
             "Direction": "W"
           },
           {
-            "Code": "18J",
+            "Code": "18R",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "18T",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "18W",
             "Display": "",
             "Direction": "W"
           }
@@ -370,6 +380,11 @@
           },
           {
             "Code": "30A",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "30E",
             "Display": "",
             "Direction": "W"
           }
@@ -1002,12 +1017,22 @@
             "Direction": "N"
           },
           {
+            "Code": "88C",
+            "Display": "",
+            "Direction": "N"
+          },
+          {
             "Code": "88",
             "Display": "",
             "Direction": "S"
           },
           {
             "Code": "88B",
+            "Display": "",
+            "Direction": "S"
+          },
+          {
+            "Code": "88C",
             "Display": "",
             "Direction": "S"
           }
@@ -1185,6 +1210,11 @@
         "IsBus": false,
         "IsTrain": true,
         "Variant": [
+          {
+            "Code": "LW",
+            "Display": "LW - Oakville GO",
+            "Direction": "E"
+          },
           {
             "Code": "LW",
             "Display": "LW - Union Station",
