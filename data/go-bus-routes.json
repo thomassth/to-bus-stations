@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "TimeStamp": "2024-11-30 10:26:55",
+    "TimeStamp": "2024-12-01 10:27:42",
     "ErrorCode": "200",
     "ErrorMessage": "OK"
   },
@@ -112,12 +112,7 @@
             "Direction": "W"
           },
           {
-            "Code": "18D",
-            "Display": "",
-            "Direction": "W"
-          },
-          {
-            "Code": "18F",
+            "Code": "18C",
             "Display": "",
             "Direction": "W"
           },
