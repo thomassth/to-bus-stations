@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "TimeStamp": "2024-12-19 10:29:09",
+    "TimeStamp": "2024-12-20 10:26:54",
     "ErrorCode": "200",
     "ErrorMessage": "OK"
   },
@@ -74,6 +74,11 @@
             "Direction": "E"
           },
           {
+            "Code": "15A",
+            "Display": "",
+            "Direction": "E"
+          },
+          {
             "Code": "15",
             "Display": "",
             "Direction": "W"
@@ -138,22 +143,12 @@
             "Direction": "E"
           },
           {
-            "Code": "18J",
-            "Display": "",
-            "Direction": "E"
-          },
-          {
             "Code": "18",
             "Display": "",
             "Direction": "W"
           },
           {
             "Code": "18C",
-            "Display": "",
-            "Direction": "W"
-          },
-          {
-            "Code": "18J",
             "Display": "",
             "Direction": "W"
           }
@@ -370,6 +365,11 @@
           },
           {
             "Code": "30A",
+            "Display": "",
+            "Direction": "W"
+          },
+          {
+            "Code": "30E",
             "Display": "",
             "Direction": "W"
           }
@@ -1002,12 +1002,22 @@
             "Direction": "N"
           },
           {
+            "Code": "88C",
+            "Display": "",
+            "Direction": "N"
+          },
+          {
             "Code": "88",
             "Display": "",
             "Direction": "S"
           },
           {
             "Code": "88B",
+            "Display": "",
+            "Direction": "S"
+          },
+          {
+            "Code": "88C",
             "Display": "",
             "Direction": "S"
           }
