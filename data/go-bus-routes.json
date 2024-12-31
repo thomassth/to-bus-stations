@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "TimeStamp": "2024-12-30 10:26:54",
+    "TimeStamp": "2024-12-31 10:26:08",
     "ErrorCode": "200",
     "ErrorMessage": "OK"
   },
@@ -1058,11 +1058,6 @@
           },
           {
             "Code": "GT",
-            "Display": "GT - Guelph Central GO",
-            "Direction": "W"
-          },
-          {
-            "Code": "GT",
             "Display": "GT - Kitchener GO",
             "Direction": "W"
           },
@@ -1105,6 +1100,11 @@
           {
             "Code": "LW",
             "Display": "LW - Aldershot GO",
+            "Direction": "W"
+          },
+          {
+            "Code": "LW",
+            "Display": "LW - Burlington GO",
             "Direction": "W"
           },
           {
