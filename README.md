@@ -1,5 +1,8 @@
 # to-bus-stations
 
+[![Refresh Feed](https://github.com/thomassth/to-bus-stations/actions/workflows/main.yml/badge.svg)](https://github.com/thomassth/to-bus-stations/actions/workflows/main.yml)
+[![Python workflow](https://github.com/thomassth/to-bus-stations/actions/workflows/compute.yml/badge.svg)](https://github.com/thomassth/to-bus-stations/actions/workflows/compute.yml)
+
 Inspired by https://github.com/hkbus/hk-bus-crawling, this repo crawl, parse & hosts **useful, static** transit data.
 
 Main consumer is https://tobus.ca/.
