@@ -1,0 +1,31 @@
+name: Python workflow
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Refresh Feed"]
+    types:
+      - completed
+jobs:
+  data-parsing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Crawl TTC Stops
+        working-directory: ./crawling
+        run: python ttc-stops.py
+      - name: Extract TTC Stops
+        working-directory: ./processor
+        run: python extract-stops.py
+      - name: Parse TTC subway closures
+        working-directory: ./processor
+        run: python parse-subway-closures.py
+      - name: Commit and push changes
+        run: |
+          git commit -am "Changes from GitHub Actions python workflow"
+          git push
