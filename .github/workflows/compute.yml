@@ -20,7 +20,8 @@ jobs:
         working-directory: ./processor
         run: python extract-stops.py
       - name: Parse TTC subway closures
-        run: python parse-subway-closures.py
+        working-directory: ./processor
+        run: python ttc-subway-closures.py
       - name: Commit and push changes
         run: |
           git commit -am "Changes from GitHub Actions python workflow"
