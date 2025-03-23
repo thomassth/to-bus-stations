@@ -18,6 +18,12 @@ jobs:
           endpoint: https://retro.umoiq.com/service/publicJSONFeed?command=routeList&a=ttc
           retry: true
           save-name: ttc-routes
+      - name: Fetch TTC API Data
+        uses: JamesIves/fetch-api-data-action@v2
+        with:
+          endpoint: https://www.ttc.ca//sxa/search/results/?s={99D7699F-DB47-4BB1-8946-77561CE7B320}&itemid={72CC555F-9128-4581-AD12-3D04AB1C87BA}&sig=&autoFireSearch=true&v={23DC07D4-6BAC-4B98-A9CC-07606C5B1322}&p=10&e=0&o=EffectiveStartDate,Ascending
+          retry: true
+          save-name: ttc-subway-closures
       # - name: Get current date
       #   id: date
       #   run: echo "::set-output name=date::$(date +'%Y%m%d')"
