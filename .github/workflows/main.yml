@@ -43,5 +43,7 @@ jobs:
         run: python ttc-stops.py
       - name: Commit and push changes
         run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
           git commit -am "Changes from TTC stops crawling"
           git push
