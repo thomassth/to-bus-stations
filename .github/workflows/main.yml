@@ -24,15 +24,6 @@ jobs:
           endpoint: https://www.ttc.ca//sxa/search/results/?s={99D7699F-DB47-4BB1-8946-77561CE7B320}&itemid={72CC555F-9128-4581-AD12-3D04AB1C87BA}&sig=&autoFireSearch=true&v={23DC07D4-6BAC-4B98-A9CC-07606C5B1322}&p=10&e=0&o=EffectiveStartDate,Ascending
           retry: true
           save-name: ttc-subway-closures
-      # - name: Get current date
-      #   id: date
-      #   run: echo "::set-output name=date::$(date +'%Y%m%d')"
-      # - name: Fetch GO bus API Data
-      #   uses: JamesIves/fetch-api-data-action@v2
-      #   with:
-      #     endpoint: https://api.openmetrolinx.com/OpenDataAPI/api/V1/Schedule/Line/All/${{ steps.date.outputs.date }}?key=${{secrets.GO_ACCESS}}
-      #     retry: true
-      #     save-name: go-bus-routes
       - name: Build and Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v4
         with:
@@ -41,3 +32,16 @@ jobs:
           target-folder: data # Saves the data into the 'data' directory on the master branch.
           commit-message: update fetched API data # The commit message.
           clean: false
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Install dependencies
+        run: pip install requests
+      - name: Crawl TTC Stops
+        working-directory: ./crawling
+        run: python ttc-stops.py
+      - name: Commit and push changes
+        run: |
+          git commit -am "Changes from TTC stops crawling"
+          git push

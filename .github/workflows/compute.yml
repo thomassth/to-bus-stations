@@ -16,16 +16,10 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
-      - name: Install dependencies
-        run: pip install requests
-      - name: Crawl TTC Stops
-        working-directory: ./crawling
-        run: python ttc-stops.py
       - name: Extract TTC Stops
         working-directory: ./processor
         run: python extract-stops.py
       - name: Parse TTC subway closures
-        working-directory: ./processor
         run: python parse-subway-closures.py
       - name: Commit and push changes
         run: |
