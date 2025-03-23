@@ -24,6 +24,9 @@ jobs:
           endpoint: https://www.ttc.ca//sxa/search/results/?s={99D7699F-DB47-4BB1-8946-77561CE7B320}&itemid={72CC555F-9128-4581-AD12-3D04AB1C87BA}&sig=&autoFireSearch=true&v={23DC07D4-6BAC-4B98-A9CC-07606C5B1322}&p=10&e=0&o=EffectiveStartDate,Ascending
           retry: true
           save-name: ttc-subway-closures
+      - name: Remove unneeded metadata from ttc-subway-closures.json
+        run: |
+          jq 'del(.TotalTime, .QueryTime)' fetch-api-data-action/ttc-subway-closures.json > temp.json && mv temp.json fetch-api-data-action/ttc-subway-closures.json
       - name: Build and Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v4
         with:
@@ -32,6 +35,12 @@ jobs:
           target-folder: data # Saves the data into the 'data' directory on the master branch.
           commit-message: update fetched API data # The commit message.
           clean: false
+
+  crawl-ttc-stops:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
