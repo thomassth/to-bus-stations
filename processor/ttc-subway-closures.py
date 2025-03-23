@@ -26,12 +26,14 @@ closures = [
         'end_date': parse_date(clean_text(soup.select_one('.field-endeffectivedate').get_text())),
         'line': clean_text(soup.select_one('.field-routename').get_text()),        
         'text': clean_text(soup.get_text()),
+        'url': f"https://www.ttc.ca{results[i]['Url']}"
 
     }
-    for html in html_parts
+    for i, html in enumerate(html_parts)
 ]
 
 # %%
+from datetime import timedelta
 from pathlib import Path
 
 # Part 3: save the data
@@ -40,26 +42,29 @@ from pathlib import Path
 path = '../data/ttc/subway-closures'
 Path(path).mkdir(parents=True, exist_ok=True)
 
-closuresByDate = []
 # sort by start_date
-closures_by_start_date = {}
+closures_by_date = {}
 for closure in closures:
     start_date = closure['start_date']
-    if start_date not in closures_by_start_date:
-        closures_by_start_date[start_date] = []
-    closures_by_start_date[start_date].append(closure)
-
-closuresByDate = [closures_by_start_date[date] for date in sorted(closures_by_start_date)]
-
-print(closuresByDate)
+    end_date = closure['end_date']
+    
+    # Add closure to dates between start_date and end_date
+    current_date = datetime.strptime(start_date, '%Y-%m-%d').date()
+    end_date_obj = datetime.strptime(end_date, '%Y-%m-%d').date()
+    while current_date <= end_date_obj:
+        date_str = current_date.isoformat()
+        if date_str not in closures_by_date:
+            closures_by_date[date_str] = []
+        closures_by_date[date_str].append(closure)
+        current_date += timedelta(days=1)
 
 # Save each object to a separate JSON file
-for closure in closuresByDate:
-    filename = f"{closure[0]['start_date']}.json"
+for date, closures in closures_by_date.items():
+    filename = f"{date}.json"
     filepath = Path(path) / filename
     with open(filepath, 'w') as outfile:
         print('now processing ' + str(filename))
-        json.dump(closure, outfile)
+        json.dump(closures, outfile)
 
 print('done')
 
