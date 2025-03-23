@@ -28,5 +28,5 @@ jobs:
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git commit -am "Changes from GitHub Actions python workflow"
+          git diff-index --quiet HEAD || git commit -am "Changes from GitHub Actions python workflow"
           git push
