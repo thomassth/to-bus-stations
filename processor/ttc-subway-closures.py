@@ -25,7 +25,7 @@ closures = [
         'start_date': parse_date(clean_text((soup := BeautifulSoup(html, 'html.parser')).select_one('.field-starteffectivedate').get_text())),
         'end_date': parse_date(clean_text(soup.select_one('.field-endeffectivedate').get_text())),
         'line': clean_text(soup.select_one('.field-routename').get_text()),        
-        'text': clean_text(soup.get_text()),
+        'text': clean_text(soup.select_one('.field-satitle').get_text()),
         'url': f"https://www.ttc.ca{results[i]['Url']}"
 
     }
