@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 4,
+  "Count": 6,
   "Results": [
     {
       "Id": "2d78de2d-0fe1-4056-8ee4-31d49190f891",
@@ -26,6 +26,22 @@
       "Url": "/service-advisories/subway-service/Line-1-Finch-to-St-Clair-Nightly-early-closures-Mar-31-to-Apr-4-2025",
       "Name": null,
       "Html": "<a title=\"Line 1 Finch to St Clair Nightly early closures Mar 31 to Apr 4 2025\" href=\"/service-advisories/subway-service/Line-1-Finch-to-St-Clair-Nightly-early-closures-Mar-31-to-Apr-4-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. on Monday, March 31 to Thursday, April 3, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">March 31, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 3, 2025</span></div>"
+    },
+    {
+      "Id": "99cf45a5-417e-4242-8426-60f81c5d20b1",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Warden to Kennedy Full weekend closure Apr 4 to 6 2025",
+      "Url": "/service-advisories/subway-service/Line-2-Warden-to-Kennedy-Full-weekend-closure-Apr-4-to-6-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Warden to Kennedy Full weekend closure Apr 4 to 6 2025\" href=\"/service-advisories/subway-service/Line-2-Warden-to-Kennedy-Full-weekend-closure-Apr-4-to-6-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Warden to Kennedy stations – Full weekend closure starting at 11 p.m. on Friday, April 4 to Sunday, April 6, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 4, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 6, 2025</span></div>"
+    },
+    {
+      "Id": "c5dc9a34-d454-4c97-bc1e-1a902b8636b1",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Sheppard West to Lawrence West Full weekend closure Apr 5 and 6 2025",
+      "Url": "/service-advisories/subway-service/Line-1-Sheppard-West-to-Lawrence-West-Full-weekend-closure-Apr-5-and-6-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Sheppard West to Lawrence West Full weekend closure Apr 5 and 6 2025\" href=\"/service-advisories/subway-service/Line-1-Sheppard-West-to-Lawrence-West-Full-weekend-closure-Apr-5-and-6-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard West to Lawrence West stations – Full weekend closure on Saturday, April 5 and Sunday, April 6, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 5, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 6, 2025</span></div>"
     }
   ]
 }
