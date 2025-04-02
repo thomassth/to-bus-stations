@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 7,
+  "Count": 6,
   "Results": [
     {
       "Id": "fcb40b59-7d7e-4f7d-a5f7-114fa652f6cd",
@@ -34,14 +34,6 @@
       "Url": "/service-advisories/subway-service/Line-2-Ossington-and-Jane-Nightly-early-closures-Apr-7-to-11-2025",
       "Name": null,
       "Html": "<a title=\"Line 2 Ossington and Jane Nightly early closures Apr 7 to 11 2025\" href=\"/service-advisories/subway-service/Line-2-Ossington-and-Jane-Nightly-early-closures-Apr-7-to-11-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Ossington and Jane stations – Nightly early closures starting at 11 p.m. on Monday, April 7 to Friday, April 11, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 7, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 11, 2025</span></div>"
-    },
-    {
-      "Id": "0241eda0-4a87-49cd-ba46-dc091ad33a45",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Vaughan Metropolitan Centre to Finch West Limited nightly service Apr 7 to 10 2025",
-      "Url": "/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Finch-West-Limited-nightly-service-Apr-7-to-10-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 1 Vaughan Metropolitan Centre to Finch West Limited nightly service Apr 7 to 10 2025\" href=\"/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Finch-West-Limited-nightly-service-Apr-7-to-10-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Vaughan Metropolitan Centre to Finch West stations – Limited nightly service starting at 11 p.m. on Monday, April 7 to Thursday, April 10, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 7, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 10, 2025</span></div>"
     },
     {
       "Id": "6a06a799-30e3-4214-ba1f-69486b6122bf",
