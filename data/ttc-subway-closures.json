@@ -1,24 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 6,
+  "Count": 10,
   "Results": [
-    {
-      "Id": "99cf45a5-417e-4242-8426-60f81c5d20b1",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Warden to Kennedy Full weekend closure Apr 4 to 6 2025",
-      "Url": "/service-advisories/subway-service/Line-2-Warden-to-Kennedy-Full-weekend-closure-Apr-4-to-6-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Warden to Kennedy Full weekend closure Apr 4 to 6 2025\" href=\"/service-advisories/subway-service/Line-2-Warden-to-Kennedy-Full-weekend-closure-Apr-4-to-6-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Warden to Kennedy stations – Full weekend closure starting at 11 p.m. on Friday, April 4 to Sunday, April 6, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 4, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 6, 2025</span></div>"
-    },
-    {
-      "Id": "c5dc9a34-d454-4c97-bc1e-1a902b8636b1",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Sheppard West to Lawrence West Full weekend closure Apr 5 and 6 2025",
-      "Url": "/service-advisories/subway-service/Line-1-Sheppard-West-to-Lawrence-West-Full-weekend-closure-Apr-5-and-6-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 1 Sheppard West to Lawrence West Full weekend closure Apr 5 and 6 2025\" href=\"/service-advisories/subway-service/Line-1-Sheppard-West-to-Lawrence-West-Full-weekend-closure-Apr-5-and-6-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard West to Lawrence West stations – Full weekend closure on Saturday, April 5 and Sunday, April 6, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 5, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 6, 2025</span></div>"
-    },
     {
       "Id": "bbf510ac-76b7-4277-a53b-ac17da835350",
       "Language": "en",
@@ -42,6 +26,54 @@
       "Url": "/service-advisories/subway-service/Line-2-Ossington-to-Jane-Full-weekend-closure-Apr-12-and-13-2025",
       "Name": null,
       "Html": "<a title=\"Line 2 Ossington to Jane Full weekend closure Apr 12 and 13 2025\" href=\"/service-advisories/subway-service/Line-2-Ossington-to-Jane-Full-weekend-closure-Apr-12-and-13-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Ossington to Jane stations – Full weekend closure on Saturday, April 12 and Sunday, April 13, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 12, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 13, 2025</span></div>"
+    },
+    {
+      "Id": "2f2afe07-1e05-43f5-b46b-07c224c17365",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Ossington to Jane Nightly early closures Apr 14 to 17 2025",
+      "Url": "/service-advisories/subway-service/Line-2-Ossington-to-Jane-Nightly-early-closures-Apr-14-to-17-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Ossington to Jane Nightly early closures Apr 14 to 17 2025\" href=\"/service-advisories/subway-service/Line-2-Ossington-to-Jane-Nightly-early-closures-Apr-14-to-17-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Ossington to Jane stations – Nightly early closures starting at 11 p.m. on Monday, April 14 to Thursday, April 17, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 14, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 17, 2025</span></div>"
+    },
+    {
+      "Id": "549781a0-a7f0-4c7f-ba50-01e15e2ec3f6",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Broadview Late opening Apr 20 2025",
+      "Url": "/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-Apr-20-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 2 St George to Broadview Late opening Apr 20 2025\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-Apr-20-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Broadview stations – Late opening on Sunday, April 20, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>April 20, 2025<span>&nbsp;</span></div>"
+    },
+    {
+      "Id": "935969b5-3049-497c-92e0-859d2c555fe2",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Ossington to Jane Nightly early closures Apr 21 to 25 2025",
+      "Url": "/service-advisories/subway-service/Line-2-Ossington-to-Jane-Nightly-early-closures-Apr-21-to-25-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Ossington to Jane Nightly early closures Apr 21 to 25 2025\" href=\"/service-advisories/subway-service/Line-2-Ossington-to-Jane-Nightly-early-closures-Apr-21-to-25-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Ossington to Jane stations – Nightly early closures starting at 11 p.m. on Monday, April 21 to Friday, April 25, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 21, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 25, 2025</span></div>"
+    },
+    {
+      "Id": "e58472c4-a210-404a-bc59-cbd0dc282c45",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Full weekend closure Kipling and Jane Apr 26 and 27 2025",
+      "Url": "/service-advisories/subway-service/Line-2-Full-weekend-closure-Kipling-and-Jane-Apr-26-and-27-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Full weekend closure Kipling and Jane Apr 26 and 27 2025\" href=\"/service-advisories/subway-service/Line-2-Full-weekend-closure-Kipling-and-Jane-Apr-26-and-27-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Full weekend closure between Kipling and Jane stations on Saturday, April 26 and Sunday, April 27, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 26, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 27, 2025</span></div>"
+    },
+    {
+      "Id": "44fbdb79-64db-4450-a217-3d2eae4c3c43",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Vaughan Metropolitan Centre to Finch West Limited nightly service Apr 28 to 30 2025",
+      "Url": "/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Finch-West-Limited-nightly-service-Apr-28-to-30-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Vaughan Metropolitan Centre to Finch West Limited nightly service Apr 28 to 30 2025\" href=\"/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Finch-West-Limited-nightly-service-Apr-28-to-30-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Vaughan Metropolitan Centre to Finch West stations – Limited nightly service starting at 11 p.m. on Monday, April 28 to Wednesday, April 30, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 28, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 30, 2025</span></div>"
+    },
+    {
+      "Id": "52e76e3e-b768-4112-aef2-277cc03428b6",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Ossington to Jane Nightly early closures Apr 28 to May 2 2025",
+      "Url": "/service-advisories/subway-service/Line-2-Ossington-to-Jane-Nightly-early-closures-Apr-28-to-May-2-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Ossington to Jane Nightly early closures Apr 28 to May 2 2025\" href=\"/service-advisories/subway-service/Line-2-Ossington-to-Jane-Nightly-early-closures-Apr-28-to-May-2-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Ossington to Jane stations – Nightly early closures starting at 11 p.m. on Monday, April 28 to Friday, May 2, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 28, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 2, 2025</span></div>"
     }
   ]
 }
