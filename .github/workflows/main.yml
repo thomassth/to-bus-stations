@@ -33,7 +33,7 @@ jobs:
           branch: main # Pushes the updates to the master branch.
           folder: fetch-api-data-action # The location of the data.json file saved by the Fetch API Data action.
           target-folder: data # Saves the data into the 'data' directory on the master branch.
-          commit-message: update fetched API data # The commit message.
+          commit-message: Update fetched API data # The commit message.
           clean: false
 
   crawl-ttc-stops:
@@ -57,7 +57,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git add -A
           if ! git diff-index --quiet HEAD; then
-            git commit -m "Changes from TTC stops crawling"
+            git commit -m "Update TTC stops data"
             git push
           else
             echo "No changes to commit"
