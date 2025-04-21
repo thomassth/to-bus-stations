@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 6,
+  "Count": 5,
   "Results": [
-    {
-      "Id": "549781a0-a7f0-4c7f-ba50-01e15e2ec3f6",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Broadview Late opening Apr 20 2025",
-      "Url": "/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-Apr-20-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 St George to Broadview Late opening Apr 20 2025\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-Apr-20-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Broadview stations – Late opening on Sunday, April 20, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>April 20, 2025<span>&nbsp;</span></div>"
-    },
     {
       "Id": "935969b5-3049-497c-92e0-859d2c555fe2",
       "Language": "en",
