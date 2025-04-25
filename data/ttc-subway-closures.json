@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 8,
+  "Count": 13,
   "Results": [
     {
       "Id": "935969b5-3049-497c-92e0-859d2c555fe2",
@@ -20,20 +20,20 @@
       "Html": "<a title=\"Line 2 Full weekend closure Kipling and Jane Apr 26 and 27 2025\" href=\"/service-advisories/subway-service/Line-2-Full-weekend-closure-Kipling-and-Jane-Apr-26-and-27-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Full weekend closure between Kipling and Jane stations on Saturday, April 26 and Sunday, April 27, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 26, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 27, 2025</span></div>"
     },
     {
-      "Id": "52e76e3e-b768-4112-aef2-277cc03428b6",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Ossington to Jane Nightly early closures Apr 28 to May 2 2025",
-      "Url": "/service-advisories/subway-service/Line-2-Ossington-to-Jane-Nightly-early-closures-Apr-28-to-May-2-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Ossington to Jane Nightly early closures Apr 28 to May 2 2025\" href=\"/service-advisories/subway-service/Line-2-Ossington-to-Jane-Nightly-early-closures-Apr-28-to-May-2-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Ossington to Jane stations – Nightly early closures starting at 11 p.m. on Monday, April 28 to Friday, May 2, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 28, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 2, 2025</span></div>"
-    },
-    {
       "Id": "44fbdb79-64db-4450-a217-3d2eae4c3c43",
       "Language": "en",
       "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Vaughan Metropolitan Centre to Pioneer Village Limited nightly service Apr 28 to 30 2025",
       "Url": "/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Pioneer-Village-Limited-nightly-service-Apr-28-to-30-2025",
       "Name": null,
       "Html": "<a title=\"Line 1 Vaughan Metropolitan Centre to Pioneer Village Limited nightly service Apr 28 to 30 2025\" href=\"/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Pioneer-Village-Limited-nightly-service-Apr-28-to-30-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">REVISED – Vaughan Metropolitan Centre to Pioneer Village stations – Limited nightly service starting at 11 p.m. on Monday, April 28 to Wednesday, April 30, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 28, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 30, 2025</span></div>"
+    },
+    {
+      "Id": "52e76e3e-b768-4112-aef2-277cc03428b6",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Ossington to Jane Nightly early closures Apr 28 to May 2 2025",
+      "Url": "/service-advisories/subway-service/Line-2-Ossington-to-Jane-Nightly-early-closures-Apr-28-to-May-2-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Ossington to Jane Nightly early closures Apr 28 to May 2 2025\" href=\"/service-advisories/subway-service/Line-2-Ossington-to-Jane-Nightly-early-closures-Apr-28-to-May-2-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Ossington to Jane stations – Nightly early closures starting at 11 p.m. on Monday, April 28 to Friday, May 2, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 28, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 2, 2025</span></div>"
     },
     {
       "Id": "92598855-e932-4d90-9ac1-2eed2543dc28",
@@ -58,6 +58,22 @@
       "Url": "/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Pioneer-Village-Limited-nightly-service-May-12-to-15-2025",
       "Name": null,
       "Html": "<a title=\"Line 1 Vaughan Metropolitan Centre to Pioneer Village Limited nightly service May 12 to 15 2025\" href=\"/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Pioneer-Village-Limited-nightly-service-May-12-to-15-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Vaughan Metropolitan Centre to Pioneer Village stations – Limited nightly service starting at 11 p.m. on Monday, May 12 to Thursday, May 15, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 12, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 15, 2025</span></div>"
+    },
+    {
+      "Id": "c2ce34f3-85a0-4f80-9b17-c6944f114b54",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Woodbine to Broadview Full weekend closure May 17 and 18 2025",
+      "Url": "/service-advisories/subway-service/Line-2-Woodbine-to-Broadview-Full-weekend-closure-May-17-and-18-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Woodbine to Broadview Full weekend closure May 17 and 18 2025\" href=\"/service-advisories/subway-service/Line-2-Woodbine-to-Broadview-Full-weekend-closure-May-17-and-18-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Woodbine to Broadview stations – Full weekend closure on Saturday, May 17 and Sunday, May 18, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 17, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 18, 2025</span></div>"
+    },
+    {
+      "Id": "d6fa2fdb-b154-4c85-a2e1-2e6e7ca6b64c",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 SheppardYonge to College Nightly early closures May 20 to 23 2025",
+      "Url": "/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Nightly-early-closures-May-20-to-23-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 SheppardYonge to College Nightly early closures May 20 to 23 2025\" href=\"/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Nightly-early-closures-May-20-to-23-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard-Yonge to College stations – Nightly early closures starting at 11 p.m. on Tuesday, May 20 to Friday, May 23, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 20, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 23, 2025</span></div>"
     }
   ]
 }
