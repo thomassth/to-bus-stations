@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 13,
+  "Count": 12,
   "Results": [
-    {
-      "Id": "935969b5-3049-497c-92e0-859d2c555fe2",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Ossington to Jane Nightly early closures Apr 21 to 25 2025",
-      "Url": "/service-advisories/subway-service/Line-2-Ossington-to-Jane-Nightly-early-closures-Apr-21-to-25-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Ossington to Jane Nightly early closures Apr 21 to 25 2025\" href=\"/service-advisories/subway-service/Line-2-Ossington-to-Jane-Nightly-early-closures-Apr-21-to-25-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Ossington to Jane stations – Nightly early closures starting at 11 p.m. on Monday, April 21 to Friday, April 25, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 21, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 25, 2025</span></div>"
-    },
     {
       "Id": "e58472c4-a210-404a-bc59-cbd0dc282c45",
       "Language": "en",
@@ -74,6 +66,14 @@
       "Url": "/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Nightly-early-closures-May-20-to-23-2025",
       "Name": null,
       "Html": "<a title=\"Line 1 SheppardYonge to College Nightly early closures May 20 to 23 2025\" href=\"/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Nightly-early-closures-May-20-to-23-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard-Yonge to College stations – Nightly early closures starting at 11 p.m. on Tuesday, May 20 to Friday, May 23, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 20, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 23, 2025</span></div>"
+    },
+    {
+      "Id": "cfd77a8d-eb28-4844-90b2-4a747e354cd3",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 SheppardYonge to College Full weekend closure May 24 and 25 2025",
+      "Url": "/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Full-weekend-closure-May-24-and-25-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 SheppardYonge to College Full weekend closure May 24 and 25 2025\" href=\"/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Full-weekend-closure-May-24-and-25-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard-Yonge to College stations – Full weekend closure on Saturday, May 24 and Sunday, May 25, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 24, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 25, 2025</span></div>"
     }
   ]
 }
