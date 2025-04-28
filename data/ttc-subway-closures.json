@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 12,
+  "Count": 11,
   "Results": [
-    {
-      "Id": "e58472c4-a210-404a-bc59-cbd0dc282c45",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Full weekend closure Kipling and Jane Apr 26 and 27 2025",
-      "Url": "/service-advisories/subway-service/Line-2-Full-weekend-closure-Kipling-and-Jane-Apr-26-and-27-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Full weekend closure Kipling and Jane Apr 26 and 27 2025\" href=\"/service-advisories/subway-service/Line-2-Full-weekend-closure-Kipling-and-Jane-Apr-26-and-27-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Full weekend closure between Kipling and Jane stations on Saturday, April 26 and Sunday, April 27, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 26, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 27, 2025</span></div>"
-    },
     {
       "Id": "44fbdb79-64db-4450-a217-3d2eae4c3c43",
       "Language": "en",
@@ -74,6 +66,14 @@
       "Url": "/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Full-weekend-closure-May-24-and-25-2025",
       "Name": null,
       "Html": "<a title=\"Line 1 SheppardYonge to College Full weekend closure May 24 and 25 2025\" href=\"/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Full-weekend-closure-May-24-and-25-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard-Yonge to College stations – Full weekend closure on Saturday, May 24 and Sunday, May 25, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 24, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 25, 2025</span></div>"
+    },
+    {
+      "Id": "a06081f1-5b46-4677-91e7-c80dfbe113ba",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Vaughan Metropolitan Centre to Pioneer Village Limited nightly service May 26 to 29 2025",
+      "Url": "/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Pioneer-Village-Limited-nightly-service-May-26-to-29-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Vaughan Metropolitan Centre to Pioneer Village Limited nightly service May 26 to 29 2025\" href=\"/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Pioneer-Village-Limited-nightly-service-May-26-to-29-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Vaughan Metropolitan Centre to Pioneer Village stations – Limited nightly service starting at 11 p.m. on Monday, May 26 to Thursday, May 29, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 26, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 29, 2025</span></div>"
     }
   ]
 }
