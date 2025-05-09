@@ -1,15 +1,15 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 9,
+  "Count": 8,
   "Results": [
     {
-      "Id": "1ed234b8-6d7f-42cb-a8f9-d71b0796bd5a",
+      "Id": "82c2f1d1-da4a-4b42-a91a-82029244f481",
       "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 SheppardYonge to College Nightly early closures May 6 and 8 2025",
-      "Url": "/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Nightly-early-closures-May-6-and-8-2025",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Vaughan Metropolitan Centre to Pioneer Village Limited nightly service May 12 to 15 2025",
+      "Url": "/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Pioneer-Village-Limited-nightly-service-May-12-to-15-2025",
       "Name": null,
-      "Html": "<a title=\"Line 1 SheppardYonge to College Nightly early closures May 6 and 8 2025\" href=\"/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Nightly-early-closures-May-6-and-8-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard-Yonge to College stations – Nightly early closures starting at 11 p.m. on Tuesday, May 6 and Thursday, May 8, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 6, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 8, 2025</span></div>"
+      "Html": "<a title=\"Line 1 Vaughan Metropolitan Centre to Pioneer Village Limited nightly service May 12 to 15 2025\" href=\"/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Pioneer-Village-Limited-nightly-service-May-12-to-15-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">REVISED - Vaughan Metropolitan Centre to Pioneer Village stations – Limited nightly service starting at 11 p.m. on Monday, May 12 to Wednesday, May 14, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 12, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 14, 2025</span></div>"
     },
     {
       "Id": "99c825c8-4d29-4ba7-9365-6f7b26233c4d",
@@ -18,14 +18,6 @@
       "Url": "/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Nightly-early-closures-May-12-to-16-2025",
       "Name": null,
       "Html": "<a title=\"Line 1 SheppardYonge to College Nightly early closures May 12 to 16 2025\" href=\"/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Nightly-early-closures-May-12-to-16-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard-Yonge to College stations – Nightly early closures starting at 11 p.m. on Monday, May 12 to Friday, May 16, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 12, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 16, 2025</span></div>"
-    },
-    {
-      "Id": "82c2f1d1-da4a-4b42-a91a-82029244f481",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Vaughan Metropolitan Centre to Pioneer Village Limited nightly service May 12 to 15 2025",
-      "Url": "/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Pioneer-Village-Limited-nightly-service-May-12-to-15-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 1 Vaughan Metropolitan Centre to Pioneer Village Limited nightly service May 12 to 15 2025\" href=\"/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Pioneer-Village-Limited-nightly-service-May-12-to-15-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">REVISED - Vaughan Metropolitan Centre to Pioneer Village stations – Limited nightly service starting at 11 p.m. on Monday, May 12 to Wednesday, May 14, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 12, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 14, 2025</span></div>"
     },
     {
       "Id": "c2ce34f3-85a0-4f80-9b17-c6944f114b54",
