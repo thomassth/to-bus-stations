@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 10,
+  "Count": 9,
   "Results": [
     {
       "Id": "82c2f1d1-da4a-4b42-a91a-82029244f481",
@@ -10,14 +10,6 @@
       "Url": "/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Pioneer-Village-Limited-nightly-service-May-12-to-15-2025",
       "Name": null,
       "Html": "<a title=\"Line 1 Vaughan Metropolitan Centre to Pioneer Village Limited nightly service May 12 to 15 2025\" href=\"/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Pioneer-Village-Limited-nightly-service-May-12-to-15-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">REVISED - Vaughan Metropolitan Centre to Pioneer Village stations – Limited nightly service starting at 11 p.m. on Monday, May 12 to Wednesday, May 14, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 12, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 14, 2025</span></div>"
-    },
-    {
-      "Id": "521677b7-2125-4ba6-9580-4fff45c75ec8",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 SheppardYonge to College Nightly early closures May 12 and 13 2025  REVISED",
-      "Url": "/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Nightly-early-closures-May-12-and-13-2025--REVISED",
-      "Name": null,
-      "Html": "<a title=\"Line 1 SheppardYonge to College Nightly early closures May 12 and 13 2025  REVISED\" href=\"/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Nightly-early-closures-May-12-and-13-2025--REVISED\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard-Yonge to College stations – Nightly early closures starting at 11 p.m. on Monday, May 12 and Tuesday, May 13, 2025 – REVISED </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 12, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 13, 2025</span></div>"
     },
     {
       "Id": "c1252321-aa7a-45c2-a253-96f727abf25a",
