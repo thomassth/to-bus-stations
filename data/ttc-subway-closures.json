@@ -1,23 +1,15 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 7,
+  "Count": 6,
   "Results": [
-    {
-      "Id": "b07fca28-cdad-4bf7-b322-ca12b0a85902",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 SheppardYonge to College Nightly early closures May 15 and 16 2025 REVISED",
-      "Url": "/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Nightly-early-closures-May-15-and-16-2025-REVISED",
-      "Name": null,
-      "Html": "<a title=\"Line 1 SheppardYonge to College Nightly early closures May 15 and 16 2025 REVISED\" href=\"/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Nightly-early-closures-May-15-and-16-2025-REVISED\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard-Yonge to College stations – Nightly early closures starting at 11 p.m. on Thursday, May 15 and Friday, May 16, 2025 – REVISED </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 15, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 16, 2025</span></div>"
-    },
     {
       "Id": "c2ce34f3-85a0-4f80-9b17-c6944f114b54",
       "Language": "en",
       "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Woodbine to Broadview Full weekend closure May 17 and 18 2025",
       "Url": "/service-advisories/subway-service/Line-2-Woodbine-to-Broadview-Full-weekend-closure-May-17-and-18-2025",
       "Name": null,
-      "Html": "<a title=\"Line 2 Woodbine to Broadview Full weekend closure May 17 and 18 2025\" href=\"/service-advisories/subway-service/Line-2-Woodbine-to-Broadview-Full-weekend-closure-May-17-and-18-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Woodbine to Broadview stations – Saturday, May 17 and Sunday, May 18 closure</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 17, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 18, 2025</span></div>"
+      "Html": "<a title=\"Line 2 Woodbine to Broadview Full weekend closure May 17 and 18 2025\" href=\"/service-advisories/subway-service/Line-2-Woodbine-to-Broadview-Full-weekend-closure-May-17-and-18-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Woodbine to Broadview stations – All day on Saturday, May 17 until 4 p.m., Sunday, May 18 - REVISED</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 17, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 18, 2025</span></div>"
     },
     {
       "Id": "d6fa2fdb-b154-4c85-a2e1-2e6e7ca6b64c",
