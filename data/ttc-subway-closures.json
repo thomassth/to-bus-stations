@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 5,
+  "Count": 9,
   "Results": [
     {
       "Id": "d6fa2fdb-b154-4c85-a2e1-2e6e7ca6b64c",
@@ -20,6 +20,14 @@
       "Html": "<a title=\"Line 1 SheppardYonge to College Full weekend closure May 24 and 25 2025\" href=\"/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Full-weekend-closure-May-24-and-25-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard-Yonge to College stations – Full weekend closure on Saturday, May 24 and Sunday, May 25, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 24, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 25, 2025</span></div>"
     },
     {
+      "Id": "a06081f1-5b46-4677-91e7-c80dfbe113ba",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Vaughan Metropolitan Centre to Pioneer Village Limited nightly service May 26 to 29 2025",
+      "Url": "/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Pioneer-Village-Limited-nightly-service-May-26-to-29-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Vaughan Metropolitan Centre to Pioneer Village Limited nightly service May 26 to 29 2025\" href=\"/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Pioneer-Village-Limited-nightly-service-May-26-to-29-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch West to Pioneer Village stations – Limited nightly service starting at 11 p.m. on Monday, May 26 to Thursday, May 29, 2025 - REVISED</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 26, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 29, 2025</span></div>"
+    },
+    {
       "Id": "1df9a953-ca58-4565-8e83-55c4e4f3ecbc",
       "Language": "en",
       "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 SheppardYonge to College Nightly early closures May 26 to 30 2025",
@@ -28,12 +36,36 @@
       "Html": "<a title=\"Line 1 SheppardYonge to College Nightly early closures May 26 to 30 2025\" href=\"/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Nightly-early-closures-May-26-to-30-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard-Yonge to College stations – Nightly early closures starting at 11 p.m. on Monday, May 26 to Friday, May 30, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 26, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 30, 2025</span></div>"
     },
     {
-      "Id": "a06081f1-5b46-4677-91e7-c80dfbe113ba",
+      "Id": "1ba7a0c4-8935-489d-9cc7-a75de8d7a0ba",
       "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Vaughan Metropolitan Centre to Pioneer Village Limited nightly service May 26 to 29 2025",
-      "Url": "/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Pioneer-Village-Limited-nightly-service-May-26-to-29-2025",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Chester Late opening June 1 2025",
+      "Url": "/service-advisories/subway-service/Line-2-St-George-to-Chester-Late-opening-June-1-2025",
       "Name": null,
-      "Html": "<a title=\"Line 1 Vaughan Metropolitan Centre to Pioneer Village Limited nightly service May 26 to 29 2025\" href=\"/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Pioneer-Village-Limited-nightly-service-May-26-to-29-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch West to Pioneer Village stations – Limited nightly service starting at 11 p.m. on Monday, May 26 to Thursday, May 29, 2025 - REVISED</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 26, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 29, 2025</span></div>"
+      "Html": "<a title=\"Line 2 St George to Chester Late opening June 1 2025\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Chester-Late-opening-June-1-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Chester stations – Late opening on Sunday, June 1, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>June 1, 2025<span>&nbsp;</span></div>"
+    },
+    {
+      "Id": "d6c06249-7b4a-4f92-ba3d-0f4f7cc14ad4",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Woodbine June 7 and 8 2025",
+      "Url": "/service-advisories/subway-service/Line-2-St-George-to-Woodbine-June-7-and-8-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 2 St George to Woodbine June 7 and 8 2025\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Woodbine-June-7-and-8-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Woodbine stations – Saturday, June 7 and Sunday, June 8, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 7, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 8, 2025</span></div>"
+    },
+    {
+      "Id": "b2c11b73-d546-4441-a0c8-4e38f85546b3",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Sheppard West to Finch West stations Limited nightly service June 9 to 12 2025",
+      "Url": "/service-advisories/subway-service/Line-1-Sheppard-West-to-Finch-West-stations-Limited-nightly-service-June-9-to-12-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Sheppard West to Finch West stations Limited nightly service June 9 to 12 2025\" href=\"/service-advisories/subway-service/Line-1-Sheppard-West-to-Finch-West-stations-Limited-nightly-service-June-9-to-12-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard West to Finch West stations – Limited nightly service starting at 11 p.m. on Monday, June 9 to Thursday, June 12, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 9, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 12, 2025</span></div>"
+    },
+    {
+      "Id": "b0259ce8-733b-43eb-90ab-2e2e0b3a8b97",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Jane Nightly early closures June 9 to 13 2025",
+      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Jane-Nightly-early-closures-June-9-to-13-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Kipling to Jane Nightly early closures June 9 to 13 2025\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Jane-Nightly-early-closures-June-9-to-13-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Jane stations – Nightly early closures starting at 11 p.m. on Monday, June 9 to Friday, June 13, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 9, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 13, 2025</span></div>"
     }
   ]
 }
