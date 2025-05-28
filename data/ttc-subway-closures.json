@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 7,
+  "Count": 10,
   "Results": [
     {
       "Id": "1df9a953-ca58-4565-8e83-55c4e4f3ecbc",
@@ -28,6 +28,14 @@
       "Html": "<a title=\"Line 2 St George to Chester Late opening June 1 2025\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Chester-Late-opening-June-1-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Chester stations – Late opening on Sunday, June 1, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>June 1, 2025<span>&nbsp;</span></div>"
     },
     {
+      "Id": "4864cb7c-b2b2-4717-8fca-dcfb78573e0a",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Eglinton Nightly early closures June 2 to 5 2025",
+      "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-June-2-to-5-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures June 2 to 5 2025\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-June-2-to-5-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. on Monday, June 2 to Thursday, June 5, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 2, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 5, 2025</span></div>"
+    },
+    {
       "Id": "d6c06249-7b4a-4f92-ba3d-0f4f7cc14ad4",
       "Language": "en",
       "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Woodbine to Broadview June 7 and 8 2025",
@@ -50,6 +58,22 @@
       "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Jane-Nightly-early-closures-June-9-to-13-2025",
       "Name": null,
       "Html": "<a title=\"Line 2 Kipling to Jane Nightly early closures June 9 to 13 2025\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Jane-Nightly-early-closures-June-9-to-13-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Jane stations – Nightly early closures starting at 11 p.m. on Monday, June 9 to Friday, June 13, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 9, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 13, 2025</span></div>"
+    },
+    {
+      "Id": "9d3ed218-27d3-4246-bd4c-73f75950c518",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Jane to Keele June 14 and 15 2025",
+      "Url": "/service-advisories/subway-service/Line-2-Jane-to-Keele-June-14-and-15-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Jane to Keele June 14 and 15 2025\" href=\"/service-advisories/subway-service/Line-2-Jane-to-Keele-June-14-and-15-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Jane to Keele  stations – Saturday, June 14 and Sunday, June 15, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 14, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 15, 2025</span></div>"
+    },
+    {
+      "Id": "b83d1776-683e-4de2-ad1f-5656f0594aa8",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Jane Nightly early closures June 16 to 20 2025",
+      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Jane-Nightly-early-closures-June-16-to-20-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Kipling to Jane Nightly early closures June 16 to 20 2025\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Jane-Nightly-early-closures-June-16-to-20-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Jane stations – Nightly early closures starting at 11 p.m. on Monday, June 16 to Friday, June 20, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 16, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 20, 2025</span></div>"
     }
   ]
 }
