@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 10,
+  "Count": 9,
   "Results": [
     {
       "Id": "1df9a953-ca58-4565-8e83-55c4e4f3ecbc",
@@ -42,14 +42,6 @@
       "Url": "/service-advisories/subway-service/Line-2-Woodbine-to-Broadview-June-7-and-8-2025",
       "Name": null,
       "Html": "<a title=\"Line 2 Woodbine to Broadview June 7 and 8 2025\" href=\"/service-advisories/subway-service/Line-2-Woodbine-to-Broadview-June-7-and-8-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Woodbine to Broadview stations – Saturday, June 7 and Sunday, June 8, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 7, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 8, 2025</span></div>"
-    },
-    {
-      "Id": "b2c11b73-d546-4441-a0c8-4e38f85546b3",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Sheppard West to Finch West stations Limited nightly service June 9 to 12 2025",
-      "Url": "/service-advisories/subway-service/Line-1-Sheppard-West-to-Finch-West-stations-Limited-nightly-service-June-9-to-12-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 1 Sheppard West to Finch West stations Limited nightly service June 9 to 12 2025\" href=\"/service-advisories/subway-service/Line-1-Sheppard-West-to-Finch-West-stations-Limited-nightly-service-June-9-to-12-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard West to Finch West stations – Limited nightly service starting at 11 p.m. on Monday, June 9 to Thursday, June 12, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 9, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 12, 2025</span></div>"
     },
     {
       "Id": "b0259ce8-733b-43eb-90ab-2e2e0b3a8b97",
