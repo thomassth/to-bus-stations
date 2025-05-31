@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 8,
+  "Count": 7,
   "Results": [
-    {
-      "Id": "1df9a953-ca58-4565-8e83-55c4e4f3ecbc",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 SheppardYonge to College Nightly early closures May 26 to 30 2025",
-      "Url": "/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Nightly-early-closures-May-26-to-30-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 1 SheppardYonge to College Nightly early closures May 26 to 30 2025\" href=\"/service-advisories/subway-service/Line-1-SheppardYonge-to-College-Nightly-early-closures-May-26-to-30-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard-Yonge to College stations – Nightly early closures starting at 11 p.m. on Monday, May 26 to Friday, May 30, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 26, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 30, 2025</span></div>"
-    },
     {
       "Id": "1ba7a0c4-8935-489d-9cc7-a75de8d7a0ba",
       "Language": "en",
