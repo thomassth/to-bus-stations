@@ -20,12 +20,12 @@
       "Html": "<a title=\"Line 2 Woodbine to Broadview June 7 and 8 2025\" href=\"/service-advisories/subway-service/Line-2-Woodbine-to-Broadview-June-7-and-8-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Woodbine to Broadview stations – Saturday, June 7 and Sunday, June 8, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 7, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 8, 2025</span></div>"
     },
     {
-      "Id": "b0259ce8-733b-43eb-90ab-2e2e0b3a8b97",
+      "Id": "b06f7db3-218f-4b28-969a-70398ee3b2b4",
       "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Jane Nightly early closures June 9 to 13 2025",
-      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Jane-Nightly-early-closures-June-9-to-13-2025",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Eglinton Nightly early closures June 9 to 12 2025",
+      "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-June-9-to-12-2025",
       "Name": null,
-      "Html": "<a title=\"Line 2 Kipling to Jane Nightly early closures June 9 to 13 2025\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Jane-Nightly-early-closures-June-9-to-13-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Jane stations – Nightly early closures starting at 11 p.m. on Monday, June 9 to Friday, June 13, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 9, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 13, 2025</span></div>"
+      "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures June 9 to 12 2025\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-June-9-to-12-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. on Monday, June 9 to Thursday, June 12, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 9, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 12, 2025</span></div>"
     },
     {
       "Id": "9d3ed218-27d3-4246-bd4c-73f75950c518",
