@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 5,
+  "Count": 6,
   "Results": [
     {
       "Id": "d6c06249-7b4a-4f92-ba3d-0f4f7cc14ad4",
@@ -34,6 +34,14 @@
       "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Jane-Nightly-early-closures-June-16-to-20-2025",
       "Name": null,
       "Html": "<a title=\"Line 2 Kipling to Jane Nightly early closures June 16 to 20 2025\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Jane-Nightly-early-closures-June-16-to-20-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Jane stations – Nightly early closures starting at 11 p.m. on Monday, June 16 to Friday, June 20, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 16, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 20, 2025</span></div>"
+    },
+    {
+      "Id": "c699de01-46a3-4025-97f7-999a2eebae59",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Jane June 21 and 22 2025",
+      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Jane-June-21-and-22-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Kipling to Jane June 21 and 22 2025\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Jane-June-21-and-22-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Jane stations – Saturday, June 21 and Sunday, June 22, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 21, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 22, 2025</span></div>"
     }
   ]
 }
