@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 6,
+  "Count": 3,
   "Results": [
-    {
-      "Id": "d6c06249-7b4a-4f92-ba3d-0f4f7cc14ad4",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Woodbine to Broadview June 7 and 8 2025",
-      "Url": "/service-advisories/subway-service/Line-2-Woodbine-to-Broadview-June-7-and-8-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Woodbine to Broadview June 7 and 8 2025\" href=\"/service-advisories/subway-service/Line-2-Woodbine-to-Broadview-June-7-and-8-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Woodbine to Broadview stations – Saturday, June 7 and Sunday, June 8, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 7, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 8, 2025</span></div>"
-    },
     {
       "Id": "b06f7db3-218f-4b28-969a-70398ee3b2b4",
       "Language": "en",
@@ -26,22 +18,6 @@
       "Url": "/service-advisories/subway-service/Line-2-Jane-to-Keele-June-14-and-15-2025",
       "Name": null,
       "Html": "<a title=\"Line 2 Jane to Keele June 14 and 15 2025\" href=\"/service-advisories/subway-service/Line-2-Jane-to-Keele-June-14-and-15-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Jane to Keele  stations – Saturday, June 14, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>June 14, 2025<span>&nbsp;</span></div>"
-    },
-    {
-      "Id": "b83d1776-683e-4de2-ad1f-5656f0594aa8",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Jane Nightly early closures June 16 to 20 2025",
-      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Jane-Nightly-early-closures-June-16-to-20-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Kipling to Jane Nightly early closures June 16 to 20 2025\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Jane-Nightly-early-closures-June-16-to-20-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Jane stations – Nightly early closures starting at 11 p.m. on Monday, June 16 to Friday, June 20, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 16, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 20, 2025</span></div>"
-    },
-    {
-      "Id": "c699de01-46a3-4025-97f7-999a2eebae59",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Jane June 21 and 22 2025",
-      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Jane-June-21-and-22-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Kipling to Jane June 21 and 22 2025\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Jane-June-21-and-22-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Jane stations – Saturday, June 21 and Sunday, June 22, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 21, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 22, 2025</span></div>"
     }
   ]
 }
