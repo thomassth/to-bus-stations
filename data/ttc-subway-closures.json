@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 3,
+  "Count": 6,
   "Results": [
     {
       "Id": "b06f7db3-218f-4b28-969a-70398ee3b2b4",
@@ -18,6 +18,30 @@
       "Url": "/service-advisories/subway-service/Line-2-Jane-to-Keele-June-14-and-15-2025",
       "Name": null,
       "Html": "<a title=\"Line 2 Jane to Keele June 14 and 15 2025\" href=\"/service-advisories/subway-service/Line-2-Jane-to-Keele-June-14-and-15-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Jane to Keele  stations – Saturday, June 14, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>June 14, 2025<span>&nbsp;</span></div>"
+    },
+    {
+      "Id": "2adfc809-7681-4395-b040-dc285bf9573e",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair West to St Andrew Nightly early closures June 16 to 20 2025",
+      "Url": "/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Nightly-early-closures-June-16-to-20-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 St Clair West to St Andrew Nightly early closures June 16 to 20 2025\" href=\"/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Nightly-early-closures-June-16-to-20-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair West to St Andrew stations – Nightly early closures starting at 11 p.m. on Monday, June 16 to Friday, June 20, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 16, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 20, 2025</span></div>"
+    },
+    {
+      "Id": "499f6199-f314-4c0a-aeb4-126802875e54",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair West to St Andrew Full weekend closure  June 21 to 22 2025",
+      "Url": "/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Full-weekend-closure--June-21-to-22-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 St Clair West to St Andrew Full weekend closure  June 21 to 22 2025\" href=\"/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Full-weekend-closure--June-21-to-22-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair West to St Andrew stations – Full weekend closure on Saturday, June 21 to Sunday, June 22, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 21, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 22, 2025</span></div>"
+    },
+    {
+      "Id": "43f0c40d-a2b2-4e6f-b802-f1d2e963268f",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair West to St Andrew Nightly early closures  June 23 to 27 2025",
+      "Url": "/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Nightly-early-closures--June-23-to-27-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 St Clair West to St Andrew Nightly early closures  June 23 to 27 2025\" href=\"/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Nightly-early-closures--June-23-to-27-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair West to St Andrew stations – Nightly early closures starting at 11 p.m. on Monday, June 23 to Friday, June 27, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 23, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 27, 2025</span></div>"
     }
   ]
 }
