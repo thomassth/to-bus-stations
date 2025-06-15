@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 6,
+  "Count": 5,
   "Results": [
-    {
-      "Id": "9d3ed218-27d3-4246-bd4c-73f75950c518",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Jane to Keele June 14 and 15 2025",
-      "Url": "/service-advisories/subway-service/Line-2-Jane-to-Keele-June-14-and-15-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Jane to Keele June 14 and 15 2025\" href=\"/service-advisories/subway-service/Line-2-Jane-to-Keele-June-14-and-15-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Jane to Keele  stations – Saturday, June 14, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>June 14, 2025<span>&nbsp;</span></div>"
-    },
     {
       "Id": "2adfc809-7681-4395-b040-dc285bf9573e",
       "Language": "en",
