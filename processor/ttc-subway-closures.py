@@ -20,6 +20,8 @@ def clean_text(text):
 def convert_date_string(input_date_string):
     return datetime.strptime(input_date_string, '%B %d, %Y').date().isoformat()
 
+today_date = datetime.now().date().isoformat()
+
 closures = []
 for i, html in enumerate(html_parts):
     soup = BeautifulSoup(html, 'html.parser')
@@ -35,7 +37,8 @@ for i, html in enumerate(html_parts):
             'end_date': convert_date_string(clean_text(end_date_elem.get_text())),
             'line': clean_text(line_elem.get_text()),
             'text': clean_text(text_elem.get_text()),
-            'url': f"https://www.ttc.ca{url}" if url.startswith('/') else "https://www.ttc.ca"
+            'url': f"https://www.ttc.ca{url}" if url.startswith('/') else "https://www.ttc.ca",
+            'last_shown': today_date
         })
 
 # %%
@@ -81,6 +84,10 @@ for closure in closures:
         closures_by_date[date_str].append(closure)
         current_date += timedelta(days=1)
 
+with open(Path(path) / "lastupdated", "w") as file:
+    file.write(str(today_date))
+
+
 # Save each object to a separate JSON file
 for date, closures in closures_by_date.items():
     filename = f"{date}.json"
@@ -88,12 +95,19 @@ for date, closures in closures_by_date.items():
     if filepath.exists():
         with open(filepath, 'r') as infile:
             existing_closures = json.load(infile)
-            # Merge closures, avoiding duplicates
-            closures = [closure for closure in closures if closure not in existing_closures] + existing_closures
+            # Combine both lists, prioritizing new closures
+            combined = existing_closures + closures
+
+            # Use a dict to deduplicate by 'url', new closures overwrite old ones
+            merged = {closure['url']: closure for closure in combined}
+
+            # Resulting list of unique closures
+            closures = list(merged.values())
     with open(filepath, 'w') as outfile:
         print(f'now processing {filename}')
         json.dump(closures, outfile)
 
 print(f'Done! Processed {len(closures_by_date)} files, from {earliest_date.isoformat()} to {latest_date.isoformat()}')
+
 
 
