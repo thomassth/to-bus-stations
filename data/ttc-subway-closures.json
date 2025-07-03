@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 4,
+  "Count": 8,
   "Results": [
     {
       "Id": "0e3b8dde-b1fd-4905-b652-e602fba327dc",
@@ -26,6 +26,38 @@
       "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-July-7-to-11-2025",
       "Name": null,
       "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures July 7 to 11 2025\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-July-7-to-11-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. on Monday, July 7 to Friday, July 11, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">July 7, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">July 11, 2025</span></div>"
+    },
+    {
+      "Id": "45139634-2e54-40d9-a254-20bc44958051",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Eglinton Full day closure on Saturday July 12 2025",
+      "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Full-day-closure-on-Saturday-July-12-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Finch to Eglinton Full day closure on Saturday July 12 2025\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Full-day-closure-on-Saturday-July-12-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\"> Finch to Eglinton stations – Full-day closure on Saturday, July 12, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>July 12, 2025<span>&nbsp;</span></div>"
+    },
+    {
+      "Id": "124c6243-fbc2-4596-8348-6d6363eb0f7f",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair West to St Andrew Full day closure on Sunday July 13 2025",
+      "Url": "/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Full-day-closure-on-Sunday-July-13-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 St Clair West to St Andrew Full day closure on Sunday July 13 2025\" href=\"/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Full-day-closure-on-Sunday-July-13-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair West to St Andrew stations – Full-day closure on Sunday, July 13, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>July 13, 2025<span>&nbsp;</span></div>"
+    },
+    {
+      "Id": "fb3777fe-7f12-46db-be78-bc7f51a34524",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Broadview Late opening on Sunday July 13 2025",
+      "Url": "/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-on-Sunday-July-13-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 2 St George to Broadview Late opening on Sunday July 13 2025\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-on-Sunday-July-13-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Broadview – Late opening on Sunday, July 13, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>July 13, 2025<span>&nbsp;</span></div>"
+    },
+    {
+      "Id": "c4fbd838-0549-4ee5-994f-a56c4007a269",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Sheppard West to Spadina Nightly early closures July 14 to 18 2025",
+      "Url": "/service-advisories/subway-service/Line-1-Sheppard-West-to-Spadina-Nightly-early-closures-July-14-to-18-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Sheppard West to Spadina Nightly early closures July 14 to 18 2025\" href=\"/service-advisories/subway-service/Line-1-Sheppard-West-to-Spadina-Nightly-early-closures-July-14-to-18-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard West to Spadina stations – Nightly early closures starting at 11 p.m. on Monday, July 14 to Friday, July 18, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">July 14, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">July 18, 2025</span></div>"
     }
   ]
 }
