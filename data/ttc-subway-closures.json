@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 7,
+  "Count": 6,
   "Results": [
-    {
-      "Id": "964932b6-cd90-44aa-b77a-a313964871b1",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Jane Full weekend closure July 5 to 6 2025",
-      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Jane-Full-weekend-closure-July-5-to-6-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Kipling to Jane Full weekend closure July 5 to 6 2025\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Jane-Full-weekend-closure-July-5-to-6-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Jane stations – Full weekend closure on Saturday, July 5 to Sunday, July 6, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">July 5, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">July 6, 2025</span></div>"
-    },
     {
       "Id": "f7aad3ca-2a64-4949-8636-9066eeba906f",
       "Language": "en",
