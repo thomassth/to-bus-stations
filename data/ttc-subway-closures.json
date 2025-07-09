@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 6,
+  "Count": 9,
   "Results": [
     {
       "Id": "f7aad3ca-2a64-4949-8636-9066eeba906f",
@@ -30,18 +30,42 @@
     {
       "Id": "fb3777fe-7f12-46db-be78-bc7f51a34524",
       "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Broadview Late opening on Sunday July 13 2025",
-      "Url": "/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-on-Sunday-July-13-2025",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Chester Late opening on Sunday July 13 2025",
+      "Url": "/service-advisories/subway-service/Line-2-St-George-to-Chester-Late-opening-on-Sunday-July-13-2025",
       "Name": null,
-      "Html": "<a title=\"Line 2 St George to Broadview Late opening on Sunday July 13 2025\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-on-Sunday-July-13-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Broadview – Late opening on Sunday, July 13, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>July 13, 2025<span>&nbsp;</span></div>"
+      "Html": "<a title=\"Line 2 St George to Chester Late opening on Sunday July 13 2025\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Chester-Late-opening-on-Sunday-July-13-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Chester – Late opening on Sunday, July 13, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>July 13, 2025<span>&nbsp;</span></div>"
     },
     {
-      "Id": "c4fbd838-0549-4ee5-994f-a56c4007a269",
+      "Id": "032bb6d1-0f5a-4d0b-ba47-b21788eacf89",
       "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Sheppard West to Spadina Nightly early closures July 14 to 18 2025",
-      "Url": "/service-advisories/subway-service/Line-1-Sheppard-West-to-Spadina-Nightly-early-closures-July-14-to-18-2025",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair West to St Andrew Nightly early closures July 14 to July 18 2025",
+      "Url": "/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Nightly-early-closures-July-14-to-July-18-2025",
       "Name": null,
-      "Html": "<a title=\"Line 1 Sheppard West to Spadina Nightly early closures July 14 to 18 2025\" href=\"/service-advisories/subway-service/Line-1-Sheppard-West-to-Spadina-Nightly-early-closures-July-14-to-18-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard West to Spadina stations – Nightly early closures starting at 11 p.m. on Monday, July 14 to Friday, July 18, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">July 14, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">July 18, 2025</span></div>"
+      "Html": "<a title=\"Line 1 St Clair West to St Andrew Nightly early closures July 14 to July 18 2025\" href=\"/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Nightly-early-closures-July-14-to-July-18-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair West to St Andrew stations – Nightly early closures starting at 11 p.m. on Monday, July 14 to Friday, July 18, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">July 14, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">July 18, 2025</span></div>"
+    },
+    {
+      "Id": "958968cc-5f86-4605-95c9-8e32356b9168",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair West to St Andrew Full weekend closure July 19 to 20 2025",
+      "Url": "/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Full-weekend-closure-July-19-to-20-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 St Clair West to St Andrew Full weekend closure July 19 to 20 2025\" href=\"/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Full-weekend-closure-July-19-to-20-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair West to St Andrew stations – Full weekend closure on Saturday, July 19 to Sunday, July 20, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">July 19, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">July 20, 2025</span></div>"
+    },
+    {
+      "Id": "1a206582-b80d-4aee-b359-d10e5ad733ab",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair West to St Andrew Nightly early closures July 21 to 25 2025",
+      "Url": "/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Nightly-early-closures-July-21-to-25-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 St Clair West to St Andrew Nightly early closures July 21 to 25 2025\" href=\"/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Nightly-early-closures-July-21-to-25-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair West to St Andrew stations – Nightly early closures starting at 11 p.m. on Monday, July 21 to Friday, July 25, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">July 21, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">July 25, 2025</span></div>"
+    },
+    {
+      "Id": "ee5421dd-4345-4c29-b6b9-871f7d04ba3d",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St George to St Andrew Full weekend closure July 26 to 27 2025",
+      "Url": "/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Full-weekend-closure-July-26-to-27-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 St George to St Andrew Full weekend closure July 26 to 27 2025\" href=\"/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Full-weekend-closure-July-26-to-27-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to St Andrew stations – Full weekend closure on Saturday, July 26 to Sunday, July 27, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">July 26, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">July 27, 2025</span></div>"
     }
   ]
 }
