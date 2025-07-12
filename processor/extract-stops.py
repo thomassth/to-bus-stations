@@ -40,7 +40,19 @@ for route in routes:
 filtered_dict = {key: value for key, value in route_dictionary.items() if 'stopId' in value}
 route_array = [{**value, 'id': value['stopId']} for key, value in filtered_dict.items()]
 
+# %%
+# Part 3: generate files
+
+import csv
+
 with open(data_path + 'stops.json', 'w') as json_file:
     json.dump(route_array, json_file)
+
+with open(data_path + 'stops.csv', 'w', newline='') as csv_file:
+    if route_array:
+        writer = csv.DictWriter(csv_file, fieldnames=route_array[0].keys())
+        writer.writeheader()
+        writer.writerows(route_array)
+
 
 
