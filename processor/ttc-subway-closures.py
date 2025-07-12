@@ -25,18 +25,26 @@ today_date = datetime.now().date().isoformat()
 closures = []
 for i, html in enumerate(html_parts):
     soup = BeautifulSoup(html, 'html.parser')
-    start_date_elem = soup.select_one('.field-starteffectivedate')
-    end_date_elem = soup.select_one('.field-endeffectivedate')
-    line_elem = soup.select_one('.field-routename')
-    text_elem = soup.select_one('.field-satitle')
+    effective_date_elem = soup.select_one('.sa-effective-date').get_text()
+    line_text = soup.select_one('.field-routename').get_text()
+    desc_text = soup.select_one('.field-satitle').get_text()
 
-    if start_date_elem and end_date_elem and line_elem and text_elem:
+
+    start_date = ''
+    end_date = ''
+    if "to" in effective_date_elem:
+        start_date, end_date = [d.strip() for d in effective_date_elem.split("to", 1)]
+    else:
+        start_date = effective_date_elem
+        end_date = effective_date_elem
+
+    if start_date and end_date and line_text and desc_text:
         url = results[i].get('Url', '')
         closures.append({
-            'start_date': convert_date_string(clean_text(start_date_elem.get_text())),
-            'end_date': convert_date_string(clean_text(end_date_elem.get_text())),
-            'line': clean_text(line_elem.get_text()),
-            'text': clean_text(text_elem.get_text()),
+            'start_date': convert_date_string(clean_text(start_date)),
+            'end_date': convert_date_string(clean_text(end_date)),
+            'line': clean_text(line_text),
+            'text': clean_text(desc_text),
             'url': f"https://www.ttc.ca{url}" if url.startswith('/') else "https://www.ttc.ca",
             'last_shown': today_date
         })
