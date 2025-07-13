@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 10,
+  "Count": 9,
   "Results": [
-    {
-      "Id": "45139634-2e54-40d9-a254-20bc44958051",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Eglinton Full day closure on Saturday July 12 2025",
-      "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Full-day-closure-on-Saturday-July-12-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 1 Finch to Eglinton Full day closure on Saturday July 12 2025\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Full-day-closure-on-Saturday-July-12-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\"> Finch to Eglinton stations – Full-day closure on Saturday, July 12, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>July 12, 2025<span>&nbsp;</span></div>"
-    },
     {
       "Id": "124c6243-fbc2-4596-8348-6d6363eb0f7f",
       "Language": "en",
