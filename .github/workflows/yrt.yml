@@ -1,0 +1,40 @@
+name: Refresh YRT Feed
+on:
+  schedule:
+    - cron: 10 15 * * 0-6
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch YRT Route List
+        uses: JamesIves/fetch-api-data-action@v2
+        with:
+          endpoint: https://tripplanner.yrt.ca/TI_FixedRoute_Line
+          retry: true
+          configuration: |
+            {
+              "method": "POST",
+              "headers": {
+                "Content-Type": "application/json",
+              },
+              "body": {
+                version: "1.1",
+                method: "GetLines",
+                params: {},
+              }
+            }
+          save-name: yrt-routes
+      - name: Build and Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v4
+        with:
+          branch: main # Pushes the updates to the master branch.
+          folder: fetch-api-data-action # The location of the data.json file saved by the Fetch API Data action.
+          target-folder: data # Saves the data into the 'data' directory on the master branch.
+          commit-message: Update YRT fetched data # The commit message.
+          clean: false
