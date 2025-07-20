@@ -24,9 +24,8 @@ jobs:
                 "Content-Type": "application/json"
               },
               "body": {
-                version: "1.1",
-                method: "GetLines",
-                params: {}
+                "version": "1.1",
+                "method": "GetLines"
               }
             }
           save-name: yrt-routes
