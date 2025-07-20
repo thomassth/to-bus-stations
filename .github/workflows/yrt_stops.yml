@@ -1,0 +1,32 @@
+name: Parse YRT data
+
+on:
+  workflow_dispatch:
+  # workflow_run:
+  #   workflows: ["Refresh YRT Feed"]
+  #   types:
+  #     - completed
+jobs:
+  data-parsing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Extract YRT Stops
+        working-directory: ./processor
+        run: python extract-stops.py
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add -A
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Update YRT stops data"
+            git push
+          else
+            echo "No changes to commit"
+          fi
