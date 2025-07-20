@@ -1,9 +1,9 @@
-name: Python workflow
+name: Parse TTC data
 
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["Refresh Feed"]
+    workflows: ["Refresh TTC Feed"]
     types:
       - completed
 jobs:

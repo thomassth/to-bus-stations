@@ -1,4 +1,4 @@
-name: Refresh Feed
+name: Refresh TTC Feed
 on:
   schedule:
     - cron: 10 15 * * 0-6
@@ -12,13 +12,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Fetch TTC API Data
+      - name: Fetch TTC Route List
         uses: JamesIves/fetch-api-data-action@v2
         with:
           endpoint: https://retro.umoiq.com/service/publicJSONFeed?command=routeList&a=ttc
           retry: true
           save-name: ttc-routes
-      - name: Fetch TTC API Data
+      - name: Fetch TTC Subway Closure Page
         uses: JamesIves/fetch-api-data-action@v2
         with:
           endpoint: https://www.ttc.ca//sxa/search/results/?s={99D7699F-DB47-4BB1-8946-77561CE7B320}&itemid={72CC555F-9128-4581-AD12-3D04AB1C87BA}&sig=&autoFireSearch=true&v={23DC07D4-6BAC-4B98-A9CC-07606C5B1322}&p=10&e=0&o=EffectiveStartDate,Ascending
@@ -33,7 +33,7 @@ jobs:
           branch: main # Pushes the updates to the master branch.
           folder: fetch-api-data-action # The location of the data.json file saved by the Fetch API Data action.
           target-folder: data # Saves the data into the 'data' directory on the master branch.
-          commit-message: Update fetched API data # The commit message.
+          commit-message: Update TTC fetched data # The commit message.
           clean: false
 
   crawl-ttc-stops:
