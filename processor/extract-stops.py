@@ -19,7 +19,7 @@ route_dictionary = {}
 data_path = '../data/ttc/'
 
 for route in routes:
-    with open('../data/ttc/' + str(route) + '.json', 'r') as f:
+    with open('../data/ttc/routes/' + str(route) + '.json', 'r') as f:
         data = json.load(f)
 
     for direction in data['route']['direction']:

@@ -20,7 +20,7 @@ for route in routes:
   # making a GET request
   response = requests.get('https://retro.umoiq.com/service/publicJSONFeed?command=routeConfig&a=ttc&r=' + str(route))
   # make sure the path exist
-  path = '../data/ttc'
+  path = '../data/ttc/routes'
   Path(path).mkdir(parents=True, exist_ok=True)
   # store the result into a json file.
   with open(path + '/' + str(route) + '.json', 'w') as outfile:
