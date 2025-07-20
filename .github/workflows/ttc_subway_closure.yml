@@ -1,4 +1,4 @@
-name: Parse TTC data
+name: Parse TTC subway closure data
 
 on:
   workflow_dispatch:
@@ -26,9 +26,6 @@ jobs:
       - name: Install dependencies
         working-directory: ./processor
         run: pip install -r requirements.txt
-      - name: Extract TTC Stops
-        working-directory: ./processor
-        run: python extract-stops.py
       - name: Parse TTC subway closures
         working-directory: ./processor
         run: python ttc-subway-closures.py
