@@ -18,7 +18,7 @@ jobs:
           python-version: "3.x"
       - name: Extract TTC Stops
         working-directory: ./processor
-        run: python extract-stops.py
+        run: python ttc-stops.py
       - name: Commit and push changes
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"

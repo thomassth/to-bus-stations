@@ -41,13 +41,13 @@ for route in routes_set:
             stopPublicId = stop['stopPublicId']
 
             if stopPublicId in stop_dictionary:
-                stop_dictionary[stop['stopPublicId']]['lines'] += f" {line}"
-                stop_dictionary[stop['stopPublicId']]['directions'] += f" {direction_text}"
+                stop_dictionary[stop['stopPublicId']]['lines'].append(line)
+                stop_dictionary[stop['stopPublicId']]['directionPerLine'].append(direction_text)
 
             else:
                 stop_dictionary[stop['stopPublicId']] = stop
-                stop_dictionary[stop['stopPublicId']]['lines'] = line
-                stop_dictionary[stop['stopPublicId']]['directions'] = direction_text
+                stop_dictionary[stop['stopPublicId']]['lines'] = [line]
+                stop_dictionary[stop['stopPublicId']]['directionPerLine'] = [direction_text]
         
 route_array = [{**value, 'id': value['stopPublicId']} for key, value in stop_dictionary.items()]
 

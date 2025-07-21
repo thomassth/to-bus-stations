@@ -29,6 +29,7 @@ for route in routes:
             if 'branch' in direction:
                 if tag in route_dictionary:
                     route_dictionary[tag]['lines'].append(direction['branch'])
+                    route_dictionary[tag]['directionPerLine'].append(directionText)
                     if directionText not in route_dictionary[tag]['directions']:
                         route_dictionary[tag]['directions'] = ", ".join([route_dictionary[tag]['directions'], directionText])
                 else:
@@ -36,6 +37,7 @@ for route in routes:
                     route_dictionary[tag] = filteredStop[0]
                     route_dictionary[tag]['directions'] = directionText
                     route_dictionary[tag]['lines'] = [direction['branch']]
+                    route_dictionary[tag]['directionPerLine'] = [directionText]
 
 filtered_dict = {key: value for key, value in route_dictionary.items() if 'stopId' in value}
 route_array = [{**value, 'id': value['stopId']} for key, value in filtered_dict.items()]
