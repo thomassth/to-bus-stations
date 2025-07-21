@@ -2,10 +2,10 @@ name: Parse YRT data
 
 on:
   workflow_dispatch:
-  # workflow_run:
-  #   workflows: ["Refresh YRT Feed"]
-  #   types:
-  #     - completed
+  workflow_run:
+    workflows: ["Refresh YRT Feed"]
+    types:
+      - completed
 jobs:
   data-parsing:
     runs-on: ubuntu-latest
