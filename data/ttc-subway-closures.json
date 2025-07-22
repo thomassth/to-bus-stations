@@ -9,7 +9,7 @@
       "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair West to St Andrew Nightly early closures July 21 to 24 2025",
       "Url": "/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Nightly-early-closures-July-21-to-24-2025",
       "Name": null,
-      "Html": "<a title=\"Line 1 St Clair West to St Andrew Nightly early closures July 21 to 24 2025\" href=\"/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Nightly-early-closures-July-21-to-24-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair West to St Andrew stations – Nightly early closures starting at 11 p.m. on Monday, July 21 to Thursday, July 24, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">July 21, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">July 24, 2025</span></div>"
+      "Html": "<a title=\"Line 1 St Clair West to St Andrew Nightly early closures July 21 to 24 2025\" href=\"/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Nightly-early-closures-July-21-to-24-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair West to St Andrew stations – Nightly early closures starting at 11 p.m. on Monday, July 21 to Thursday, July 24, 2025 (Updated)</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">July 21, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">July 24, 2025</span></div>"
     },
     {
       "Id": "a38f1477-8709-411c-9963-0b99503532c6",
@@ -20,20 +20,20 @@
       "Html": "<a title=\"Line 1 St George to St Andrew Early nightly closure July 25 2025\" href=\"/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Early-nightly-closure-July-25-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to St Andrew stations – Early nightly closure on Friday, July 25 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>July 25, 2025<span>&nbsp;</span></div>"
     },
     {
-      "Id": "b41b5c99-d33f-46a2-951f-0bd30162671a",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Keele Full-day closure July 26 2025",
-      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Keele-Full-day-closure-July-26-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Kipling to Keele Full-day closure July 26 2025\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Keele-Full-day-closure-July-26-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Keele stations – Full-day closure on Saturday, July 26, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>July 26, 2025<span>&nbsp;</span></div>"
-    },
-    {
       "Id": "ee5421dd-4345-4c29-b6b9-871f7d04ba3d",
       "Language": "en",
       "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St George to St Andrew Full weekend closure July 26 to 27 2025",
       "Url": "/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Full-weekend-closure-July-26-to-27-2025",
       "Name": null,
       "Html": "<a title=\"Line 1 St George to St Andrew Full weekend closure July 26 to 27 2025\" href=\"/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Full-weekend-closure-July-26-to-27-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to St Andrew stations – Full weekend closure on Saturday, July 26 to Sunday, July 27, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">July 26, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">July 27, 2025</span></div>"
+    },
+    {
+      "Id": "b41b5c99-d33f-46a2-951f-0bd30162671a",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Keele Full-day closure July 26 2025",
+      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Keele-Full-day-closure-July-26-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Kipling to Keele Full-day closure July 26 2025\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Keele-Full-day-closure-July-26-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Keele stations – Full-day closure on Saturday, July 26, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>July 26, 2025<span>&nbsp;</span></div>"
     },
     {
       "Id": "ff78fcbc-ee2f-4a6b-bdc4-46d8c65ec68a",
