@@ -1,24 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 7,
+  "Count": 5,
   "Results": [
-    {
-      "Id": "ee5421dd-4345-4c29-b6b9-871f7d04ba3d",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St George to St Andrew Full weekend closure July 26 to 27 2025",
-      "Url": "/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Full-weekend-closure-July-26-to-27-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 1 St George to St Andrew Full weekend closure July 26 to 27 2025\" href=\"/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Full-weekend-closure-July-26-to-27-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to St Andrew stations – Full weekend closure on Saturday, July 26 to Sunday, July 27, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">July 26, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">July 27, 2025</span></div>"
-    },
-    {
-      "Id": "ff78fcbc-ee2f-4a6b-bdc4-46d8c65ec68a",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Broadview Late opening July 27 2025",
-      "Url": "/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-July-27-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 St George to Broadview Late opening July 27 2025\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-July-27-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Broadview stations – Late opening on Sunday, July 27, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>July 27, 2025<span>&nbsp;</span></div>"
-    },
     {
       "Id": "599d0283-1a9f-452f-ab6e-1dcb7c97eecf",
       "Language": "en",
