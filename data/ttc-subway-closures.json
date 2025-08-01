@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 5,
+  "Count": 4,
   "Results": [
-    {
-      "Id": "599d0283-1a9f-452f-ab6e-1dcb7c97eecf",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Victoria Park to Kennedy Nightly early closures July 28 to 31 2025",
-      "Url": "/service-advisories/subway-service/Line-2-Victoria-Park-to-Kennedy-Nightly-early-closures-July-28-to-31-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Victoria Park to Kennedy Nightly early closures July 28 to 31 2025\" href=\"/service-advisories/subway-service/Line-2-Victoria-Park-to-Kennedy-Nightly-early-closures-July-28-to-31-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Victoria Park to Kennedy stations – Nightly early closures starting at 11 p.m. on Monday July 28 to Thursday July 31, 2025. </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">July 28, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">July 31, 2025</span></div>"
-    },
     {
       "Id": "ac5096f1-184d-43a2-a599-9bc98b5dcf25",
       "Language": "en",
