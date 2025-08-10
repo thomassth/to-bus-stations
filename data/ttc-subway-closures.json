@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 5,
+  "Count": 4,
   "Results": [
-    {
-      "Id": "8f144300-babb-4a43-bf6c-a69ef32507b4",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Victoria Park to Kennedy Early closure Aug 8 2025",
-      "Url": "/service-advisories/subway-service/Line-2-Victoria-Park-to-Kennedy-Early-closure-Aug-8-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Victoria Park to Kennedy Early closure Aug 8 2025\" href=\"/service-advisories/subway-service/Line-2-Victoria-Park-to-Kennedy-Early-closure-Aug-8-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Victoria Park to Kennedy stations – Early closure starting at 11 p.m. on Friday August 8, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>August 8, 2025<span>&nbsp;</span></div>"
-    },
     {
       "Id": "4deb28c9-7f40-4076-8e7b-b19ddf5890d0",
       "Language": "en",
