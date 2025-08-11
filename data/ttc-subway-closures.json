@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 4,
+  "Count": 3,
   "Results": [
-    {
-      "Id": "4deb28c9-7f40-4076-8e7b-b19ddf5890d0",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Chester Late opening Aug 10 2025",
-      "Url": "/service-advisories/subway-service/Line-2-St-George-to-Chester-Late-opening-Aug-10-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 St George to Chester Late opening Aug 10 2025\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Chester-Late-opening-Aug-10-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Chester stations – Late opening on Sunday, August 10, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>August 10, 2025<span>&nbsp;</span></div>"
-    },
     {
       "Id": "9d83f791-de5f-4040-9a58-bf66dd7768ae",
       "Language": "en",
