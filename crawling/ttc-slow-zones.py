@@ -11,7 +11,8 @@ path = '../data/ttc'
 Path(path).mkdir(parents=True, exist_ok=True)
 print(response)
 # store the result into a json file.
-with open(path + '/ttc-subway-closure.html', 'w') as outfile:
-    json.dump(response.text, outfile)
+with open(path + '/ttc-slow-zones.html', 'w',  encoding='utf-8') as outfile:
+    outfile.write(response.text)
+
 
 
