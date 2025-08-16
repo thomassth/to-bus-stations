@@ -70,3 +70,38 @@ jobs:
           else
             echo "No changes to commit"
           fi
+
+  crawl-slow-zones:
+    runs-on: ubuntu-latest
+    needs: refresh-feed
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}-crawl
+          restore-keys: |
+            ${{ runner.os }}-pip-crawl-
+      - name: Install dependencies
+        working-directory: ./crawling
+        run: pip install -r requirements.txt
+      - name: Crawl TTC Slow Zones
+        working-directory: ./crawling
+        run: python ttc-slow-zones.py
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add -A
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Update TTC slow zone data"
+            git push
+          else
+            echo "No changes to commit"
+          fi
