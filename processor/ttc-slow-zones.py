@@ -1,6 +1,6 @@
 # %%
 from bs4 import BeautifulSoup
-# import requests
+import requests
 import pandas as pd
 from pathlib import Path
 
@@ -18,24 +18,23 @@ soup_html = BeautifulSoup(html, 'html.parser')
 # ## save rendered slow zone img
 
 # %%
-# slow_zone_img = ''
+slow_zone_img = ''
 
-# imgs = soup_html.select('img')
+imgs = soup_html.select('img')
 
-# for img in imgs:
-#     if('reduced speed zone' in str(img.get('alt')).lower()):
-#         slow_zone_img = str(img.get('src'))
+for img in imgs:
+    if('reduced speed zone' in str(img.get('alt')).lower()):
+        slow_zone_img = str(img.get('src'))
 
-# if(slow_zone_img):
-    # response = requests.get(slow_zone_img, headers=headers)
+if(slow_zone_img):
+    response = requests.get(slow_zone_img, headers=headers)
 
-    # # make sure the path exist
-    # path = '../data/ttc/slow-zone'
-    # Path(path).mkdir(parents=True, exist_ok=True)
+    # make sure the path exist
+    path = '../data/ttc/slow-zone'
+    Path(path).mkdir(parents=True, exist_ok=True)
 
-    # with open(path + '/slow-zone.svg', 'w', encoding='utf-8') as f:
-    #     f.write(response.text)
-
+    with open(path + '/slow-zone.svg', 'w', encoding='utf-8') as f:
+        f.write(response.text)
 
 # %% [markdown]
 # ## save slow zone table data
