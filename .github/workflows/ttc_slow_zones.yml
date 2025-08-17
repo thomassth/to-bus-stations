@@ -1,0 +1,42 @@
+name: Parse TTC subway slow zone data
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Refresh TTC Feed"]
+    types:
+      - completed
+jobs:
+  data-parsing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}-parse
+          restore-keys: |
+            ${{ runner.os }}-pip-parse-
+      - name: Install dependencies
+        working-directory: ./processor
+        run: pip install -r requirements.txt
+      - name: Parse TTC subway closures
+        working-directory: ./processor
+        run: python ttc-slow-zones.py
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add -A
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Update subway closures data"
+            git push
+          else
+            echo "No changes to commit"
+          fi
