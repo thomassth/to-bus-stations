@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 3,
+  "Count": 8,
   "Results": [
     {
       "Id": "ffc5a46d-8f61-4dd1-bf9f-0d53f21860de",
@@ -18,6 +18,46 @@
       "Url": "/service-advisories/subway-service/Line-1-Sheppard-West-to-St-Clair-West-nightly-early-closures-Aug-26-to-29-2025",
       "Name": null,
       "Html": "<a title=\"Line 1 Sheppard West to St Clair West nightly early closures Aug 26 to 29 2025\" href=\"/service-advisories/subway-service/Line-1-Sheppard-West-to-St-Clair-West-nightly-early-closures-Aug-26-to-29-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard West to St Clair West stations – nightly early closures starting at 11:59 p.m. – Tuesday, August 26 to Friday, August 29, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">August 26, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">August 29, 2025</span></div>"
+    },
+    {
+      "Id": "9177b1da-46a9-49c6-860f-00d60bc2e7be",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Islington Full weekend closure Sept 6 to 7 2025",
+      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Islington-Full-weekend-closure-Sept-6-to-7-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Kipling to Islington Full weekend closure Sept 6 to 7 2025\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Islington-Full-weekend-closure-Sept-6-to-7-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Islington stations – Full weekend closure – Saturday, September 6 to Sunday, September 7, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 6, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">September 7, 2025</span></div>"
+    },
+    {
+      "Id": "97d60bee-8592-4ef7-a3f3-65704ac957e3",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Sheppard West to St Clair West Nightly early closures September 8 and 9",
+      "Url": "/service-advisories/subway-service/Line-1-Sheppard-West-to-St-Clair-West-Nightly-early-closures-September-8-and-9",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Sheppard West to St Clair West Nightly early closures September 8 and 9\" href=\"/service-advisories/subway-service/Line-1-Sheppard-West-to-St-Clair-West-Nightly-early-closures-September-8-and-9\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard West to St Clair West stations – Nightly early closures starting at 11:59 p.m. – Monday, September 8 and Tuesday, September 9</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 8, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">September 9, 2025</span></div>"
+    },
+    {
+      "Id": "2ac47624-83b1-4d9e-bcbf-d3991c4bf21f",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Sheppard West to St Clair West Nightly early closures Sept 11 and 12",
+      "Url": "/service-advisories/subway-service/Line-1-Sheppard-West-to-St-Clair-West-Nightly-early-closures-Sept-11-and-12",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Sheppard West to St Clair West Nightly early closures Sept 11 and 12\" href=\"/service-advisories/subway-service/Line-1-Sheppard-West-to-St-Clair-West-Nightly-early-closures-Sept-11-and-12\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard West to St Clair West stations – Nightly early closures starting at 11:59 p.m. – Thursday, September 11 and Friday, September 12</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 11, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">September 12, 2025</span></div>"
+    },
+    {
+      "Id": "7fc01929-df11-4dd1-94cc-65c1e6a48098",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Broadview Late opening Sept 14 2025",
+      "Url": "/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-Sept-14-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 2 St George to Broadview Late opening Sept 14 2025\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-Sept-14-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Broadview stations – Late opening on Sunday, September 14, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>September 14, 2025<span>&nbsp;</span></div>"
+    },
+    {
+      "Id": "873f8269-caef-4440-8fd9-506b576d90b2",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch West to Sheppard West Planned single-track operation Sept 15 to 18 2025",
+      "Url": "/service-advisories/subway-service/Line-1-Finch-West-to-Sheppard-West-Planned-single-track-operation-Sept-15-to-18-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Finch West to Sheppard West Planned single-track operation Sept 15 to 18 2025\" href=\"/service-advisories/subway-service/Line-1-Finch-West-to-Sheppard-West-Planned-single-track-operation-Sept-15-to-18-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch West to Sheppard West stations – Planned single-track operation starting at 11 p.m., nightly, Monday, September 15 to Thursday, September 18, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 15, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">September 18, 2025</span></div>"
     }
   ]
 }
