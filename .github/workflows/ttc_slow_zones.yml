@@ -3,7 +3,7 @@ name: Parse TTC subway slow zone data
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["Refresh TTC Feed"]
+    workflows: ["Parse TTC subway closure data"]
     types:
       - completed
 jobs:
