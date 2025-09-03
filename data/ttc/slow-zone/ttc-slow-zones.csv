@@ -1,20 +1,17 @@
 Line,Location,Length of Defect (metres),Distance between stations (metres),Track under reduced speed (%),Reduced Speed (km/h),Normal speed (km/h),Reason,Target removal
-Line 1 (Yonge-University),Southbound North York Centre to Sheppard (x2),340,1421,24,15,42,Track issues,TBD
 Line 1 (Yonge-University),Southbound Eglinton to Davisville (x2),152,891,17,25,32,Track and signal issues,Mid-September
 Line 1 (Yonge-University),Southbound Davisville to St Clair,213,1123,19,35,43,Track issue,Early September
 Line 1 (Yonge-University),Southbound St Clair to Summerhill,213,796,27,40,42,Track issue,Mid-September
-Line 1 (Yonge-University),Southbound Rosedale to Bloor,156,750,21,20,39,Track issue,Early September
 Line 1 (Yonge-University),Northbound Bloor to Rosedale,168,743,23,20,34,Track and signal issues,Mid-September
-Line 1 (Yonge-University),Northbound St Clair West to Eglinton West,344,2617,13,40,42,Track issue,Early September
-Line 1 (Yonge-University),Northbound Glencairn to Lawrence West (x2),321,763,42,20,37,Track issue,Early September
-Line 1 (Yonge-University),Southbound Lawrence West to Glencairn,231,750,31,20,39,Track issue,Mid-September
+Line 1 (Yonge-University),Northbound Glencairn to Lawrence West,165,763,22,20,37,Track issue,Early September
+Line 1 (Yonge-University),Southbound Lawrence West to Glencairn,231,750,31,20,39,Track issue,TBD
 Line 1 (Yonge-University),Southbound Yorkdale to Lawrence West,579,1122,52,35,48,Track issue,Mid-September
 Line 1 (Yonge-University),Southbound Wilson to Yorkdale,152,1105,14,40,43,Track issue,Early November
-Line 1 (Yonge-University),Northbound Wilson to Sheppard Wes,160,2032,8,20,51,Track issue,TBD
+Line 1 (Yonge-University),Northbound Wilson to Sheppard West,160,2032,8,20,51,Track issue,Mid-September
 Line 2 (Bloor-Danforth),Westbound Warden to Victoria Park,182,2759,7,25,46,Track issue,Mid-September
 Line 2 (Bloor-Danforth),Eastbound Donlands to Greenwood,152,738,21,30,41,Track issue,Mid-September
 Line 2 (Bloor-Danforth),Eastbound Spadina to St George,183,512,36,15,34,Track issue,Mid-September
 Line 2 (Bloor-Danforth),Westbound Spadina to Bathurst,213,549,39,15,37,Track issue,Mid-September
 Line 2 (Bloor-Danforth),Eastbound Dundas West to Lansdowne,157,836,19,15,41,Track issue,Mid-September
 Line 2 (Bloor-Danforth),Westbound Jane to Old Mill,183,889,21,35,37,Track issue,Mid-September
-Line 2 (Bloor-Danforth),Westbound Kipling to Islington,160,1289,13,20,34,Track issue,TBD
+Line 2 (Bloor-Danforth),Westbound Islington to Kipling,160,1289,13,20,34,Track issue,TBD
