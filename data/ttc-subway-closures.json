@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 7,
+  "Count": 6,
   "Results": [
-    {
-      "Id": "9177b1da-46a9-49c6-860f-00d60bc2e7be",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Islington Full weekend closure Sept 6 to 7 2025",
-      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Islington-Full-weekend-closure-Sept-6-to-7-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Kipling to Islington Full weekend closure Sept 6 to 7 2025\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Islington-Full-weekend-closure-Sept-6-to-7-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Islington stations – Full weekend closure – Saturday, September 6 to Sunday, September 7, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 6, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">September 7, 2025</span></div>"
-    },
     {
       "Id": "97d60bee-8592-4ef7-a3f3-65704ac957e3",
       "Language": "en",
