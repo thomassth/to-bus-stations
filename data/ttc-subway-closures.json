@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 6,
+  "Count": 5,
   "Results": [
-    {
-      "Id": "97d60bee-8592-4ef7-a3f3-65704ac957e3",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Sheppard West to St Clair West Nightly early closures September 8 and 9",
-      "Url": "/service-advisories/subway-service/Line-1-Sheppard-West-to-St-Clair-West-Nightly-early-closures-September-8-and-9",
-      "Name": null,
-      "Html": "<a title=\"Line 1 Sheppard West to St Clair West Nightly early closures September 8 and 9\" href=\"/service-advisories/subway-service/Line-1-Sheppard-West-to-St-Clair-West-Nightly-early-closures-September-8-and-9\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard West to St Clair West stations – Nightly early closures starting at 11:59 p.m. – Monday, September 8 and Tuesday, September 9</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 8, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">September 9, 2025</span></div>"
-    },
     {
       "Id": "2ac47624-83b1-4d9e-bcbf-d3991c4bf21f",
       "Language": "en",
