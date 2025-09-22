@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 6,
+  "Count": 5,
   "Results": [
-    {
-      "Id": "f72d16c5-30a2-4379-88cc-145c85cea037",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Keele Full weekend closure Sept 20 to 21 2025",
-      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Keele-Full-weekend-closure-Sept-20-to-21-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Kipling to Keele Full weekend closure Sept 20 to 21 2025\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Keele-Full-weekend-closure-Sept-20-to-21-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Keele stations – Full weekend closure on Saturday, September 20 to Sunday, September 21, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 20, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">September 21, 2025</span></div>"
-    },
     {
       "Id": "873f8269-caef-4440-8fd9-506b576d90b2",
       "Language": "en",
