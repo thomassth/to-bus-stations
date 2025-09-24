@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 5,
+  "Count": 8,
   "Results": [
     {
       "Id": "873f8269-caef-4440-8fd9-506b576d90b2",
@@ -34,6 +34,30 @@
       "Url": "/service-advisories/subway-service/Line-2-Warden-to-Kennedy-Full-weekend-closure-Sept-27-to-28-2025",
       "Name": null,
       "Html": "<a title=\"Line 2 Warden to Kennedy Full weekend closure Sept 27 to 28 2025\" href=\"/service-advisories/subway-service/Line-2-Warden-to-Kennedy-Full-weekend-closure-Sept-27-to-28-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Warden to Kennedy stations – Full weekend closure on Saturday, September 27 to Sunday, September 28, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 27, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">September 28, 2025</span></div>"
+    },
+    {
+      "Id": "2161fe63-33fc-4144-84fa-55d2c72bbb89",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch West to Sheppard West Planned single track operation Sept 29 to Oct 2 2025",
+      "Url": "/service-advisories/subway-service/Line-1-Finch-West-to-Sheppard-West-Planned-single-track-operation-Sept-29-to-Oct-2-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Finch West to Sheppard West Planned single track operation Sept 29 to Oct 2 2025\" href=\"/service-advisories/subway-service/Line-1-Finch-West-to-Sheppard-West-Planned-single-track-operation-Sept-29-to-Oct-2-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch West to Sheppard West stations – Planned single-track operation starting at 11 p.m., nightly, Monday, September 29 to Thursday, October 2, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 29, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">October 2, 2025</span></div>"
+    },
+    {
+      "Id": "d8e02b9b-3f44-4f6d-955d-cf805bb4f748",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Ossington to St George Nightly early closures Sept 29 to Oct 3 2025",
+      "Url": "/service-advisories/subway-service/Line-2-Ossington-to-St-George-Nightly-early-closures-Sept-29-to-Oct-3-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Ossington to St George Nightly early closures Sept 29 to Oct 3 2025\" href=\"/service-advisories/subway-service/Line-2-Ossington-to-St-George-Nightly-early-closures-Sept-29-to-Oct-3-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Ossington to St George stations – Nightly early closures starting at 11:59 p.m. – Monday, September 29 to Friday, October 3, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 29, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">October 3, 2025</span></div>"
+    },
+    {
+      "Id": "c9735a54-b9a0-4e05-9960-03f91c78d1f7",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Eglinton Nightly early closures Oct 6 to 9 2025",
+      "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Oct-6-to-9-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures Oct 6 to 9 2025\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Oct-6-to-9-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. – Monday, October 6 to Thursday, October 9, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">October 6, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">October 9, 2025</span></div>"
     }
   ]
 }
