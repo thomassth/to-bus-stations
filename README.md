@@ -1,7 +1,10 @@
 # to-bus-stations
 
-[![Refresh Feed](https://github.com/thomassth/to-bus-stations/actions/workflows/main.yml/badge.svg)](https://github.com/thomassth/to-bus-stations/actions/workflows/main.yml)
-[![Python workflow](https://github.com/thomassth/to-bus-stations/actions/workflows/compute.yml/badge.svg)](https://github.com/thomassth/to-bus-stations/actions/workflows/compute.yml)
+[![Refresh TTC Feed](https://github.com/thomassth/to-bus-stations/actions/workflows/ttc.yml/badge.svg)](https://github.com/thomassth/to-bus-stations/actions/workflows/ttc.yml) [![Parse TTC stops data](https://github.com/thomassth/to-bus-stations/actions/workflows/ttc_stops.yml/badge.svg)](https://github.com/thomassth/to-bus-stations/actions/workflows/ttc_stops.yml) [![Parse TTC subway closure data](https://github.com/thomassth/to-bus-stations/actions/workflows/ttc_subway_closure.yml/badge.svg)](https://github.com/thomassth/to-bus-stations/actions/workflows/ttc_subway_closure.yml) [![Parse TTC subway slow zone data](https://github.com/thomassth/to-bus-stations/actions/workflows/ttc_slow_zones.yml/badge.svg)](https://github.com/thomassth/to-bus-stations/actions/workflows/ttc_slow_zones.yml)
+
+[![Refresh YRT Feed](https://github.com/thomassth/to-bus-stations/actions/workflows/yrt.yml/badge.svg)](https://github.com/thomassth/to-bus-stations/actions/workflows/yrt.yml) [![Parse YRT data](https://github.com/thomassth/to-bus-stations/actions/workflows/yrt_stops.yml/badge.svg)](https://github.com/thomassth/to-bus-stations/actions/workflows/yrt_stops.yml)
+
+[![Deploy static content to Pages](https://github.com/thomassth/to-bus-stations/actions/workflows/static.yml/badge.svg)](https://github.com/thomassth/to-bus-stations/actions/workflows/static.yml)
 
 Inspired by https://github.com/hkbus/hk-bus-crawling, this repo crawl, parse & hosts **useful, static** transit data.
 
