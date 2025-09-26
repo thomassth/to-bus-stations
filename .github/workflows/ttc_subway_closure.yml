@@ -3,7 +3,7 @@ name: Parse TTC subway closure data
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["Refresh TTC Feed"]
+    workflows: ["Parse TTC stops data"]
     types:
       - completed
 jobs:
