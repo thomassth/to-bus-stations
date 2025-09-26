@@ -33,7 +33,7 @@ for i, html in enumerate(html_parts):
     start_date = ''
     end_date = ''
     if "to" in effective_date_elem:
-        start_date, end_date = [d.strip() for d in effective_date_elem.split("to", 1)]
+        start_date, end_date = [d.strip() for d in effective_date_elem.split("to ", 1)]
     else:
         start_date = effective_date_elem
         end_date = effective_date_elem
