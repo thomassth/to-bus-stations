@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 7,
+  "Count": 6,
   "Results": [
-    {
-      "Id": "a6021bed-b13a-433c-9517-582484d7fb26",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Ossington to St George Nightly early closures Sept 22 to 26 2025",
-      "Url": "/service-advisories/subway-service/Line-2-Ossington-to-St-George-Nightly-early-closures-Sept-22-to-26-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Ossington to St George Nightly early closures Sept 22 to 26 2025\" href=\"/service-advisories/subway-service/Line-2-Ossington-to-St-George-Nightly-early-closures-Sept-22-to-26-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Ossington to St George stations – Nightly early closures starting at 11:59 p.m. – Monday, September 22 to Friday, September 26, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 22, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">September 26, 2025</span></div>"
-    },
     {
       "Id": "f0a454eb-980c-4ba9-9c93-1bdc56183fce",
       "Language": "en",
