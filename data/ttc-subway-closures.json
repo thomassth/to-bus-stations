@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 2,
+  "Count": 3,
   "Results": [
     {
       "Id": "c9735a54-b9a0-4e05-9960-03f91c78d1f7",
@@ -10,6 +10,14 @@
       "Url": "/service-advisories/subway-service/Line-1-Finch-to-St-Clair-stations-Nightly-early-closures-Oct-6-to-9-2025",
       "Name": null,
       "Html": "<a title=\"Line 1 Finch to St Clair stations Nightly early closures Oct 6 to 9 2025\" href=\"/service-advisories/subway-service/Line-1-Finch-to-St-Clair-stations-Nightly-early-closures-Oct-6-to-9-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to St Clair stations  – Nightly early closures starting at 11 p.m. – Monday, October 6 to Thursday, October 9, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">October 6, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">October 9, 2025</span></div>"
+    },
+    {
+      "Id": "dceaea0d-9685-4800-a534-ac7e4f2e158f",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Yonge-University Finch West to Sheppard West stations October 20 to Thursday October 23 2025",
+      "Url": "/service-advisories/subway-service/Line-1-Yonge-University-Finch-West-to-Sheppard-West-stations-October-20-to-Thursday-October-23-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Yonge-University Finch West to Sheppard West stations October 20 to Thursday October 23 2025\" href=\"/service-advisories/subway-service/Line-1-Yonge-University-Finch-West-to-Sheppard-West-stations-October-20-to-Thursday-October-23-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch West to Sheppard West stations – Planned single-track operation starting at 11 p.m., nightly, Monday, October 20 to Thursday, October 23, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>October 20, 2025<span>&nbsp;</span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">October 23, 2025</span></div>"
     }
   ]
 }
