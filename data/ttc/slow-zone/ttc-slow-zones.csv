@@ -1,10 +1,12 @@
 Line,Location,Length of defect (metres),Distance between stations (metres),Track under reduced speed (%),Reduced speed (km/h),Normal speed (km/h),Reason,Target removal
 Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Southbound Eglinton to Davisville,152,891,17,25,32,Track issue,Mid-October
+Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Northbound St Andrew to Osgoode,158,392,40,15,28,Track issue,TBD
+Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Northbound St George to Spadina,168,660,25,15,29,Track issue,TBD
 Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Northbound Glencairn to Lawrence West,165,763,22,20,37,Track issue,Late October
 Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Northbound Wilson to Sheppard West,160,"2,032",8,20,51,Track issue,Late October
 Line 1 (Yonge-University) to Finch Station,Southbound Yorkdale to Lawrence West,579,"1,122",52,35,48,Track issue,TBD
 Line 1 (Yonge-University) to Finch Station,Southbound Lawrence West to Glencairn,157,750,21,15,39,Track issue,Late October
-Line 1 (Yonge-University) to Finch Station,Northbound Union to King,183,454,40,15,27,Track issue,Mid-October
+Line 1 (Yonge-University) to Finch Station,Northbound Union to King,183,454,40,15,27,Track issue,Early November
 Line 2 (Bloor-Danforth) to Kennedy Station,Eastbound Kipling to Islington,210,"1,282",16,20,31,Track issue,TBD
 Line 2 (Bloor-Danforth) to Kennedy Station,Eastbound Dundas West to Lansdowne,157,836,19,15,41,Track issue,Late October
 Line 2 (Bloor-Danforth) to Kennedy Station,Eastbound Donlands to Greenwood,152,738,21,30,41,Track issue,Mid-October
