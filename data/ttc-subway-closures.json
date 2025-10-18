@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 2,
+  "Count": 6,
   "Results": [
     {
       "Id": "dceaea0d-9685-4800-a534-ac7e4f2e158f",
@@ -10,6 +10,38 @@
       "Url": "/service-advisories/subway-service/Line-1-Yonge-University-Finch-West-to-Sheppard-West-stations-October-20-to-Thursday-October-23-2025",
       "Name": null,
       "Html": "<a title=\"Line 1 Yonge-University Finch West to Sheppard West stations October 20 to Thursday October 23 2025\" href=\"/service-advisories/subway-service/Line-1-Yonge-University-Finch-West-to-Sheppard-West-stations-October-20-to-Thursday-October-23-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch West to Sheppard West stations – Planned single-track operation starting at 11 p.m., nightly, Monday, October 20 to Thursday, October 23, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>October 20, 2025<span>&nbsp;</span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">October 23, 2025</span></div>"
+    },
+    {
+      "Id": "4a5e3801-218b-46a0-adeb-d6de09f8ac92",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2  Kipling to Islington stations October 27",
+      "Url": "/service-advisories/subway-service/Line-2--Kipling-to-Islington-stations-October-27",
+      "Name": null,
+      "Html": "<a title=\"Line 2  Kipling to Islington stations October 27\" href=\"/service-advisories/subway-service/Line-2--Kipling-to-Islington-stations-October-27\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Islington stations – Nightly early closures starting at 11:59 p.m. – Monday, October 27 to Friday, October 31, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>October 27, 2025<span>&nbsp;</span><span class=\"effective-date-tolabel\">to </span><span class=\"sa-end-date-label-wrapper\"></span><span class=\"field-endeffectivedate\">October 31, 2025</span></div>"
+    },
+    {
+      "Id": "07a1f2ba-f9ea-4a03-b9e2-8013481e8abd",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2  Kipling to Islington stations November 3 to 7",
+      "Url": "/service-advisories/subway-service/Line-2--Kipling-to-Islington-stations-November-3-to-7",
+      "Name": null,
+      "Html": "<a title=\"Line 2  Kipling to Islington stations November 3 to 7\" href=\"/service-advisories/subway-service/Line-2--Kipling-to-Islington-stations-November-3-to-7\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Islington stations – Nightly early closures starting at 11:59 p.m. – Monday, November 3 to Friday, November 7, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>November 3, 2025<span>&nbsp;</span><span class=\"effective-date-tolabel\">to </span><span class=\"sa-end-date-label-wrapper\"></span><span class=\"field-endeffectivedate\">November 7, 2025</span></div>"
+    },
+    {
+      "Id": "c93dcbb0-e7a4-4700-bea0-ead749758a80",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2  Kipling to Islington stations November 17 to 21",
+      "Url": "/service-advisories/subway-service/Line-2--Kipling-to-Islington-stations-November-17-to-21",
+      "Name": null,
+      "Html": "<a title=\"Line 2  Kipling to Islington stations November 17 to 21\" href=\"/service-advisories/subway-service/Line-2--Kipling-to-Islington-stations-November-17-to-21\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Islington stations – Nightly early closures starting at 11 p.m. – Monday, November 17 to Friday, November 21, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>November 17, 2025<span>&nbsp;</span><span class=\"effective-date-tolabel\">to </span><span class=\"sa-end-date-label-wrapper\"></span><span class=\"field-endeffectivedate\">November 21, 2025</span></div>"
+    },
+    {
+      "Id": "e1af011e-ed97-47f9-b25d-966a41feaffe",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1  Finch to Eglinton stations November 17 to 20",
+      "Url": "/service-advisories/subway-service/Line-1--Finch-to-Eglinton-stations-November-17-to-20",
+      "Name": null,
+      "Html": "<a title=\"Line 1  Finch to Eglinton stations November 17 to 20\" href=\"/service-advisories/subway-service/Line-1--Finch-to-Eglinton-stations-November-17-to-20\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. – Monday, November 17 to Thursday, November 20, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>November 17, 2025<span>&nbsp;</span><span class=\"effective-date-tolabel\">to </span><span class=\"sa-end-date-label-wrapper\"></span><span class=\"field-endeffectivedate\">November 20, 2025</span></div>"
     }
   ]
 }
