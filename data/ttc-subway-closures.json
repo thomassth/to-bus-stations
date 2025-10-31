@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 6,
+  "Count": 5,
   "Results": [
-    {
-      "Id": "4a5e3801-218b-46a0-adeb-d6de09f8ac92",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2  Kipling to Islington stations October 27",
-      "Url": "/service-advisories/subway-service/Line-2--Kipling-to-Islington-stations-October-27",
-      "Name": null,
-      "Html": "<a title=\"Line 2  Kipling to Islington stations October 27\" href=\"/service-advisories/subway-service/Line-2--Kipling-to-Islington-stations-October-27\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">REVISED – Kipling to Islington stations – Nightly early closures starting at 11:59 p.m. – Monday, October 27 to Thursday, October 30, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>October 27, 2025<span>&nbsp;</span><span class=\"effective-date-tolabel\">to </span><span class=\"sa-end-date-label-wrapper\"></span><span class=\"field-endeffectivedate\">October 30, 2025</span></div>"
-    },
     {
       "Id": "07a1f2ba-f9ea-4a03-b9e2-8013481e8abd",
       "Language": "en",
