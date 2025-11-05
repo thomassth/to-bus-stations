@@ -20,20 +20,20 @@
       "Html": "<a title=\"Line 1 St George to St Andrew Full weekend closure Nov 8 to 9 2025\" href=\"/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Full-weekend-closure-Nov-8-to-9-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to St Andrew stations – Full weekend closure on Saturday, November 8 to Sunday, November 9, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 8, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 9, 2025</span></div>"
     },
     {
-      "Id": "c93dcbb0-e7a4-4700-bea0-ead749758a80",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2  Kipling to Islington stations November 17 to 21",
-      "Url": "/service-advisories/subway-service/Line-2--Kipling-to-Islington-stations-November-17-to-21",
-      "Name": null,
-      "Html": "<a title=\"Line 2  Kipling to Islington stations November 17 to 21\" href=\"/service-advisories/subway-service/Line-2--Kipling-to-Islington-stations-November-17-to-21\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Islington stations – Nightly early closures starting at 11 p.m. – Monday, November 17 to Friday, November 21, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>November 17, 2025<span>&nbsp;</span><span class=\"effective-date-tolabel\">to </span><span class=\"sa-end-date-label-wrapper\"></span><span class=\"field-endeffectivedate\">November 21, 2025</span></div>"
-    },
-    {
       "Id": "e1af011e-ed97-47f9-b25d-966a41feaffe",
       "Language": "en",
       "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1  Finch to Eglinton stations November 17 to 20",
       "Url": "/service-advisories/subway-service/Line-1--Finch-to-Eglinton-stations-November-17-to-20",
       "Name": null,
       "Html": "<a title=\"Line 1  Finch to Eglinton stations November 17 to 20\" href=\"/service-advisories/subway-service/Line-1--Finch-to-Eglinton-stations-November-17-to-20\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. – Monday, November 17 to Thursday, November 20, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>November 17, 2025<span>&nbsp;</span><span class=\"effective-date-tolabel\">to </span><span class=\"sa-end-date-label-wrapper\"></span><span class=\"field-endeffectivedate\">November 20, 2025</span></div>"
+    },
+    {
+      "Id": "c93dcbb0-e7a4-4700-bea0-ead749758a80",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2  Kipling to Islington stations November 18 to 21",
+      "Url": "/service-advisories/subway-service/Line-2--Kipling-to-Islington-stations-November-18-to-21",
+      "Name": null,
+      "Html": "<a title=\"Line 2  Kipling to Islington stations November 18 to 21\" href=\"/service-advisories/subway-service/Line-2--Kipling-to-Islington-stations-November-18-to-21\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Islington stations – Nightly early closures starting at 11 p.m. – Tuesday, November 18 to Friday, November 21, 2025</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>November 18, 2025<span>&nbsp;</span><span class=\"effective-date-tolabel\">to </span><span class=\"sa-end-date-label-wrapper\"></span><span class=\"field-endeffectivedate\">November 21, 2025</span></div>"
     }
   ]
 }
