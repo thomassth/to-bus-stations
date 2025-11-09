@@ -30,6 +30,8 @@ jobs:
       - name: Build and Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v4
         with:
+          git-config-email: github-actions[bot]@users.noreply.github.com
+          git-config-name: github-actions[bot]
           branch: main # Pushes the updates to the master branch.
           folder: fetch-api-data-action # The location of the data.json file saved by the Fetch API Data action.
           target-folder: data # Saves the data into the 'data' directory on the master branch.
