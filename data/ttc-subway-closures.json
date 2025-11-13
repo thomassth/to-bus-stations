@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 5,
+  "Count": 6,
   "Results": [
     {
       "Id": "c283340a-e7c5-4cc3-b838-6aba6a06e962",
@@ -10,6 +10,14 @@
       "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Islington-Nightly-early-closures-Nov-10-to-14-2025",
       "Name": null,
       "Html": "<a title=\"Line 2 Kipling to Islington Nightly early closures Nov 10 to 14 2025\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Islington-Nightly-early-closures-Nov-10-to-14-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Islington stations – Nightly early closures starting at 11:59 p.m. – Monday, November 10 to Friday, November 14, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 10, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 14, 2025</span></div>"
+    },
+    {
+      "Id": "89d934df-3cab-42c4-8cc7-5c0cd8719463",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Sheppard Yonge Nightly early closure Nov 14 2025",
+      "Url": "/service-advisories/subway-service/Line-1-Finch-to-Sheppard-Yonge-Nightly-early-closure-Nov-14-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Finch to Sheppard Yonge Nightly early closure Nov 14 2025\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Sheppard-Yonge-Nightly-early-closure-Nov-14-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Sheppard-Yonge stations – Nightly early closure starting at 11:59 p.m. on Friday, November 14, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>November 14, 2025<span>&nbsp;</span></div>"
     },
     {
       "Id": "0ac07fe0-3445-4572-bd7f-e11575d45abc",
