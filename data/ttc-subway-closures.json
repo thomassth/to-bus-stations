@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 4,
+  "Count": 3,
   "Results": [
-    {
-      "Id": "0ac07fe0-3445-4572-bd7f-e11575d45abc",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Jane Full weekend closures Nov 15 to 16 2025",
-      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Jane-Full-weekend-closures-Nov-15-to-16-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Kipling to Jane Full weekend closures Nov 15 to 16 2025\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Jane-Full-weekend-closures-Nov-15-to-16-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Jane stations – Full weekend closures – Saturday, November 15 to Sunday, November 16, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 15, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 16, 2025</span></div>"
-    },
     {
       "Id": "c93dcbb0-e7a4-4700-bea0-ead749758a80",
       "Language": "en",
