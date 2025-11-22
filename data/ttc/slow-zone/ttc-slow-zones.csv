@@ -1,7 +1,8 @@
 Line,Location,Length of defect (metres),Distance between stations (metres),Track under reduced speed (%),Reduced speed (km/h),Normal speed (km/h),Reason,Target removal
 Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Southbound Eglinton to Davisville,152,891,17,25,32,Track issue,Early December
-Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Northbound Union to St Andrew,198,604,33,25,27,Track issue,TBD
+Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Northbound Union to St Andrew,198,604,33,25,27,Track issue,Early December
 Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Northbound Glencairn to Lawrence West,157,763,21,15,37,Track issue,Late November
+Line 1 (Yonge-University) to Finch Station,Southbound Sheppard West to Wilson,186,"2,047",9,20,46,Track issue,TBD
 Line 1 (Yonge-University) to Finch Station,Southbound Yorkdale to Lawrence West,579,"1,122",52,25,48,Track issue,Early December
 Line 1 (Yonge-University) to Finch Station,Northbound Union to King,183,454,40,15,27,Track issue,Mid-December
 Line 2 (Bloor-Danforth) to Kennedy Station,Eastbound Kipling to Islington,210,"1,282",16,25,31,Track issue,Late November
