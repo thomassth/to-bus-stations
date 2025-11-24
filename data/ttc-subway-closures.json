@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 5,
+  "Count": 4,
   "Results": [
-    {
-      "Id": "6401b2f8-7ce3-4303-9fbc-64f0ef2e2dfd",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St George to St Andrew Single day closure Nov 22 2025",
-      "Url": "/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Single-day-closure-Nov-22-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 1 St George to St Andrew Single day closure Nov 22 2025\" href=\"/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Single-day-closure-Nov-22-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to St Andrew stations – Single-day closure on Saturday, November 22, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>November 22, 2025<span>&nbsp;</span></div>"
-    },
     {
       "Id": "f6d5570a-a87e-48fd-80ee-4061a4983a9f",
       "Language": "en",
