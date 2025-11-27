@@ -1,15 +1,31 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 4,
+  "Count": 9,
   "Results": [
+    {
+      "Id": "27c93942-12d2-4971-8428-2bdfd059850a",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Eglinton to Sheppard Yonge Subway service temporarily suspended Nov 26 2025",
+      "Url": "/service-advisories/subway-service/Line-1-Eglinton-to-Sheppard-Yonge-Subway-service-temporarily-suspended-Nov-26-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Eglinton to Sheppard Yonge Subway service temporarily suspended Nov 26 2025\" href=\"/service-advisories/subway-service/Line-1-Eglinton-to-Sheppard-Yonge-Subway-service-temporarily-suspended-Nov-26-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Eglinton to Sheppard-Yonge stations – Subway service temporarily suspended on Wednesday, November 26, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 26, 2025<span>&nbsp;</span></span></div>"
+    },
     {
       "Id": "f6d5570a-a87e-48fd-80ee-4061a4983a9f",
       "Language": "en",
       "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Osgoode to College Nightly early closures Nov 24 to 28 2025",
       "Url": "/service-advisories/subway-service/Line-1-Osgoode-to-College-Nightly-early-closures-Nov-24-to-28-2025",
       "Name": null,
-      "Html": "<a title=\"Line 1 Osgoode to College Nightly early closures Nov 24 to 28 2025\" href=\"/service-advisories/subway-service/Line-1-Osgoode-to-College-Nightly-early-closures-Nov-24-to-28-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Osgoode to College stations – Nightly early closures starting at 11:59 p.m. - Monday, November 24 to Friday, November 28, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 24, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 28, 2025</span></div>"
+      "Html": "<a title=\"Line 1 Osgoode to College Nightly early closures Nov 24 to 28 2025\" href=\"/service-advisories/subway-service/Line-1-Osgoode-to-College-Nightly-early-closures-Nov-24-to-28-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">UPDATED - Osgoode to College stations – Nightly early closures starting at 11:59 p.m. - Thursday, November 27 to Friday, November 28, 2025.</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 27, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 28, 2025</span></div>"
+    },
+    {
+      "Id": "d160e2f4-0882-4e1e-94ea-a02ccc7567d0",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Eglinton to Sheppard-Yonge Nightly early closures Nov 27 to 28 2025",
+      "Url": "/service-advisories/subway-service/Line-1-Eglinton-to-Sheppard-Yonge-Nightly-early-closures-Nov-27-to-28-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Eglinton to Sheppard-Yonge Nightly early closures Nov 27 to 28 2025\" href=\"/service-advisories/subway-service/Line-1-Eglinton-to-Sheppard-Yonge-Nightly-early-closures-Nov-27-to-28-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Eglinton to Sheppard-Yonge stations – Nightly early closures starting at 11 p.m. - Thursday, November 27 to Friday, November 28, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 27, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 28, 2025</span></div>"
     },
     {
       "Id": "3f7f4bfc-5655-42ed-93ef-519b32fbd18d",
@@ -26,6 +42,30 @@
       "Url": "/service-advisories/subway-service/Line-1-Osgoode-to-College-Nightly-early-closures-Dec-1-to-5-2025",
       "Name": null,
       "Html": "<a title=\"Line 1 Osgoode to College Nightly early closures Dec 1 to 5 2025\" href=\"/service-advisories/subway-service/Line-1-Osgoode-to-College-Nightly-early-closures-Dec-1-to-5-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Osgoode to College stations – Nightly early closures starting at 11:59 p.m. - Monday, December 1 to Friday, December 5, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">December 1, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">December 5, 2025</span></div>"
+    },
+    {
+      "Id": "1620c393-e3d4-42b9-847a-0bc8ec6042dd",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Osgoode to College Full weekend closure Dec 6 to 7 2025",
+      "Url": "/service-advisories/subway-service/Line-1-Osgoode-to-College-Full-weekend-closure-Dec-6-to-7-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Osgoode to College Full weekend closure Dec 6 to 7 2025\" href=\"/service-advisories/subway-service/Line-1-Osgoode-to-College-Full-weekend-closure-Dec-6-to-7-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Osgoode to College stations – Full weekend closure - Saturday, December 6 to Sunday, December 7, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">December 6, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">December 7, 2025</span></div>"
+    },
+    {
+      "Id": "ab6b3593-08b3-43e2-a225-06bbc87b9632",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Warden to Kennedy Full weekend closure Dec 6 to 7 2025",
+      "Url": "/service-advisories/subway-service/Line-2-Warden-to-Kennedy-Full-weekend-closure-Dec-6-to-7-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Warden to Kennedy Full weekend closure Dec 6 to 7 2025\" href=\"/service-advisories/subway-service/Line-2-Warden-to-Kennedy-Full-weekend-closure-Dec-6-to-7-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Warden to Kennedy stations – Full weekend closure – Saturday, December 6 to Sunday, December 7, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">December 6, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">December 7, 2025</span></div>"
+    },
+    {
+      "Id": "57e4447b-55a0-4ab0-bcc7-547f61c42141",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Osgoode to College Nightly early closures Dec 8 to 12 2025",
+      "Url": "/service-advisories/subway-service/Line-1-Osgoode-to-College-Nightly-early-closures-Dec-8-to-12-2025",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Osgoode to College Nightly early closures Dec 8 to 12 2025\" href=\"/service-advisories/subway-service/Line-1-Osgoode-to-College-Nightly-early-closures-Dec-8-to-12-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Osgoode to College stations – Nightly early closures starting at 11:59 p.m. - Monday, December 8 to Friday, December 12, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">December 8, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">December 12, 2025</span></div>"
     }
   ]
 }
