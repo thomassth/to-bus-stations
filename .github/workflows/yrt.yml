@@ -17,6 +17,7 @@ jobs:
         with:
           endpoint: https://tripplanner.yrt.ca/TI_FixedRoute_Line
           retry: true
+          set-output: true
           configuration: |
             {
               "method": "POST",
