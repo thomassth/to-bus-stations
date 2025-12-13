@@ -65,6 +65,7 @@ jobs:
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
+          git pull 
           git add -A
           if ! git diff-index --quiet HEAD; then
             git commit -m "Update TTC stops data"
@@ -100,6 +101,7 @@ jobs:
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
+          git pull 
           git add -A
           if ! git diff-index --quiet HEAD; then
             git commit -m "Update TTC slow zone data"
