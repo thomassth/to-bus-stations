@@ -1,24 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 4,
+  "Count": 2,
   "Results": [
-    {
-      "Id": "b086b04b-1df0-474f-a2b3-a38e7211904e",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Osgoode to College Full weekend closure Dec 12 to Dec 14 2025",
-      "Url": "/service-advisories/subway-service/Line-1-Osgoode-to-College-Full-weekend-closure-Dec-12-to-Dec-14-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 1 Osgoode to College Full weekend closure Dec 12 to Dec 14 2025\" href=\"/service-advisories/subway-service/Line-1-Osgoode-to-College-Full-weekend-closure-Dec-12-to-Dec-14-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Osgoode to College stations – Full weekend closure starting at 11:59 p.m. - Friday, December 12 to Sunday, December 14, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">December 12, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">December 14, 2025</span></div>"
-    },
-    {
-      "Id": "bb7de2b6-b506-41a4-a403-6f82aef48cde",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Ossington to St George Full weekend closure Dec 13 to 14 2025",
-      "Url": "/service-advisories/subway-service/Line-2-Ossington-to-St-George-Full-weekend-closure-Dec-13-to-14-2025",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Ossington to St George Full weekend closure Dec 13 to 14 2025\" href=\"/service-advisories/subway-service/Line-2-Ossington-to-St-George-Full-weekend-closure-Dec-13-to-14-2025\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Ossington to St George stations – Full weekend closure – Saturday, December 13 to Sunday, December 14, 2025 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">December 13, 2025<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">December 14, 2025</span></div>"
-    },
     {
       "Id": "7ed0591f-2ea9-44fb-bbae-297943c11a0d",
       "Language": "en",
