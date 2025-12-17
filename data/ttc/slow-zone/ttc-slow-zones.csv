@@ -1,11 +1,8 @@
 Line,Location,Length of defect (metres),Distance between stations (metres),Track under reduced speed (%),Reduced speed (km/h),Normal speed (km/h),Reason,Target removal
-Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Southbound Eglinton to Davisville,152,891,17,25,32,Track issue,Late December
+Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Southbound Eglinton to Davisville,152,891,17,25,32,Track issue,Early 2026
 Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Southbound Rosedale to Bloor-Yonge,213,750,28,35,39,Track issue,TBD
 Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Southbound Wellesley to College,183,528,35,40,44,Track issue,TBD
-Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Northbound Union to St Andrew,168,604,28,35,38,Track issue,TBD
 Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Northbound Dupont to St Clair West,497,"1,448",34,40,52,Track issue,TBD
-Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Northbound Downsview Park to Finch West,152,"1,914",8,20,50,Track issue,TBD
-Line 1 (Yonge-University) to Finch Station,Southbound St Andrew to Union,174,598,29,35,40,Track issue,TBD
 Line 1 (Yonge-University) to Finch Station,Northbound Union to King,183,454,40,15,27,Track issue,Late December
 Line 1 (Yonge-University) to Finch Station,Northbound Bloor-Yonge to Rosedale,177,743,24,35,56,Track issue,TBD
 Line 2 (Bloor-Danforth) to Kennedy Station,Eastbound Kipling to Islington,421,"1,282",33,40,48,Track issue,TBD
