@@ -66,9 +66,15 @@ Path(path).mkdir(parents=True, exist_ok=True)
 # Dates without closures will be added as empty lists
 closures_by_date = {}
 all_dates = [date for closure in closures for date in (get_date(closure['start_date']), get_date(closure['end_date']))]
-earliest_date = min(all_dates)
-latest_date = max(all_dates)
-print(f"Earliest date: {earliest_date.isoformat()}, Latest date: {latest_date.isoformat()}")
+if(all_dates==[]):
+    print("No closures found.")
+    today = datetime.now().date()
+    earliest_date = datetime.now().date() - timedelta(days=1)
+    latest_date = datetime.now().date() + timedelta(days=5)
+else:
+    earliest_date = min(all_dates)
+    latest_date = max(all_dates)
+    print(f"Earliest date: {earliest_date.isoformat()}, Latest date: {latest_date.isoformat()}")
 
 current_date = earliest_date
 
