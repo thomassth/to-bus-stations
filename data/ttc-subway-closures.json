@@ -1,6 +1,47 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 1,
-  "Results": []
+  "Count": 6,
+  "Results": [
+    {
+      "Id": "9a5b2141-6cb5-47db-9f05-2758a7f0bac1",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Broadview to Woodbine Early closure Jan 10 2026",
+      "Url": "/service-advisories/subway-service/Line-2-Broadview-to-Woodbine-Early-closure-Jan-10-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Broadview to Woodbine Early closure Jan 10 2026\" href=\"/service-advisories/subway-service/Line-2-Broadview-to-Woodbine-Early-closure-Jan-10-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Broadview to Woodbine stations – Early closure starting at 11:59 p.m. - Saturday, January 10, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>January 10, 2026<span>&nbsp;</span></div>"
+    },
+    {
+      "Id": "a8aded25-9430-4ae4-b369-4977c80b3e0f",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Eglinton Nightly early closures Jan 12 to 15 2026",
+      "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Jan-12-to-15-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures Jan 12 to 15 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Jan-12-to-15-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. - Monday, January 12 to Thursday, January 15, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">January 12, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">January 15, 2026</span></div>"
+    },
+    {
+      "Id": "966ffdb1-7f9f-4e37-a197-4c6c18f410de",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2  Jane to Ossington Full weekend closure Jan 17 to 18 2026",
+      "Url": "/service-advisories/subway-service/Line-2--Jane-to-Ossington-Full-weekend-closure-Jan-17-to-18-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 2  Jane to Ossington Full weekend closure Jan 17 to 18 2026\" href=\"/service-advisories/subway-service/Line-2--Jane-to-Ossington-Full-weekend-closure-Jan-17-to-18-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Jane to Ossington stations – Full weekend closure – Saturday, January 17 to Sunday, January 18, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">January 17, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">January 18, 2026</span></div>"
+    },
+    {
+      "Id": "e4a287fd-0a25-417b-be1a-06f41589d521",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Eglinton Nightly early closures Jan 19 to 22 2026",
+      "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Jan-19-to-22-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures Jan 19 to 22 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Jan-19-to-22-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. - Monday, January 19 to Thursday, January 22, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">January 19, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">January 22, 2026</span></div>"
+    },
+    {
+      "Id": "dbb1cd24-53c6-43db-9f9e-ca7058a7d9d3",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Eglinton Nightly early closures Jan 26 to 29 2026",
+      "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Jan-26-to-29-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures Jan 26 to 29 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Jan-26-to-29-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. - Monday, January 26 to Thursday, January 29, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">January 26, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">January 29, 2026</span></div>"
+    }
+  ]
 }
