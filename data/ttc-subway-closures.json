@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 6,
+  "Count": 5,
   "Results": [
-    {
-      "Id": "9a5b2141-6cb5-47db-9f05-2758a7f0bac1",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Broadview to Woodbine Early closure Jan 10 2026",
-      "Url": "/service-advisories/subway-service/Line-2-Broadview-to-Woodbine-Early-closure-Jan-10-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Broadview to Woodbine Early closure Jan 10 2026\" href=\"/service-advisories/subway-service/Line-2-Broadview-to-Woodbine-Early-closure-Jan-10-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 2 (bloor - danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Broadview to Woodbine stations – Early closure starting at 11:59 p.m. - Saturday, January 10, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>January 10, 2026<span>&nbsp;</span></div>"
-    },
     {
       "Id": "a8aded25-9430-4ae4-b369-4977c80b3e0f",
       "Language": "en",
