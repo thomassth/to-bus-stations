@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 5,
+  "Count": 7,
   "Results": [
     {
       "Id": "a8aded25-9430-4ae4-b369-4977c80b3e0f",
@@ -28,12 +28,28 @@
       "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures Jan 19 to 22 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Jan-19-to-22-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. - Monday, January 19 to Thursday, January 22, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">January 19, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">January 22, 2026</span></div>"
     },
     {
+      "Id": "4f4d3220-8e0d-4359-ad15-4668e2bea90c",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Geroge to St Andrew Full weekend closure  Jan 23 to 25 2026",
+      "Url": "/service-advisories/subway-service/Line-1-St-Geroge-to-St-Andrew-Full-weekend-closure--Jan-23-to-25-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 St Geroge to St Andrew Full weekend closure  Jan 23 to 25 2026\" href=\"/service-advisories/subway-service/Line-1-St-Geroge-to-St-Andrew-Full-weekend-closure--Jan-23-to-25-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Geroge to St Andrew stations – Full weekend closure starting at 11 p.m. - Friday, January 23 to Sunday, January 25, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">January 23, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">January 25, 2026</span></div>"
+    },
+    {
       "Id": "dbb1cd24-53c6-43db-9f9e-ca7058a7d9d3",
       "Language": "en",
       "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Eglinton Nightly early closures Jan 26 to 29 2026",
       "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Jan-26-to-29-2026",
       "Name": null,
       "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures Jan 26 to 29 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Jan-26-to-29-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. - Monday, January 26 to Thursday, January 29, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">January 26, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">January 29, 2026</span></div>"
+    },
+    {
+      "Id": "8d03e790-4a2e-4e76-9b58-24d08824f375",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Geroge to St Andrew Full weekend closure Jan 30 to Feb 1 2026",
+      "Url": "/service-advisories/subway-service/Line-1-St-Geroge-to-St-Andrew-Full-weekend-closure-Jan-30-to-Feb-1-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 St Geroge to St Andrew Full weekend closure Jan 30 to Feb 1 2026\" href=\"/service-advisories/subway-service/Line-1-St-Geroge-to-St-Andrew-Full-weekend-closure-Jan-30-to-Feb-1-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Geroge to St Andrew stations – Full weekend closure starting at 11 p.m. - Friday, January 30 to Sunday, February 1, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">January 30, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">February 1, 2026</span></div>"
     }
   ]
 }
