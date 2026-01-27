@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 3,
+  "Count": 7,
   "Results": [
     {
       "Id": "dbb1cd24-53c6-43db-9f9e-ca7058a7d9d3",
@@ -9,7 +9,7 @@
       "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Eglinton Nightly early closures Jan 26 to 29 2026",
       "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Jan-26-to-29-2026",
       "Name": null,
-      "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures Jan 26 to 29 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Jan-26-to-29-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. - Monday, January 26 to Thursday, January 29, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">January 26, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">January 29, 2026</span></div>"
+      "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures Jan 26 to 29 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Jan-26-to-29-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">REVISED – Finch to Eglinton stations – Nightly early closures starting at 11 p.m. - Tuesday, January 27 to Thursday, January 29, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">January 27, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">January 29, 2026</span></div>"
     },
     {
       "Id": "8d03e790-4a2e-4e76-9b58-24d08824f375",
@@ -18,6 +18,38 @@
       "Url": "/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Full-weekend-closure-Jan-30-to-Feb-1-2026",
       "Name": null,
       "Html": "<a title=\"Line 1 St George to St Andrew Full weekend closure Jan 30 to Feb 1 2026\" href=\"/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Full-weekend-closure-Jan-30-to-Feb-1-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to St Andrew stations – Full weekend closure starting at 11 p.m. - Friday, January 30 to Sunday, February 1, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">January 30, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">February 1, 2026</span></div>"
+    },
+    {
+      "Id": "bf025e2a-6f46-4a81-8b01-ee53181690f7",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 4 SheppardYonge to Don Mills Full weekend closure Jan 31 to Feb 1 2026",
+      "Url": "/service-advisories/subway-service/Line-4-SheppardYonge-to-Don-Mills-Full-weekend-closure-Jan-31-to-Feb-1-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 4 SheppardYonge to Don Mills Full weekend closure Jan 31 to Feb 1 2026\" href=\"/service-advisories/subway-service/Line-4-SheppardYonge-to-Don-Mills-Full-weekend-closure-Jan-31-to-Feb-1-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 4 (sheppard)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard-Yonge to Don Mills stations – Full weekend closure – Saturday, January 31 to Sunday, February 1, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">January 31, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">February 1, 2026</span></div>"
+    },
+    {
+      "Id": "e4577fc9-413b-4ed0-9bca-ff67e2c61ae4",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Eglinton Nightly early closures Feb 2 to 5 2026",
+      "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Feb-2-to-5-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures Feb 2 to 5 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Feb-2-to-5-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. - Monday, February 2 to Thursday, February 5, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">February 2, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">February 5, 2026</span></div>"
+    },
+    {
+      "Id": "32194309-06cc-46d6-8c91-f69d2ad76215",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 4 Sheppard-Yonge to Don Mills Single day closure Feb 7 2026",
+      "Url": "/service-advisories/subway-service/Line-4-Sheppard-Yonge-to-Don-Mills-Single-day-closure-Feb-7-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 4 Sheppard-Yonge to Don Mills Single day closure Feb 7 2026\" href=\"/service-advisories/subway-service/Line-4-Sheppard-Yonge-to-Don-Mills-Single-day-closure-Feb-7-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 4 (sheppard)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard-Yonge to Don Mills stations – Single day closure – Saturday, February 7, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>February 7, 2026<span>&nbsp;</span></div>"
+    },
+    {
+      "Id": "47754378-3097-4820-a9c6-264aef07592e",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St George to St Andrew Early nightly closure Feb 9 to 13 2026",
+      "Url": "/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Early-nightly-closure-Feb-9-to-13-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 St George to St Andrew Early nightly closure Feb 9 to 13 2026\" href=\"/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Early-nightly-closure-Feb-9-to-13-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to St Andrew stations – Early nightly closure starting at 11 p.m. - Monday, February 9 to Friday, February 13, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">February 9, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">February 13, 2026</span></div>"
     }
   ]
 }
