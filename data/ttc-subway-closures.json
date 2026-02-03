@@ -1,24 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 6,
+  "Count": 4,
   "Results": [
-    {
-      "Id": "8d03e790-4a2e-4e76-9b58-24d08824f375",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St George to St Andrew Full weekend closure Jan 30 to Feb 1 2026",
-      "Url": "/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Full-weekend-closure-Jan-30-to-Feb-1-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 1 St George to St Andrew Full weekend closure Jan 30 to Feb 1 2026\" href=\"/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Full-weekend-closure-Jan-30-to-Feb-1-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to St Andrew stations – Full weekend closure starting at 11 p.m. - Friday, January 30 to Sunday, February 1, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">January 30, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">February 1, 2026</span></div>"
-    },
-    {
-      "Id": "bf025e2a-6f46-4a81-8b01-ee53181690f7",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 4 SheppardYonge to Don Mills Full weekend closure Jan 31 to Feb 1 2026",
-      "Url": "/service-advisories/subway-service/Line-4-SheppardYonge-to-Don-Mills-Full-weekend-closure-Jan-31-to-Feb-1-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 4 SheppardYonge to Don Mills Full weekend closure Jan 31 to Feb 1 2026\" href=\"/service-advisories/subway-service/Line-4-SheppardYonge-to-Don-Mills-Full-weekend-closure-Jan-31-to-Feb-1-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 4 (sheppard)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard-Yonge to Don Mills stations – Full weekend closure – Saturday, January 31 to Sunday, February 1, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">January 31, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">February 1, 2026</span></div>"
-    },
     {
       "Id": "e4577fc9-413b-4ed0-9bca-ff67e2c61ae4",
       "Language": "en",
