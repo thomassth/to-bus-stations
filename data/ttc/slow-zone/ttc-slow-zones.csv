@@ -1,5 +1,4 @@
 Line,Location,Length of defect (metres),Distance between stations (metres),Track under reduced speed (%),Reduced speed (km/h),Normal speed (km/h),Reason,Target removal
-Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Southbound Sheppard-Yonge to York Mills,157,"1,957",8,15,56,Track issue,Early February
 Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Southbound Eglinton to Davisville,152,891,17,25,44,Track issue,Early 2026
 Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Southbound Rosedale to Bloor-Yonge,213,750,28,35,56,Track issue,Late February
 Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Southbound Wellesley to College,183,528,35,40,44,Track issue,Mid-February
@@ -10,4 +9,5 @@ Line 1 (Yonge-University) to Finch Station,Northbound Bloor-Yonge to Rosedale,17
 Line 2 (Bloor-Danforth) to Kennedy Station,Eastbound Kipling to Islington,421,"1,282",33,40,48,Track issue,Late February
 Line 2 (Bloor-Danforth) to Kennedy Station,Eastbound Sherbourne to Castle Frank,165,596,28,35,56,Track issue,Late February
 Line 2 (Bloor-Danforth) to Kennedy Station,Eastbound Donlands to Greenwood,152,738,21,20,60,Track issue,Mid-February
+Line 2 (Bloor-Danforth) to Kennedy Station,Eastbound Victoria Park to Warden,213,"2,149",10,15,58,Track issue,TBD
 Line 2 (Bloor-Danforth) to Kipling Station,Westbound Chester to Broadview,244,578,42,25,54,Track issue,Early February
