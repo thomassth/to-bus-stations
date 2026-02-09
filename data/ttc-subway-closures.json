@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 3,
+  "Count": 2,
   "Results": [
-    {
-      "Id": "32194309-06cc-46d6-8c91-f69d2ad76215",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 4 Sheppard-Yonge to Don Mills Single day closure Feb 7 2026",
-      "Url": "/service-advisories/subway-service/Line-4-Sheppard-Yonge-to-Don-Mills-Single-day-closure-Feb-7-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 4 Sheppard-Yonge to Don Mills Single day closure Feb 7 2026\" href=\"/service-advisories/subway-service/Line-4-Sheppard-Yonge-to-Don-Mills-Single-day-closure-Feb-7-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 4 (sheppard)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard-Yonge to Don Mills stations – Single day closure – Saturday, February 7, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>February 7, 2026<span>&nbsp;</span></div>"
-    },
     {
       "Id": "47754378-3097-4820-a9c6-264aef07592e",
       "Language": "en",
