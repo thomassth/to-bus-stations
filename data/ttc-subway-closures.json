@@ -20,20 +20,20 @@
       "Html": "<a title=\"Line 2 Broadview to Woodbine early closure Feb 14 2026\" href=\"/service-advisories/subway-service/Line-2-Broadview-to-Woodbine-early-closure-Feb-14-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">bloor-danforth line</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Broadview to Woodbine stations – Early closure starting at 11:59 p.m. - Saturday, February 14, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>February 14, 2026<span>&nbsp;</span></div>"
     },
     {
-      "Id": "41e4907f-b98c-42c7-8306-e81e7504bacd",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Eglinton Nightly early closures Feb 17 to 19 2026",
-      "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Feb-17-to-19-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures Feb 17 to 19 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Feb-17-to-19-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">yonge-university line</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. - Tuesday, February 17 to Thursday, February 19, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">February 17, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">February 19, 2026</span></div>"
-    },
-    {
       "Id": "eaf6ae08-46c9-4bcd-8f06-94ef2d5598f2",
       "Language": "en",
       "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Keele to St George Nightly early closures Feb 17 to 20 2026",
       "Url": "/service-advisories/subway-service/Line-2-Keele-to-St-George-Nightly-early-closures-Feb-17-to-20-2026",
       "Name": null,
       "Html": "<a title=\"Line 2 Keele to St George Nightly early closures Feb 17 to 20 2026\" href=\"/service-advisories/subway-service/Line-2-Keele-to-St-George-Nightly-early-closures-Feb-17-to-20-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">bloor-danforth line</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Keele to St George stations – Nightly early closures starting at 11:59 p.m. - Tuesday, February 17 to Friday, February 20, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">February 17, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">February 20, 2026</span></div>"
+    },
+    {
+      "Id": "41e4907f-b98c-42c7-8306-e81e7504bacd",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Eglinton Nightly early closures Feb 17 to 19 2026",
+      "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Feb-17-to-19-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures Feb 17 to 19 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Feb-17-to-19-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">yonge-university line</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. - Tuesday, February 17 to Thursday, February 19, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">February 17, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">February 19, 2026</span></div>"
     },
     {
       "Id": "f9489f10-e917-4e18-9162-2495b935ad5a",
