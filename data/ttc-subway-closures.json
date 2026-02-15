@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 8,
+  "Count": 7,
   "Results": [
-    {
-      "Id": "47754378-3097-4820-a9c6-264aef07592e",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair West to St Andrew Early nightly closure Feb 9 to 13 2026",
-      "Url": "/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Early-nightly-closure-Feb-9-to-13-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 1 St Clair West to St Andrew Early nightly closure Feb 9 to 13 2026\" href=\"/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Early-nightly-closure-Feb-9-to-13-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">line 1 (yonge-university)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">REVISED - St Clair West to St Andrew stations – Early nightly closure starting at 11 p.m. - Monday, February 9 to Friday, February 13, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">February 9, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">February 13, 2026</span></div>"
-    },
     {
       "Id": "98a61615-3d08-458b-a94a-77d13444ccea",
       "Language": "en",
