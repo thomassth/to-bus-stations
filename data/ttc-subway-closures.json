@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 6,
+  "Count": 7,
   "Results": [
     {
       "Id": "eaf6ae08-46c9-4bcd-8f06-94ef2d5598f2",
@@ -20,6 +20,14 @@
       "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures Feb 17 to 19 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Feb-17-to-19-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">yonge-university line</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. - Tuesday, February 17 to Thursday, February 19, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">February 17, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">February 19, 2026</span></div>"
     },
     {
+      "Id": "18c4356c-ab62-41c8-a961-8adfe16ba450",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St George to St Andrew Single day closure Feb 21 2026",
+      "Url": "/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Single-day-closure-Feb-21-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 St George to St Andrew Single day closure Feb 21 2026\" href=\"/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Single-day-closure-Feb-21-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">yonge-university line</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to St Andrew stations – Single day closure on Saturday, February 21, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>February 21, 2026<span>&nbsp;</span></div>"
+    },
+    {
       "Id": "f9489f10-e917-4e18-9162-2495b935ad5a",
       "Language": "en",
       "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 4 Sheppard Yonge to Don Mills Single day closure Feb 22 2026",
@@ -28,20 +36,20 @@
       "Html": "<a title=\"Line 4 Sheppard Yonge to Don Mills Single day closure Feb 22 2026\" href=\"/service-advisories/subway-service/Line-4-Sheppard-Yonge-to-Don-Mills-Single-day-closure-Feb-22-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-route\">4</span><span class=\"field-routename\">sheppard line</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard-Yonge to Don Mills stations – Single day closure – Sunday, February 22, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>February 22, 2026<span>&nbsp;</span></div>"
     },
     {
-      "Id": "7265e2a3-eee5-4257-82d6-2b5593404331",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Eglinton Nightly early closures Feb 23 to 26 2026",
-      "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Feb-23-to-26-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures Feb 23 to 26 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Feb-23-to-26-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">yonge-university line</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. - Monday, February 23 to Thursday, February 26, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">February 23, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">February 26, 2026</span></div>"
-    },
-    {
       "Id": "f5d9d944-0fef-4694-bd78-1ce2e51b2ab2",
       "Language": "en",
       "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Keele to St George Nightly early closures Feb 23 to 27 2026",
       "Url": "/service-advisories/subway-service/Line-2-Keele-to-St-George-Nightly-early-closures-Feb-23-to-27-2026",
       "Name": null,
       "Html": "<a title=\"Line 2 Keele to St George Nightly early closures Feb 23 to 27 2026\" href=\"/service-advisories/subway-service/Line-2-Keele-to-St-George-Nightly-early-closures-Feb-23-to-27-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">bloor-danforth line</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Keele to St George stations – Nightly early closures starting at 11:59 p.m. - Monday, February 23 to Friday, February 27, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">February 23, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">February 27, 2026</span></div>"
+    },
+    {
+      "Id": "7265e2a3-eee5-4257-82d6-2b5593404331",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Eglinton Nightly early closures Feb 23 to 26 2026",
+      "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Feb-23-to-26-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures Feb 23 to 26 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Feb-23-to-26-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">yonge-university line</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. - Monday, February 23 to Thursday, February 26, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">February 23, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">February 26, 2026</span></div>"
     }
   ]
 }
