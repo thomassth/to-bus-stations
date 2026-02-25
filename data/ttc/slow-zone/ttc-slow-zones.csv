@@ -1,14 +1,13 @@
 Line,Location,Length of defect (metres),Distance between stations (metres),Track under reduced speed (%),Reduced speed (km/h),Normal speed (km/h),Reason,Target removal
-Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Southbound Eglinton to Davisville,152,891,17,25,44,Track issue,Early 2026
+Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Southbound Eglinton to Davisville,152,891,17,25,44,Track issue,TBD
 Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Southbound Rosedale to Bloor-Yonge,213,750,28,35,56,Track issue,Early March
-Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Southbound Wellesley to College,183,528,35,40,44,Track issue,TBD
-Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Northbound Dupont to St Clair West,497,"1,448",34,40,52,Track issue,Late March
+Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Northbound Dupont to St Clair West,497,"1,448",34,40,52,Track issue,Late April
 Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Northbound Wilson to Sheppard West,183,"2,032",9,20,71,Track issue,TBD
 Line 1 (Yonge-University) to Finch Station,Southbound St Clair West to Dupont,174,"1,441",12,20,65,Switch issue,Mid-March
 Line 1 (Yonge-University) to Finch Station,Northbound Bloor-Yonge to Rosedale,177,743,24,35,56,Track issue,Mid-March
-Line 1 (Yonge-University) to Finch Station,Northbound Lawrence to York Mills,152,"1,920",8,15,76,Track issue,Early March
+Line 1 (Yonge-University) to Finch Station,Northbound Lawrence to York Mills,152,"1,920",8,15,76,Track issue,Mid-March
 Line 2 (Bloor-Danforth) to Kennedy Station,Eastbound Kipling to Islington,421,"1,282",33,40,48,Track issue,Early April
-Line 2 (Bloor-Danforth) to Kennedy Station,Eastbound Keele to Dundas West,152,627,24,20,63,Track issue,Late February
-Line 2 (Bloor-Danforth) to Kennedy Station,Eastbound Sherbourne to Castle Frank,165,596,28,35,56,Track issue,Early March
-Line 2 (Bloor-Danforth) to Kennedy Station,Eastbound Victoria Park to Warden,213,"2,149",10,15,58,Track issue,Early March
-Line 2 (Bloor-Danforth) to Kipling Station,Westbound Bloor-Yonge to Bay,183,445,41,15,54,Track issue,Early March
+Line 2 (Bloor-Danforth) to Kennedy Station,Eastbound Keele to Dundas West,152,627,24,20,63,Track issue,Early March
+Line 2 (Bloor-Danforth) to Kennedy Station,Eastbound Sherbourne to Castle Frank,165,596,28,35,56,Track issue,Late March
+Line 2 (Bloor-Danforth) to Kennedy Station,Eastbound Victoria Park to Warden,213,"2,149",10,15,58,Track issue,Late March
+Line 2 (Bloor-Danforth) to Kipling Station,Westbound Bloor-Yonge to Bay,183,445,41,15,54,Track issue,Late March
