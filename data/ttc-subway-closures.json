@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 5,
+  "Count": 6,
   "Results": [
     {
       "Id": "7265e2a3-eee5-4257-82d6-2b5593404331",
@@ -20,12 +20,12 @@
       "Html": "<a title=\"Line 2 Keele to St George Nightly early closures Feb 23 to 27 2026\" href=\"/service-advisories/subway-service/Line-2-Keele-to-St-George-Nightly-early-closures-Feb-23-to-27-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Keele to St George stations – Nightly early closures starting at 11:59 p.m. - Monday, February 23 to Friday, February 27, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">February 23, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">February 27, 2026</span></div>"
     },
     {
-      "Id": "a84fb732-f58e-41ce-be37-cbd72d07d6e5",
+      "Id": "5266f836-01e6-47b8-8995-5c826198cb5e",
       "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Keele to St George Nightly early closures Mar 2 to 5 2026",
-      "Url": "/service-advisories/subway-service/Line-2-Keele-to-St-George-Nightly-early-closures-Mar-2-to-5-2026",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Keele to St George Full weekend closure Feb 28 to Mar 1 2026",
+      "Url": "/service-advisories/subway-service/Line-2-Keele-to-St-George-Full-weekend-closure-Feb-28-to-Mar-1-2026",
       "Name": null,
-      "Html": "<a title=\"Line 2 Keele to St George Nightly early closures Mar 2 to 5 2026\" href=\"/service-advisories/subway-service/Line-2-Keele-to-St-George-Nightly-early-closures-Mar-2-to-5-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Keele to St George stations – Nightly early closures starting at 11:59 p.m. - Monday, March 2 to Thursday, March 5, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">March 2, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">March 5, 2026</span></div>"
+      "Html": "<a title=\"Line 2 Keele to St George Full weekend closure Feb 28 to Mar 1 2026\" href=\"/service-advisories/subway-service/Line-2-Keele-to-St-George-Full-weekend-closure-Feb-28-to-Mar-1-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Keele to St George stations – Full weekend closure on Saturday, February 28 to Sunday, March 1, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">February 28, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">March 1, 2026</span></div>"
     },
     {
       "Id": "7fd03f4c-0a79-4151-bf34-b8a838560212",
@@ -34,6 +34,14 @@
       "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Mar-2-to-5-2026",
       "Name": null,
       "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures Mar 2 to 5 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Mar-2-to-5-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\"> Finch to Eglinton stations – Nightly early closures starting at 11 p.m. - Monday, March 2 to Thursday, March 5, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">March 2, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">March 5, 2026</span></div>"
+    },
+    {
+      "Id": "a84fb732-f58e-41ce-be37-cbd72d07d6e5",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Keele to St George Nightly early closures Mar 2 to 5 2026",
+      "Url": "/service-advisories/subway-service/Line-2-Keele-to-St-George-Nightly-early-closures-Mar-2-to-5-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Keele to St George Nightly early closures Mar 2 to 5 2026\" href=\"/service-advisories/subway-service/Line-2-Keele-to-St-George-Nightly-early-closures-Mar-2-to-5-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Keele to St George stations – Nightly early closures starting at 11:59 p.m. - Monday, March 2 to Thursday, March 5, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">March 2, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">March 5, 2026</span></div>"
     }
   ]
 }
