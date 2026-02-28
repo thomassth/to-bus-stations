@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 6,
+  "Count": 5,
   "Results": [
-    {
-      "Id": "7265e2a3-eee5-4257-82d6-2b5593404331",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Eglinton Nightly early closures Feb 23 to 26 2026",
-      "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Feb-23-to-26-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures Feb 23 to 26 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Feb-23-to-26-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. - Monday, February 23 to Thursday, February 26, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">February 23, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">February 26, 2026</span></div>"
-    },
     {
       "Id": "f5d9d944-0fef-4694-bd78-1ce2e51b2ab2",
       "Language": "en",
