@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 4,
+  "Count": 3,
   "Results": [
-    {
-      "Id": "5266f836-01e6-47b8-8995-5c826198cb5e",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Keele to St George Full weekend closure Feb 28 to Mar 1 2026",
-      "Url": "/service-advisories/subway-service/Line-2-Keele-to-St-George-Full-weekend-closure-Feb-28-to-Mar-1-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Keele to St George Full weekend closure Feb 28 to Mar 1 2026\" href=\"/service-advisories/subway-service/Line-2-Keele-to-St-George-Full-weekend-closure-Feb-28-to-Mar-1-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Keele to St George stations – Full weekend closure on Saturday, February 28 to Sunday, March 1, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">February 28, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">March 1, 2026</span></div>"
-    },
     {
       "Id": "7fd03f4c-0a79-4151-bf34-b8a838560212",
       "Language": "en",
