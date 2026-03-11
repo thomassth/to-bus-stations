@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 5,
+  "Count": 6,
   "Results": [
     {
       "Id": "d131b308-9661-4838-9b31-4569e90b6aad",
@@ -9,23 +9,31 @@
       "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair West to King Early nightly closure Mar 9 to13 2026",
       "Url": "/service-advisories/subway-service/Line-1-St-Clair-West-to-King-Early-nightly-closure-Mar-9-to13-2026",
       "Name": null,
-      "Html": "<a title=\"Line 1 St Clair West to King Early nightly closure Mar 9 to13 2026\" href=\"/service-advisories/subway-service/Line-1-St-Clair-West-to-King-Early-nightly-closure-Mar-9-to13-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University) </span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair West to King stations – Early nightly closure starting at 11:59 p.m. - Monday, March 9 to Friday, March 13, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">March 9, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">March 13, 2026</span></div>"
+      "Html": "<a title=\"Line 1 St Clair West to King Early nightly closure Mar 9 to13 2026\" href=\"/service-advisories/subway-service/Line-1-St-Clair-West-to-King-Early-nightly-closure-Mar-9-to13-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">yonge-university line</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair West to King stations – Early nightly closure starting at 11:59 p.m. - Monday, March 9 to Friday, March 13, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">March 9, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">March 13, 2026</span></div>"
+    },
+    {
+      "Id": "b1d3a0b4-e4b1-419f-afe0-a79f74392611",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Broadview Single day closure Mar 14 2026",
+      "Url": "/service-advisories/subway-service/Line-2-St-George-to-Broadview-Single-day-closure-Mar-14-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 2 St George to Broadview Single day closure Mar 14 2026\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Broadview-Single-day-closure-Mar-14-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Broadview stations – Single day closure – Saturday, March 14, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>March 14, 2026<span>&nbsp;</span></div>"
     },
     {
       "Id": "dbc5c0fd-eac8-4a14-9807-cd6a4b498bb9",
       "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair West to King Early nightly closure Mar 16 to 20 2026",
-      "Url": "/service-advisories/subway-service/Line-1-St-Clair-West-to-King-Early-nightly-closure-Mar-16-to-20-2026",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair West to King Early nightly closure Mar 16 to 19 2026",
+      "Url": "/service-advisories/subway-service/Line-1-St-Clair-West-to-King-Early-nightly-closure-Mar-16-to-19-2026",
       "Name": null,
-      "Html": "<a title=\"Line 1 St Clair West to King Early nightly closure Mar 16 to 20 2026\" href=\"/service-advisories/subway-service/Line-1-St-Clair-West-to-King-Early-nightly-closure-Mar-16-to-20-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University) </span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair West to King stations – Early nightly closure starting at 11:59 p.m. - Monday, March 16 to Friday, March 20, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">March 16, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">March 20, 2026</span></div>"
+      "Html": "<a title=\"Line 1 St Clair West to King Early nightly closure Mar 16 to 19 2026\" href=\"/service-advisories/subway-service/Line-1-St-Clair-West-to-King-Early-nightly-closure-Mar-16-to-19-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University) </span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair West to King stations – Early nightly closure starting at 11:59 p.m. - Monday, March 16 to Thursday, March 19, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">March 16, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">March 19, 2026</span></div>"
     },
     {
       "Id": "1861ef9b-3884-49c8-af1e-5cce78aceb03",
       "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair West to St Andrew Full weekend closure Mar 21 to 22 2026",
-      "Url": "/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Full-weekend-closure-Mar-21-to-22-2026",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair West to St Andrew Full weekend closure Mar 20 to 22 2026",
+      "Url": "/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Full-weekend-closure-Mar-20-to-22-2026",
       "Name": null,
-      "Html": "<a title=\"Line 1 St Clair West to St Andrew Full weekend closure Mar 21 to 22 2026\" href=\"/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Full-weekend-closure-Mar-21-to-22-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair West to St Andrew stations – Full weekend closure - Saturday, March 21 to Sunday, March 22, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">March 21, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">March 22, 2026</span></div>"
+      "Html": "<a title=\"Line 1 St Clair West to St Andrew Full weekend closure Mar 20 to 22 2026\" href=\"/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Full-weekend-closure-Mar-20-to-22-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair West to St Andrew stations – Full weekend closure starting at 11:59 p.m. on Friday, March 20 to Sunday, March 22, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">March 20, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">March 22, 2026</span></div>"
     },
     {
       "Id": "1056bb86-886e-4906-9ea5-3c3f9f2abae3",
