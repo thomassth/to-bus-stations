@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 6,
+  "Count": 5,
   "Results": [
-    {
-      "Id": "1861ef9b-3884-49c8-af1e-5cce78aceb03",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair West to St Andrew Full weekend closure Mar 20 to 22 2026",
-      "Url": "/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Full-weekend-closure-Mar-20-to-22-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 1 St Clair West to St Andrew Full weekend closure Mar 20 to 22 2026\" href=\"/service-advisories/subway-service/Line-1-St-Clair-West-to-St-Andrew-Full-weekend-closure-Mar-20-to-22-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair West to St Andrew stations – Full weekend closure starting at 11:59 p.m. on Friday, March 20 to Sunday, March 22, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">March 20, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">March 22, 2026</span></div>"
-    },
     {
       "Id": "1056bb86-886e-4906-9ea5-3c3f9f2abae3",
       "Language": "en",
