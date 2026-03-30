@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 4,
+  "Count": 3,
   "Results": [
-    {
-      "Id": "c1e210f3-f156-4382-9a65-405e6a68aee0",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Jane Single day closure Mar 28 2026",
-      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Jane-Single-day-closure-Mar-28-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Kipling to Jane Single day closure Mar 28 2026\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Jane-Single-day-closure-Mar-28-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Jane stations – Single day closure – Saturday, March 28, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>March 28, 2026<span>&nbsp;</span></div>"
-    },
     {
       "Id": "69723f34-2409-4e6c-a3f6-dbe2073ed8d5",
       "Language": "en",
