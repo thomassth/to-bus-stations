@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 3,
+  "Count": 2,
   "Results": [
-    {
-      "Id": "69723f34-2409-4e6c-a3f6-dbe2073ed8d5",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Jane to Ossington Single day closure Mar 29 2026",
-      "Url": "/service-advisories/subway-service/Line-2-Jane-to-Ossington-Single-day-closure-Mar-29-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Jane to Ossington Single day closure Mar 29 2026\" href=\"/service-advisories/subway-service/Line-2-Jane-to-Ossington-Single-day-closure-Mar-29-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth) </span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Jane to Ossington stations – Single day closure – Sunday, March 29, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>March 29, 2026<span>&nbsp;</span></div>"
-    },
     {
       "Id": "eb3c5bb4-9b30-4671-8367-231c80235dee",
       "Language": "en",
