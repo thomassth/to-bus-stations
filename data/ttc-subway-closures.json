@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 2,
+  "Count": 5,
   "Results": [
     {
       "Id": "eb3c5bb4-9b30-4671-8367-231c80235dee",
@@ -10,6 +10,30 @@
       "Url": "/service-advisories/subway-service/Line-1-Sheppard-West-to-Lawrence-West-Early-nightly-closure-Mar-29-to-Apr-2-2026",
       "Name": null,
       "Html": "<a title=\"Line 1 Sheppard West to Lawrence West Early nightly closure Mar 29 to Apr 2 2026\" href=\"/service-advisories/subway-service/Line-1-Sheppard-West-to-Lawrence-West-Early-nightly-closure-Mar-29-to-Apr-2-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University) </span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard West to Lawrence West stations – Early nightly closure starting at 11:59 p.m. - Sunday, March 29 to Thursday, April 2, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">March 29, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 2, 2026</span></div>"
+    },
+    {
+      "Id": "4716cced-76f6-4152-b309-b21610518832",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St George to St Andrew Full weekend closure Apr 3 to 5 2026",
+      "Url": "/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Full-weekend-closure-Apr-3-to-5-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 St George to St Andrew Full weekend closure Apr 3 to 5 2026\" href=\"/service-advisories/subway-service/Line-1-St-George-to-St-Andrew-Full-weekend-closure-Apr-3-to-5-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University) </span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to St Andrew stations – Full weekend closure starting at 11:59 p.m. on Friday, April 3 to Sunday, April 5, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 3, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 5, 2026</span></div>"
+    },
+    {
+      "Id": "2078a095-f6ba-43a5-9247-213beadfbfa0",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Lawrence West to St George Early nightly closure Apr 6 to10 2026",
+      "Url": "/service-advisories/subway-service/Line-1-Lawrence-West-to-St-George-Early-nightly-closure-Apr-6-to10-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Lawrence West to St George Early nightly closure Apr 6 to10 2026\" href=\"/service-advisories/subway-service/Line-1-Lawrence-West-to-St-George-Early-nightly-closure-Apr-6-to10-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University) </span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Lawrence West to St George stations – Early nightly closure starting at 11 p.m. - Monday, April 6 to Friday, April 10, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 6, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 10, 2026</span></div>"
+    },
+    {
+      "Id": "6a8abf77-649e-4af0-ae52-8bf3149b263d",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Jane Full weekend closure Apr 11 to 12 2026",
+      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Jane-Full-weekend-closure-Apr-11-to-12-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Kipling to Jane Full weekend closure Apr 11 to 12 2026\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Jane-Full-weekend-closure-Apr-11-to-12-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Jane stations – Full weekend closure – Saturday, April 11 to Sunday, April 12, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 11, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 12, 2026</span></div>"
     }
   ]
 }
