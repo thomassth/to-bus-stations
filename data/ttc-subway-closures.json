@@ -30,10 +30,10 @@
     {
       "Id": "6a8abf77-649e-4af0-ae52-8bf3149b263d",
       "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Jane Full weekend closure Apr 11 to 12 2026",
-      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Jane-Full-weekend-closure-Apr-11-to-12-2026",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Keele to St George Full weekend closure Apr 11 to 12 2026",
+      "Url": "/service-advisories/subway-service/Line-2-Keele-to-St-George-Full-weekend-closure-Apr-11-to-12-2026",
       "Name": null,
-      "Html": "<a title=\"Line 2 Kipling to Jane Full weekend closure Apr 11 to 12 2026\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Jane-Full-weekend-closure-Apr-11-to-12-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Jane stations – Full weekend closure – Saturday, April 11 to Sunday, April 12, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 11, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 12, 2026</span></div>"
+      "Html": "<a title=\"Line 2 Keele to St George Full weekend closure Apr 11 to 12 2026\" href=\"/service-advisories/subway-service/Line-2-Keele-to-St-George-Full-weekend-closure-Apr-11-to-12-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Keele to St George stations – Full weekend closure – Saturday, April 11 to Sunday, April 12, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 11, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 12, 2026</span></div>"
     }
   ]
 }
