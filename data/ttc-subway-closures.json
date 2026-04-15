@@ -1,24 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 5,
+  "Count": 4,
   "Results": [
-    {
-      "Id": "4f0fb745-26bf-4f43-aa51-d5ed0b3fc0e2",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Broadview to Woodbine Early nightly closure Apr 13 to 17 2026",
-      "Url": "/service-advisories/subway-service/Line-2-Broadview-to-Woodbine-Early-nightly-closure-Apr-13-to-17-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Broadview to Woodbine Early nightly closure Apr 13 to 17 2026\" href=\"/service-advisories/subway-service/Line-2-Broadview-to-Woodbine-Early-nightly-closure-Apr-13-to-17-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth) </span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">REVISED - Broadview to Woodbine stations – Early nightly closure starting at 11:59 p.m. - Tuesday, April 14 to Friday, April 17, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 14, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 17, 2026</span></div>"
-    },
-    {
-      "Id": "9013aa04-9070-4498-92b2-fcde95248b30",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Vaughan Metropolitan Centre to Finch West Planned single-track operation Apr 13 to 16 2026",
-      "Url": "/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Finch-West-Planned-single-track-operation-Apr-13-to-16-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 1 Vaughan Metropolitan Centre to Finch West Planned single-track operation Apr 13 to 16 2026\" href=\"/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Finch-West-Planned-single-track-operation-Apr-13-to-16-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">REVISED - Vaughan Metropolitan Centre to Finch West stations – Planned single-track operation, nightly starting at 11 p.m. from Tuesday, April 14 to Thursday, April 16, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 14, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 16, 2026</span></div>"
-    },
     {
       "Id": "cabb6b4b-ada1-482a-8f1d-8ba8b689cd52",
       "Language": "en",
@@ -34,6 +18,14 @@
       "Url": "/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-Apr-19-2026",
       "Name": null,
       "Html": "<a title=\"Line 2 St George to Broadview Late opening Apr 19 2026\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-Apr-19-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Broadview stations – Late-opening at 11 a.m. on Sunday, April 19, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>April 19, 2026<span>&nbsp;</span></div>"
+    },
+    {
+      "Id": "7810ac8c-0240-420e-b529-154f919bdb7a",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Eglinton Nightly early closures Apr 27 to 30 2026",
+      "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Apr-27-to-30-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures Apr 27 to 30 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Apr-27-to-30-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">yonge-university line</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. - Monday, April 27 to Thursday, April 30, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 27, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 30, 2026</span></div>"
     }
   ]
 }
