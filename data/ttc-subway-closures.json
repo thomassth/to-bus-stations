@@ -1,23 +1,15 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 4,
+  "Count": 3,
   "Results": [
     {
-      "Id": "cabb6b4b-ada1-482a-8f1d-8ba8b689cd52",
+      "Id": "a5bcc2ef-5f77-49fc-88cf-a3dac374f7e9",
       "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Broadview to Woodbine Full weekend closure Apr 18 to 19 2026",
-      "Url": "/service-advisories/subway-service/Line-2-Broadview-to-Woodbine-Full-weekend-closure-Apr-18-to-19-2026",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 5 Mount Dennis to Kennedy Early closure Apr 18 2026",
+      "Url": "/service-advisories/subway-service/Line-5-Mount-Dennis-to-Kennedy-Early-closure-Apr-18-2026",
       "Name": null,
-      "Html": "<a title=\"Line 2 Broadview to Woodbine Full weekend closure Apr 18 to 19 2026\" href=\"/service-advisories/subway-service/Line-2-Broadview-to-Woodbine-Full-weekend-closure-Apr-18-to-19-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Broadview to Woodbine stations – Full weekend closure – Saturday, April 18 to Sunday, April 19, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 18, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 19, 2026</span></div>"
-    },
-    {
-      "Id": "0a0a7e0f-d431-41e6-a260-34fc26a84f9e",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Broadview Late opening Apr 19 2026",
-      "Url": "/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-Apr-19-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 2 St George to Broadview Late opening Apr 19 2026\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-Apr-19-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Broadview stations – Late-opening at 11 a.m. on Sunday, April 19, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>April 19, 2026<span>&nbsp;</span></div>"
+      "Html": "<a title=\"Line 5 Mount Dennis to Kennedy Early closure Apr 18 2026\" href=\"/service-advisories/subway-service/Line-5-Mount-Dennis-to-Kennedy-Early-closure-Apr-18-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 5 (Eglinton)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Mount Dennis to Kennedy stations – Early closure starting at 11:59 p.m. on Saturday, April 18, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>April 18, 2026<span>&nbsp;</span></div>"
     },
     {
       "Id": "7810ac8c-0240-420e-b529-154f919bdb7a",
@@ -25,7 +17,7 @@
       "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Eglinton Nightly early closures Apr 27 to 30 2026",
       "Url": "/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Apr-27-to-30-2026",
       "Name": null,
-      "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures Apr 27 to 30 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Apr-27-to-30-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">yonge-university line</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. - Monday, April 27 to Thursday, April 30, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 27, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 30, 2026</span></div>"
+      "Html": "<a title=\"Line 1 Finch to Eglinton Nightly early closures Apr 27 to 30 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Eglinton-Nightly-early-closures-Apr-27-to-30-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Eglinton stations – Nightly early closures starting at 11 p.m. - Monday, April 27 to Thursday, April 30, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">April 27, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">April 30, 2026</span></div>"
     }
   ]
 }
