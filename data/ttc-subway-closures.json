@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 4,
+  "Count": 3,
   "Results": [
-    {
-      "Id": "a5bcc2ef-5f77-49fc-88cf-a3dac374f7e9",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 5 Mount Dennis to Kennedy Early closure Apr 18 2026",
-      "Url": "/service-advisories/subway-service/Line-5-Mount-Dennis-to-Kennedy-Early-closure-Apr-18-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 5 Mount Dennis to Kennedy Early closure Apr 18 2026\" href=\"/service-advisories/subway-service/Line-5-Mount-Dennis-to-Kennedy-Early-closure-Apr-18-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 5 (Eglinton)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Mount Dennis to Kennedy stations – Early closure starting at 11:59 p.m. on Saturday, April 18, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>April 18, 2026<span>&nbsp;</span></div>"
-    },
     {
       "Id": "af1505fe-ccb7-4dd4-8fc2-81d797116d2c",
       "Language": "en",
