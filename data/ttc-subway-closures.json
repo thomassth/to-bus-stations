@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 5,
+  "Count": 4,
   "Results": [
     {
       "Id": "74b5c3ab-61b8-48b8-b931-701746e88ef2",
@@ -14,10 +14,10 @@
     {
       "Id": "e38233f6-f4c6-4483-880b-2ca75a6edd13",
       "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Woodbine to Kennedy Early nightly closure May 4 to May 8 2026",
-      "Url": "/service-advisories/subway-service/Line-2-Woodbine-to-Kennedy-Early-nightly-closure-May-4-to-May-8-2026",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Woodbine to Kennedy Early nightly closure May 4 to May 7 2026",
+      "Url": "/service-advisories/subway-service/Line-2-Woodbine-to-Kennedy-Early-nightly-closure-May-4-to-May-7-2026",
       "Name": null,
-      "Html": "<a title=\"Line 2 Woodbine to Kennedy Early nightly closure May 4 to May 8 2026\" href=\"/service-advisories/subway-service/Line-2-Woodbine-to-Kennedy-Early-nightly-closure-May-4-to-May-8-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Woodbine to Kennedy stations – Early nightly closure starting at 11:59 p.m. - Monday, May 4 to Friday, May 8, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 4, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 8, 2026</span></div>"
+      "Html": "<a title=\"Line 2 Woodbine to Kennedy Early nightly closure May 4 to May 7 2026\" href=\"/service-advisories/subway-service/Line-2-Woodbine-to-Kennedy-Early-nightly-closure-May-4-to-May-7-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Woodbine to Kennedy stations – Early nightly closure starting at 11:59 p.m. - Monday, May 4 to Thursday, May 7, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 4, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 7, 2026</span></div>"
     },
     {
       "Id": "a2e2fa9c-533b-4616-83ad-b0c13b3a7a43",
@@ -26,14 +26,6 @@
       "Url": "/service-advisories/subway-service/Line-2-Woodbine-to-Kennedy-Single-day-closure-May-9-2026",
       "Name": null,
       "Html": "<a title=\"Line 2 Woodbine to Kennedy Single day closure May 9 2026\" href=\"/service-advisories/subway-service/Line-2-Woodbine-to-Kennedy-Single-day-closure-May-9-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Woodbine to Kennedy stations – Single day closure - Saturday, May 9, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>May 9, 2026<span>&nbsp;</span></div>"
-    },
-    {
-      "Id": "cef003b1-f2b3-4ec5-b13f-090849936e4f",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Vaughan Metropolitan Centre to Finch West single-track operation May 11 to May 14 2026",
-      "Url": "/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Finch-West-single-track-operation-May-11-to-May-14-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 1 Vaughan Metropolitan Centre to Finch West single-track operation May 11 to May 14 2026\" href=\"/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Finch-West-single-track-operation-May-11-to-May-14-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Vaughan Metropolitan Centre to Finch West stations – Planned single-track operation, nightly starting at 11 p.m. from Monday, May 11 to Thursday, May 14, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 11, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 14, 2026</span></div>"
     }
   ]
 }
