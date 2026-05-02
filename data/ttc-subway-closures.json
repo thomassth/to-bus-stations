@@ -22,10 +22,10 @@
     {
       "Id": "a2e2fa9c-533b-4616-83ad-b0c13b3a7a43",
       "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Woodbine to Kennedy Single day closure May 9 2026",
-      "Url": "/service-advisories/subway-service/Line-2-Woodbine-to-Kennedy-Single-day-closure-May-9-2026",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Woodbine to Kennedy Planned closure May 8 and 9 2026",
+      "Url": "/service-advisories/subway-service/Line-2-Woodbine-to-Kennedy-Planned-closure-May-8-and-9-2026",
       "Name": null,
-      "Html": "<a title=\"Line 2 Woodbine to Kennedy Single day closure May 9 2026\" href=\"/service-advisories/subway-service/Line-2-Woodbine-to-Kennedy-Single-day-closure-May-9-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Woodbine to Kennedy stations – Single day closure - Saturday, May 9, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>May 9, 2026<span>&nbsp;</span></div>"
+      "Html": "<a title=\"Line 2 Woodbine to Kennedy Planned closure May 8 and 9 2026\" href=\"/service-advisories/subway-service/Line-2-Woodbine-to-Kennedy-Planned-closure-May-8-and-9-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Woodbine to Kennedy stations – Planned closure starting at 11 p.m. on Friday, May 8, 2026 to Saturday, May 9, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>May 8, 2026<span>&nbsp;</span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 9, 2026</span></div>"
     }
   ]
 }
