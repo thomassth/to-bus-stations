@@ -2096,8 +2096,8 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 13068,-79.13137,447,Lawrence Ave East At East Ave - Rouge Hill Go Station,43.7808299,"West, North","['38', '54', '85', '200', '354', '385', '395', '954']","['West', 'West', 'West', 'North', 'West', 'West', 'West', 'West']",13068
 10141,-79.13665,6640,Port Union Rd At Lawrence Ave East North Side,43.78002,"West, North","['38', '200', '395']","['West', 'North', 'West']",10141
 9885,-79.1374699,620,Port Union Rd At Adenmore Rd North Side,43.7817699,"West, North","['38', '200', '395']","['West', 'North', 'West']",9885
-16808,-79.13925,25311,Port Union Rd At Conference Blvd,43.78602,West,"['38', '395']","['West', 'West']",16808
-16807,-79.1403499,25310,Port Union Rd At Tilley Dr,43.7886199,West,"['38', '395']","['West', 'West']",16807
+16808,-79.13925,25311,Port Union Rd At Conference Blvd,43.78602,"West, North","['38', '200', '395']","['West', 'North', 'West']",16808
+16807,-79.1403499,25310,Port Union Rd At Tilley Dr,43.7886199,"West, North","['38', '200', '395']","['West', 'North', 'West']",16807
 9889,-79.1437899,8584,Lawson Rd At Wichey Rd,43.78909,West,['38'],['West'],9889
 9890,-79.14733,10154,Lawson Rd At Brumwell St,43.7883399,West,['38'],['West'],9890
 7926,-79.15117,6942,Lawson Rd At Centennial Rd West Side,43.7874599,West,['38'],['West'],7926
@@ -2161,7 +2161,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 7934,-79.1411799,5743,Lawson Rd At Port Union Rd,43.7895,East,['38A'],['East'],7934
 8036,-79.13959,2545,Port Union Rd At Conference Blvd,43.7862,"East, South","['38A', '200', '395']","['East', 'South', 'East']",8036
 8035,-79.1375899,8185,Port Union Rd At Clappison Blvd,43.7814999,"East, South","['38A', '200', '395']","['East', 'South', 'East']",8035
-16809,-79.1361099,25312,Lawrence Ave East At Port Union Rd,43.77963,East,"['38A', '54A', '354', '354', '395', '954']","['East', 'East', 'East', 'East', 'East', 'East']",16809
+16809,-79.1361099,25312,Lawrence Ave East At Port Union Rd,43.77963,"East, South","['38A', '54A', '200', '354', '354', '395', '954']","['East', 'East', 'South', 'East', 'East', 'East', 'East']",16809
 14690,-79.41506,14210,Finch Station,43.7811099,East,['39C'],['East'],14690
 2516,-79.4125199,5410,Finch Ave East At Kenneth Ave,43.78032,East,"['39C', '39B', '339']","['East', 'East', 'East']",2516
 2507,-79.40983,4707,Finch Ave East At Dudley Ave,43.7809299,East,"['39C', '39B', '339']","['East', 'East', 'East']",2507
@@ -6920,8 +6920,8 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 1467,-79.37421,5092,Queens Quay East At Yonge St,43.6421699,West,"['114', '202']","['West', 'West']",1467
 262,-79.37707,10314,Bay St At Queens Quay West North Side - Jack Layton Ferry Terminal,43.6416899,West,"['114', '202']","['West', 'West']",262
 15151,-79.37778,14959,Bay St At Lake Shore Blvd W,43.6431099,West,"['114', '202']","['West', 'West']",15151
-247,-79.37893,7174,Bay St At Front St West - Union Station,43.64585,West,['114'],['West'],247
-16754,-79.37782,25208,1 Front St West - Union Station,43.6462099,East,"['114', '121']","['East', 'East']",16754
+247,-79.37893,7174,Bay St At Front St West - Union Station,43.64585,West,"['114', '202']","['West', 'West']",247
+16754,-79.37782,25208,1 Front St West - Union Station,43.6462099,East,"['114', '121', '202']","['East', 'East', 'East']",16754
 246,-79.3789999,4308,Bay St At Front St West South Side - Union Station,43.6454799,"East, South","['114', '202', '320']","['East', 'East', 'South']",246
 254,-79.3773799,7536,Bay St At Harbour St South Side - Jack Layton Ferry Terminal,43.6417399,"East, South","['114', '202', '320']","['East', 'East', 'South']",254
 1465,-79.3754699,4411,Queens Quay West At Bay St East Side,43.64155,"East, South","['114', '202', '320']","['East', 'East', 'South']",1465
@@ -8234,11 +8234,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 7917,-79.3367799,9304,Laurentide Dr At Three Valleys Dr,43.7517699,South,['191'],['South'],7917
 11106,-79.3350799,7195,Three Valleys Dr At Groveland Cres,43.75164,South,['191'],['South'],11106
 7566,-79.3319699,8836,Brookbanks Dr At Valley Woods Rd,43.75216,South,['191'],['South'],7566
-9886,-79.1389099,3888,Port Union Rd At Winter Gardens Trail,43.7852299,North,['200'],['North'],9886
-9887,-79.1401999,10110,Port Union Rd At Ravine Park Cres North Side,43.7883499,North,['200'],['North'],9887
 6526,-79.17967,467,Toronto Zoo,43.8192699,South,['200'],['South'],6526
-8037,-79.14024,4595,Port Union Rd At Ravine Park Cres South Side,43.7878099,South,['200'],['South'],8037
-9891,-79.13706,10225,Port Union Rd At Lawrence Ave East,43.78025,South,['200'],['South'],9891
 15695,-79.22858,24049,Scarborough Bluffs Beach Loop At Bluffers Park Rd,43.7127999,North,['201'],['North'],15695
 15694,-79.2347793,24033,Bluffers Park Rd At Brimley Rd,43.7083737,North,['201'],['North'],15694
 3362,-79.24025,1330,Brimley Rd South At Kingston Rd South Side,43.7177099,South,['201'],['South'],3362
@@ -8248,7 +8244,6 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 13945,-79.3470699,6846,Cherry St At Unwin Ave North Side,43.6395599,West,['202'],['West'],13945
 13933,-79.35025,10393,Cherry St At Polson St,43.64278,West,['202'],['West'],13933
 16193,-79.36181,24475,Mill St At Parliament St,43.6503799,West,['202'],['West'],16193
-9406,-79.37852,641,Front St West At Bay St East Side - Union Station,43.6459999,East,['202'],['East'],9406
 15511,-79.3572099,15339,Cherry St At Mill St South Side,43.6507499,East,['202'],['East'],15511
 16435,-79.3540299,24788,Cherry St At Commissioners St,43.6450899,East,['202'],['East'],16435
 13934,-79.35042,2928,Cherry St At Polson St South Side,43.64268,East,['202'],['East'],13934
