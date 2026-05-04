@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 4,
+  "Count": 3,
   "Results": [
-    {
-      "Id": "74b5c3ab-61b8-48b8-b931-701746e88ef2",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Sheppard-Yonge Single-day closure May 2 2026",
-      "Url": "/service-advisories/subway-service/Line-1-Finch-to-Sheppard-Yonge-Single-day-closure-May-2-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 1 Finch to Sheppard-Yonge Single-day closure May 2 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Sheppard-Yonge-Single-day-closure-May-2-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Sheppard-Yonge stations – Single-day closure - Saturday, May 2, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>May 2, 2026<span>&nbsp;</span></div>"
-    },
     {
       "Id": "e38233f6-f4c6-4483-880b-2ca75a6edd13",
       "Language": "en",
