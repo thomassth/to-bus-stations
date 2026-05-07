@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 3,
+  "Count": 4,
   "Results": [
     {
       "Id": "e38233f6-f4c6-4483-880b-2ca75a6edd13",
@@ -12,12 +12,20 @@
       "Html": "<a title=\"Line 2 Woodbine to Kennedy Early nightly closure May 4 to May 7 2026\" href=\"/service-advisories/subway-service/Line-2-Woodbine-to-Kennedy-Early-nightly-closure-May-4-to-May-7-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Woodbine to Kennedy stations – Early nightly closure starting at 11:59 p.m. - Monday, May 4 to Thursday, May 7, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 4, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 7, 2026</span></div>"
     },
     {
-      "Id": "a2e2fa9c-533b-4616-83ad-b0c13b3a7a43",
+      "Id": "1aa7f6a6-1978-4018-8cda-c3d22edb764f",
       "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Woodbine to Kennedy Planned closure May 8 and 9 2026",
-      "Url": "/service-advisories/subway-service/Line-2-Woodbine-to-Kennedy-Planned-closure-May-8-and-9-2026",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Jane Single day closure May 8 to 9 2026",
+      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Jane-Single-day-closure-May-8-to-9-2026",
       "Name": null,
-      "Html": "<a title=\"Line 2 Woodbine to Kennedy Planned closure May 8 and 9 2026\" href=\"/service-advisories/subway-service/Line-2-Woodbine-to-Kennedy-Planned-closure-May-8-and-9-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Woodbine to Kennedy stations – Planned closure starting at 11 p.m. on Friday, May 8, 2026 to Saturday, May 9, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>May 8, 2026<span>&nbsp;</span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 9, 2026</span></div>"
+      "Html": "<a title=\"Line 2 Kipling to Jane Single day closure May 8 to 9 2026\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Jane-Single-day-closure-May-8-to-9-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth) </span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Jane stations – Single day closure starting at 11 p.m. on Friday, May 8, 2026 to Saturday, May 9, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 8, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 9, 2026</span></div>"
+    },
+    {
+      "Id": "a254e5ee-20e9-4fcc-bda9-8e4b41653287",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Woodbine Early nightly closure May 11 to15 2026",
+      "Url": "/service-advisories/subway-service/Line-2-St-George-to-Woodbine-Early-nightly-closure-May-11-to15-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 2 St George to Woodbine Early nightly closure May 11 to15 2026\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Woodbine-Early-nightly-closure-May-11-to15-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Woodbine stations – Early nightly closure starting at 11:59 p.m. - Monday, May 11 to Friday, May 15, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 11, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 15, 2026</span></div>"
     }
   ]
 }
