@@ -4,14 +4,6 @@
   "Count": 4,
   "Results": [
     {
-      "Id": "e38233f6-f4c6-4483-880b-2ca75a6edd13",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Woodbine to Kennedy Early nightly closure May 4 to May 7 2026",
-      "Url": "/service-advisories/subway-service/Line-2-Woodbine-to-Kennedy-Early-nightly-closure-May-4-to-May-7-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Woodbine to Kennedy Early nightly closure May 4 to May 7 2026\" href=\"/service-advisories/subway-service/Line-2-Woodbine-to-Kennedy-Early-nightly-closure-May-4-to-May-7-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Woodbine to Kennedy stations – Early nightly closure starting at 11:59 p.m. - Monday, May 4 to Thursday, May 7, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 4, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 7, 2026</span></div>"
-    },
-    {
       "Id": "1aa7f6a6-1978-4018-8cda-c3d22edb764f",
       "Language": "en",
       "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Jane Single day closure May 8 to 9 2026",
@@ -26,6 +18,14 @@
       "Url": "/service-advisories/subway-service/Line-2-St-George-to-Woodbine-Early-nightly-closure-May-11-to15-2026",
       "Name": null,
       "Html": "<a title=\"Line 2 St George to Woodbine Early nightly closure May 11 to15 2026\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Woodbine-Early-nightly-closure-May-11-to15-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Woodbine stations – Early nightly closure starting at 11:59 p.m. - Monday, May 11 to Friday, May 15, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 11, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 15, 2026</span></div>"
+    },
+    {
+      "Id": "0b17e1ae-c70f-4399-b4a6-abb13b8a3c32",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Humber College to Finch West stations May 15 to 18 2026",
+      "Url": "/service-advisories/subway-service/Humber-College-to-Finch-West-stations-May-15-to-18-2026",
+      "Name": null,
+      "Html": "<a title=\"Humber College to Finch West stations May 15 to 18 2026\" href=\"/service-advisories/subway-service/Humber-College-to-Finch-West-stations-May-15-to-18-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 6 (Finch West)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Humber College to Finch West stations – Planned closure for infrastructure and system improvements – Friday, May 15 to Monday, May 18, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 15, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 18, 2026</span></div>"
     }
   ]
 }
