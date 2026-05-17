@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 9,
+  "Count": 8,
   "Results": [
-    {
-      "Id": "a254e5ee-20e9-4fcc-bda9-8e4b41653287",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Woodbine Early nightly closure May 11 to15 2026",
-      "Url": "/service-advisories/subway-service/Line-2-St-George-to-Woodbine-Early-nightly-closure-May-11-to15-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 2 St George to Woodbine Early nightly closure May 11 to15 2026\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Woodbine-Early-nightly-closure-May-11-to15-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Woodbine stations – Early nightly closure starting at 11:59 p.m. - Monday, May 11 to Friday, May 15, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 11, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 15, 2026</span></div>"
-    },
     {
       "Id": "0b17e1ae-c70f-4399-b4a6-abb13b8a3c32",
       "Language": "en",
