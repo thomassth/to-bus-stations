@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 7,
+  "Count": 6,
   "Results": [
-    {
-      "Id": "0b17e1ae-c70f-4399-b4a6-abb13b8a3c32",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Humber College to Finch West stations May 15 to 18 2026",
-      "Url": "/service-advisories/subway-service/Humber-College-to-Finch-West-stations-May-15-to-18-2026",
-      "Name": null,
-      "Html": "<a title=\"Humber College to Finch West stations May 15 to 18 2026\" href=\"/service-advisories/subway-service/Humber-College-to-Finch-West-stations-May-15-to-18-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 6 (Finch West)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Humber College to Finch West stations – Planned closure for infrastructure and system improvements – Friday, May 15 to Monday, May 18, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 15, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 18, 2026</span></div>"
-    },
     {
       "Id": "b72ca866-d97c-457f-9187-34be1069e57b",
       "Language": "en",
