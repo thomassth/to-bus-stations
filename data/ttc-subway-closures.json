@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 6,
+  "Count": 3,
   "Results": [
-    {
-      "Id": "b72ca866-d97c-457f-9187-34be1069e57b",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kennedy to Woodbine Nightly early closures May 19 to 22 2026",
-      "Url": "/service-advisories/subway-service/Line-2-Kennedy-to-Woodbine-Nightly-early-closures-May-19-to-22-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Kennedy to Woodbine Nightly early closures May 19 to 22 2026\" href=\"/service-advisories/subway-service/Line-2-Kennedy-to-Woodbine-Nightly-early-closures-May-19-to-22-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth) </span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kennedy to Woodbine stations - Nightly early closures starting at 11:59 p.m. - Tuesday, May 19 to Friday, May 22, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 19, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 22, 2026</span></div>"
-    },
     {
       "Id": "a62aaf8b-6dcd-4af6-8b61-5584eece6420",
       "Language": "en",
@@ -20,28 +12,12 @@
       "Html": "<a title=\"Line 2 Kennedy to Woodbine Full weekend closure May 23 to 24 2026\" href=\"/service-advisories/subway-service/Line-2-Kennedy-to-Woodbine-Full-weekend-closure-May-23-to-24-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kennedy to Woodbine stations – Full weekend closure - Saturday, May 23 to Sunday, May 24, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 23, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 24, 2026</span></div>"
     },
     {
-      "Id": "126e4a5a-748a-4bd7-8f64-b2fb0a0aa127",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 SheppardYonge to Eglinton Nightly early closures May 25 to 26 2026",
-      "Url": "/service-advisories/subway-service/Line-1-SheppardYonge-to-Eglinton-Nightly-early-closures-May-25-to-26-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 1 SheppardYonge to Eglinton Nightly early closures May 25 to 26 2026\" href=\"/service-advisories/subway-service/Line-1-SheppardYonge-to-Eglinton-Nightly-early-closures-May-25-to-26-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">CANCELLED - Sheppard-Yonge to Eglinton stations – Nightly early closures starting at 11 p.m. - Monday, May 25 to Tuesday, May 26, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 25, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 26, 2026</span></div>"
-    },
-    {
       "Id": "7c87bb90-1128-4ed2-af8d-5e1f71d236a1",
       "Language": "en",
       "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St George to Sheppard West Nightly early closures May 25 to 29 2026",
       "Url": "/service-advisories/subway-service/Line-1-St-George-to-Sheppard-West-Nightly-early-closures-May-25-to-29-2026",
       "Name": null,
       "Html": "<a title=\"Line 1 St George to Sheppard West Nightly early closures May 25 to 29 2026\" href=\"/service-advisories/subway-service/Line-1-St-George-to-Sheppard-West-Nightly-early-closures-May-25-to-29-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University) </span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Sheppard West stations – Nightly early closures starting at 11:59 p.m. - Monday, May 25 to Friday, May 29, 2026  </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 25, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 29, 2026</span></div>"
-    },
-    {
-      "Id": "c3c0c267-4911-4660-9c02-3a895b74eed5",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kennedy to Woodbine Nightly early closures May 25 to 29 2026",
-      "Url": "/service-advisories/subway-service/Line-2-Kennedy-to-Woodbine-Nightly-early-closures-May-25-to-29-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Kennedy to Woodbine Nightly early closures May 25 to 29 2026\" href=\"/service-advisories/subway-service/Line-2-Kennedy-to-Woodbine-Nightly-early-closures-May-25-to-29-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">CANCELLED - Kennedy to Woodbine stations - Nightly early closures starting at 11:59 p.m. - Monday, May 25 to Friday, May 29, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 25, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 29, 2026</span></div>"
     }
   ]
 }
