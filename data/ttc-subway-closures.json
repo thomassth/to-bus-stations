@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 3,
+  "Count": 4,
   "Results": [
     {
       "Id": "7c87bb90-1128-4ed2-af8d-5e1f71d236a1",
@@ -18,6 +18,14 @@
       "Url": "/service-advisories/subway-service/Line-2--Jane-to-Ossington-Full-weekend-closure-May-30-to-31-2026",
       "Name": null,
       "Html": "<a title=\"Line 2  Jane to Ossington Full weekend closure May 30 to 31 2026\" href=\"/service-advisories/subway-service/Line-2--Jane-to-Ossington-Full-weekend-closure-May-30-to-31-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Jane to Ossington stations – Full weekend closure - Saturday, May 30 to Sunday, May 31, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">May 30, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">May 31, 2026</span></div>"
+    },
+    {
+      "Id": "8e29f2f7-fb24-4016-88c2-e4ae799667ea",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St George to Sheppard West Nightly early closures June 1 to 5 2026",
+      "Url": "/service-advisories/subway-service/Line-1-St-George-to-Sheppard-West-Nightly-early-closures-June-1-to-5-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 St George to Sheppard West Nightly early closures June 1 to 5 2026\" href=\"/service-advisories/subway-service/Line-1-St-George-to-Sheppard-West-Nightly-early-closures-June-1-to-5-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Sheppard West stations – Nightly early closures starting at 11:59 p.m. – Monday, June 1 to Friday, June 5, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">June 1, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">June 5, 2026</span></div>"
     }
   ]
 }
