@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 3,
+  "Count": 2,
   "Results": [
-    {
-      "Id": "3e8819ba-dade-4bc6-aeee-6b63ade601d1",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St George to Sheppard West Single-day closure June 7 2026",
-      "Url": "/service-advisories/subway-service/Line-1-St-George-to-Sheppard-West-Single-day-closure-June-7-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 1 St George to Sheppard West Single-day closure June 7 2026\" href=\"/service-advisories/subway-service/Line-1-St-George-to-Sheppard-West-Single-day-closure-June-7-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Sheppard West stations – Single-day closure – Sunday, June 7, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>June 7, 2026<span>&nbsp;</span></div>"
-    },
     {
       "Id": "efc8699d-8fea-4f58-a2e4-5a73af4e9288",
       "Language": "en",
