@@ -1,6 +1,31 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 1,
-  "Results": []
+  "Count": 4,
+  "Results": [
+    {
+      "Id": "6ac1a22c-beaa-4f2e-a107-e70588d122c7",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair to College Nightly early closures July 20 to 24 2026",
+      "Url": "/service-advisories/subway-service/Line-1-St-Clair-to-College-Nightly-early-closures-July-20-to-24-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 St Clair to College Nightly early closures July 20 to 24 2026\" href=\"/service-advisories/subway-service/Line-1-St-Clair-to-College-Nightly-early-closures-July-20-to-24-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair to College stations – Nightly early closures starting at 11:59 p.m. - Monday, July 20 to Friday, July 24, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">July 20, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">July 24, 2026</span></div>"
+    },
+    {
+      "Id": "0daa2a29-7c23-4898-a79a-0d3c0c9e0374",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair to College Full weekend closure July 25 and 26 2026",
+      "Url": "/service-advisories/subway-service/Line-1-St-Clair-to-College-Full-weekend-closure-July-25-and-26-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 St Clair to College Full weekend closure July 25 and 26 2026\" href=\"/service-advisories/subway-service/Line-1-St-Clair-to-College-Full-weekend-closure-July-25-and-26-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair to College stations – Full weekend closure - Saturday, July 25 and Sunday, July 26, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">July 25, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">July 26, 2026</span></div>"
+    },
+    {
+      "Id": "787bfc16-9ef7-4339-b498-9d4be2db0604",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Broadview Late opening July 26 2026",
+      "Url": "/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-July-26-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 2 St George to Broadview Late opening July 26 2026\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-July-26-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Broadview stations – Late-opening at 11 a.m. on Sunday, July 26, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>July 26, 2026<span>&nbsp;</span></div>"
+    }
+  ]
 }
