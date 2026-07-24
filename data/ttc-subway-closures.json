@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 5,
+  "Count": 4,
   "Results": [
-    {
-      "Id": "894953d0-2f8c-48d4-b56c-9c2e49504ce7",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2  Jane to Ossington Nightly early closures July 20 to 22 2026",
-      "Url": "/service-advisories/subway-service/Line-2--Jane-to-Ossington-Nightly-early-closures-July-20-to-22-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 2  Jane to Ossington Nightly early closures July 20 to 22 2026\" href=\"/service-advisories/subway-service/Line-2--Jane-to-Ossington-Nightly-early-closures-July-20-to-22-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Jane to Ossington stations – Nightly early closures starting at 11:59 p.m. - Monday, July 20 to Wednesday, July 22, 2026  </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">July 20, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">July 22, 2026</span></div>"
-    },
     {
       "Id": "3e6d710f-16ef-4cff-a138-46f2136248d6",
       "Language": "en",
