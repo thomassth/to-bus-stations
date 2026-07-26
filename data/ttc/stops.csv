@@ -1,12 +1,12 @@
 stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 14617,-79.41106,14141,Bathurst Station,43.6660599,North,"['7', '307']","['North', 'North']",14617
-092,-79.41223,3195,Bathurst St At Barton Ave,43.66802,North,"['7', '307', '311']","['North', 'North', 'North']",092
-219,-79.4130199,5400,Bathurst St At Wells St,43.6699999,North,"['7', '307', '311']","['North', 'North', 'North']",219
-128,-79.4142199,5475,Bathurst St At Dupont St,43.6730499,North,"['7', '307', '311']","['North', 'North', 'North']",128
-153,-79.4149899,1857,Bathurst St At Bridgman Ave,43.6749899,North,"['7', '307', '311']","['North', 'North', 'North']",153
-117,-79.41559,4858,Bathurst St At Davenport Rd,43.67651,North,"['7', '307', '311']","['North', 'North', 'North']",117
-180,-79.41685,6550,Bathurst St At Nina St,43.67972,North,"['7', '307', '311']","['North', 'North', 'North']",180
-9951,-79.41807,14801,Bathurst Street At St Clair Ave West,43.68275,North,"['7', '307', '311']","['North', 'North', 'North']",9951
+092,-79.41223,3195,Bathurst St At Barton Ave,43.66802,North,"['7', '307']","['North', 'North']",092
+219,-79.4130199,5400,Bathurst St At Wells St,43.6699999,North,"['7', '307']","['North', 'North']",219
+128,-79.4142199,5475,Bathurst St At Dupont St,43.6730499,North,"['7', '307']","['North', 'North']",128
+153,-79.4149899,1857,Bathurst St At Bridgman Ave,43.6749899,North,"['7', '307']","['North', 'North']",153
+117,-79.41559,4858,Bathurst St At Davenport Rd,43.67651,North,"['7', '307']","['North', 'North']",117
+180,-79.41685,6550,Bathurst St At Nina St,43.67972,North,"['7', '307']","['North', 'North']",180
+9951,-79.41807,14801,Bathurst Street At St Clair Ave West,43.68275,North,"['7', '307']","['North', 'North']",9951
 211,-79.41907,6335,Bathurst St At Tichester Rd,43.6852999,North,"['7', '307']","['North', 'North']",211
 168,-79.4197,9464,Bathurst St At Lonsdale Rd,43.68686,North,"['7', '307']","['North', 'North']",168
 101,-79.42169,5668,Bathurst St At Burton Rd,43.69177,North,"['7', '307']","['North', 'North']",101
@@ -105,12 +105,12 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 107,-79.4198199,9828,Bathurst St At Claxton Blvd South Side,43.6866299,South,"['7', '307']","['South', 'South']",107
 210,-79.41918,2166,Bathurst St At Tichester Rd South Side,43.68509,South,"['7', '307']","['South', 'South']",210
 204,-79.4184499,388,Bathurst St At St Clair Ave West,43.68328,South,"['7', '307']","['South', 'South']",204
-080,-79.41722,6130,Bathurst St At Alcina Ave,43.6801699,South,"['7', '307', '311']","['South', 'South', 'South']",080
-7518,-79.4160099,6526,Bathurst St At Davenport Rd,43.6770199,South,"['7', '307', '311']","['South', 'South', 'South']",7518
-154,-79.4153499,8157,1138 Bathurst St,43.6753699,South,"['7', '307', '311']","['South', 'South', 'South']",154
-129,-79.4145,7258,Bathurst St At Dupont St,43.67324,South,"['7', '307', '311']","['South', 'South', 'South']",129
-181,-79.41337,5912,Bathurst St At Olive Ave,43.67038,South,"['7', '307', '311']","['South', 'South', 'South']",181
-1108,-79.3549,8991,Gerrard St East At St Matthews Rd,43.6649699,"North, East, West","['8', '62', '306', '506']","['North', 'East', 'West', 'West']",1108
+080,-79.41722,6130,Bathurst St At Alcina Ave,43.6801699,South,"['7', '307']","['South', 'South']",080
+7518,-79.4160099,6526,Bathurst St At Davenport Rd,43.6770199,South,"['7', '307']","['South', 'South']",7518
+154,-79.4153499,8157,1138 Bathurst St,43.6753699,South,"['7', '307']","['South', 'South']",154
+129,-79.4145,7258,Bathurst St At Dupont St,43.67324,South,"['7', '307']","['South', 'South']",129
+181,-79.41337,5912,Bathurst St At Olive Ave,43.67038,South,"['7', '307']","['South', 'South']",181
+1108,-79.3549,8991,Gerrard St East At St Matthews Rd,43.6649699,"North, East, West","['8', '62', '306B', '306', '506', '506B']","['North', 'East', 'West', 'West', 'West', 'West']",1108
 1759,-79.35331,4891,Broadview Ave At Langley Ave-Hennick Bridgepoint Hospital,43.66766,"North, East","['8', '62', '304', '305', '504B', '505']","['North', 'East', 'East', 'East', 'East', 'East']",1759
 1766,-79.35303,10098,Broadview Ave At Withrow Ave,43.6696399,"North, East","['8', '62', '304', '305', '504B', '505']","['North', 'East', 'East', 'East', 'East', 'East']",1766
 1761,-79.35473,3720,Broadview Ave At Millbrook Cres,43.6719,"North, East","['8', '62', '304', '305', '504B', '505']","['North', 'East', 'East', 'East', 'East', 'East']",1761
@@ -194,7 +194,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 1767,-79.35343,7801,Broadview Ave At Withrow Ave,43.66986,"South, West","['8', '62', '304', '305', '504B', '505']","['South', 'West', 'West', 'West', 'West', 'West']",1767
 1760,-79.3533199,4197,Broadview Ave At Langley Ave-Hennick Bridgepoint Hospital,43.66808,"South, West","['8', '62', '304', '305', '504B', '505']","['South', 'West', 'West', 'West', 'West', 'West']",1760
 1763,-79.3531299,7809,Broadview Ave At Jack Layton Way,43.6664799,"South, West","['8', '62', '304', '305', '504B', '505']","['South', 'West', 'West', 'West', 'West', 'West']",1763
-1758,-79.35279,10353,Broadview Ave At Gerrard St East,43.66566,"South, West","['8', '62', '304', '305', '504B', '505']","['South', 'West', 'West', 'West', 'West', 'West']",1758
+1758,-79.35279,10353,Broadview Ave At Gerrard St East,43.66566,"South, West, East","['8', '62', '304', '305', '306B', '504B', '505', '506B']","['South', 'West', 'West', 'West', 'East', 'West', 'West', 'East']",1758
 16640,-79.28018,25008,Warden Station,43.7104599,North,"['9', '16']","['North', 'North']",16640
 4629,-79.2767,7405,St Clair Ave East At Santamonica Blvd,43.7129099,"North, South","['9', '16', '17A', '102D', '102C', '117']","['North', 'North', 'North', 'North', 'North', 'South']",4629
 1559,-79.27312,811,St Clair Ave East At Elfreda Blvd,43.71366,"North, South","['9', '16', '102D', '102C', '117']","['North', 'North', 'North', 'North', 'South']",1559
@@ -498,7 +498,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 15908,-79.19437,24349,Kingston Rd At Galloway Rd East Side,43.7622099,East,"['12D', '86A', '86D', '386', '905B', '986']","['East', 'East', 'East', 'East', 'East', 'East']",15908
 4255,-79.19118,2648,Kingston Rd At Poplar Rd,43.7656599,East,"['12D', '86A', '86D', '386', '986']","['East', 'East', 'East', 'East', 'East']",4255
 6488,-79.18959,8177,Kingston Rd At Lawrence Ave East,43.76736,East,"['12D', '86A', '86D', '386', '905B', '986']","['East', 'East', 'East', 'East', 'East', 'East']",6488
-15280,-79.187,15107,Morningside Ave At Kingston Rd,43.7712899,East,"['12D', '334B', '334B', '905B']","['East', 'East', 'East', 'East']",15280
+15280,-79.187,15107,Morningside Ave At Kingston Rd,43.7712899,East,"['12D', '116', '334B', '334B', '905B']","['East', 'East', 'East', 'East', 'East']",15280
 2968,-79.1875099,2593,Morningside Ave At Tefft Rd,43.7723699,East,"['12D', '116', '334B', '334B']","['East', 'East', 'East', 'East']",2968
 2932,-79.1888299,8291,345 Morningside Ave,43.7754699,East,"['12D', '116', '334B', '334B', '905B']","['East', 'East', 'East', 'East', 'East']",2932
 2962,-79.1913499,7155,Morningside Ave At Opposite Morningside Park,43.7808799,East,"['12D', '116', '334B', '334B']","['East', 'East', 'East', 'East']",2962
@@ -786,11 +786,10 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 406,-79.29112,2521,Birchmount Rd At Ellesmere Rd,43.76321,North,['17A'],['North'],406
 438,-79.29127,7647,Opposite 1792 Birchmount Rd,43.7656799,North,['17A'],['North'],438
 445,-79.29202,5995,Birchmount Rd At Rolark Dr,43.76753,North,['17A'],['North'],445
-463,-79.2939,2062,Birchmount Rd At Highway 401 - Walkway North Of Rolark,43.7718499,North,['17A'],['North'],463
-372,-79.2948999,2082,Birchmount Rd At Allanford Rd,43.7741499,North,['17A'],['North'],372
+372,-79.2949,2082,Birchmount Rd At Allanford Rd,43.77415,North,['17A'],['North'],372
 422,-79.296,6531,Birchmount Rd At Harleyford Gate,43.7768,North,['17A'],['North'],422
 390,-79.2969,7137,Birchmount Rd At Cass Ave,43.77887,North,['17A'],['North'],390
-448,-79.29783,6729,Birchmount Rd At Sheppard Ave East,43.7808499,North,['17A'],['North'],448
+448,-79.29783,6729,Birchmount Rd At Sheppard Ave East,43.78085,North,['17A'],['North'],448
 382,-79.29912,1753,Birchmount Rd At Bonis Ave,43.7834799,North,['17A'],['North'],382
 439,-79.3006599,10200,2481 Birchmount Rd,43.7870099,North,['17A'],['North'],439
 425,-79.30233,9781,Birchmount Rd At Huntingwood Dr North Side,43.7907799,North,['17A'],['North'],425
@@ -852,7 +851,6 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 391,-79.29722,2357,Birchmount Rd At Cass Ave,43.7790399,South,['17'],['South'],391
 389,-79.2963899,8927,Birchmount Rd At Carncastle Gate,43.7771099,South,['17'],['South'],389
 447,-79.2951799,5017,Birchmount Rd At Scarden Ave,43.7742999,South,['17'],['South'],447
-464,-79.29414,6651,Birchmount Rd At Highway 401 - Walkway North Of Rolark,43.77179,South,['17'],['South'],464
 446,-79.29252,3234,Birchmount Rd At Rolark Dr,43.7679,South,['17'],['South'],446
 377,-79.2914299,2172,1792 Birchmount Rd,43.7653899,South,['17'],['South'],377
 407,-79.2915699,7918,Birchmount Rd At Ellesmere Rd,43.7636199,South,['17'],['South'],407
@@ -930,9 +928,9 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 233,-79.38249,8008,Bay St At Albert St,43.6528899,North,['19'],['North'],233
 252,-79.3829999,3519,Bay St At Hagerman St,43.6541799,North,['19'],['North'],252
 243,-79.3835399,5943,Bay St At Dundas St West,43.6555199,North,['19'],['North'],243
-244,-79.38418,4437,Bay St At Elm St,43.65714,North,['19'],['North'],244
-248,-79.38486,3450,Bay St At Gerrard St West North Side,43.65878,North,['19'],['North'],248
-238,-79.3856699,6234,Bay St At College St,43.6606699,North,['19'],['North'],238
+244,-79.38418,4437,Bay St At Elm St,43.65714,"North, West","['19', '306', '506']","['North', 'West', 'West']",244
+248,-79.38486,3450,Bay St At Gerrard St West North Side,43.65878,"North, West","['19', '306', '506']","['North', 'West', 'West']",248
+238,-79.3856699,6234,Bay St At College St,43.6606699,"North, West","['19', '306', '506']","['North', 'West', 'West']",238
 250,-79.38621,1413,Bay St At Grosvenor St,43.6623799,North,['19'],['North'],250
 268,-79.387,7751,Bay St At Wellesley St West,43.66425,North,['19'],['North'],268
 10282,-79.38774,3589,Bay St At St Joseph St North Side,43.66606,North,['19'],['North'],10282
@@ -951,12 +949,12 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 235,-79.38972,5956,Bay St At Bloor St West - Bay Station,43.6700099,South,['19'],['South'],235
 236,-79.3888799,1677,Bay St At Charles St West South Side,43.6679799,South,['19'],['South'],236
 265,-79.3878699,8586,Bay St At St Joseph St,43.6657899,South,['19'],['South'],265
-267,-79.3871,5580,Bay St At Wellesley St West South Side,43.66397,South,['19'],['South'],267
-251,-79.3865599,6737,Bay St At Grosvenor St,43.6626499,South,['19'],['South'],251
-239,-79.3859999,8823,Bay St At College St,43.6609199,South,['19'],['South'],239
-249,-79.38502,2200,Bay St At Gerrard St West,43.6585999,South,['19'],['South'],249
-245,-79.38452,7967,Bay St At Elm St,43.65739,South,['19'],['South'],245
-242,-79.3838799,7505,Bay St At Dundas St West,43.6558299,South,['19'],['South'],242
+267,-79.3871,5580,Bay St At Wellesley St West South Side,43.66397,"South, West","['19', '306B', '506B']","['South', 'West', 'West']",267
+251,-79.3865599,6737,Bay St At Grosvenor St,43.6626499,"South, West","['19', '306B', '506B']","['South', 'West', 'West']",251
+239,-79.3859999,8823,Bay St At College St,43.6609199,"South, West","['19', '306B', '506B']","['South', 'West', 'West']",239
+249,-79.38502,2200,Bay St At Gerrard St West,43.6585999,"South, East","['19', '306', '506']","['South', 'East', 'East']",249
+245,-79.38452,7967,Bay St At Elm St,43.65739,"South, East","['19', '306', '506']","['South', 'East', 'East']",245
+242,-79.3838799,7505,Bay St At Dundas St West,43.6558299,"South, East","['19', '306', '506']","['South', 'East', 'East']",242
 253,-79.3833699,6939,Bay St At Hagerman St,43.6545699,South,['19'],['South'],253
 234,-79.38278,4138,Bay St At Albert St,43.65303,South,['19'],['South'],234
 260,-79.3821699,4400,Bay St At Queen St West,43.6519,South,['19'],['South'],260
@@ -1117,6 +1115,16 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 9673,-79.28586,5606,Brimley Rd At Eagledance Dr,43.82486,North,['21C'],['North'],9673
 9678,-79.28707,1809,Brimley Rd At Steeles Ave East,43.82811,North,['21C'],['North'],9678
 9679,-79.28708,1463,Brimley Rd At Steeles Ave East North Side,43.8288499,North,['21C'],['North'],9679
+11181,-79.31274,308,Eastern Ave At Queen St East South Side,43.6667899,"North, West","['22', '31', '322']","['North', 'North', 'West']",11181
+11183,-79.3163099,2754,Emdaabiimok Ave At Queen St East,43.6659399,"North, West","['22', '322']","['North', 'West']",11183
+1787,-79.3173899,1129,Coxwell Ave At Dundas St East,43.6685399,"North, West","['22', '322']","['North', 'West']",1787
+1796,-79.3178999,5934,Coxwell Ave At Robbins Ave,43.6697799,"North, West","['22', '322']","['North', 'West']",1796
+1790,-79.3191,5576,Coxwell Ave At Eastwood Rd,43.67271,"North, West","['22', '322']","['North', 'West']",1790
+1800,-79.32009,8980,Coxwell Ave At Gerrard St East,43.6750999,"North, East, West","['22', '306', '322', '506']","['North', 'East', 'West', 'East']",1800
+1783,-79.32096,7359,Coxwell Ave At Casci Ave,43.6772999,"North, West","['22', '322']","['North', 'West']",1783
+1793,-79.32198,8251,Coxwell Ave At Hanson St,43.67967,"North, West","['22', '322']","['North', 'West']",1793
+16837,-79.3224899,25375,Coxwell Ave At Earl Haig Ave,43.6809099,"North, West","['22', '322']","['North', 'West']",16837
+1785,-79.32344,9658,Coxwell Ave At Danforth Ave,43.68321,"North, West","['22', '322']","['North', 'West']",1785
 14644,-79.32312,14166,Coxwell Station,43.6841399,South,['22'],['South'],14644
 1786,-79.32377,6052,Coxwell Ave At Danforth Ave,43.68353,"South, West, East","['22', '70', '322']","['South', 'West', 'East']",1786
 1789,-79.32284,6088,Coxwell Ave At Earl Haig Ave,43.68132,"South, East","['22', '322']","['South', 'East']",1789
@@ -1128,16 +1136,6 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 1788,-79.3177399,5873,Coxwell Ave At Dundas St East,43.6689699,"South, East","['22', '322']","['South', 'East']",1788
 1795,-79.3167499,8742,Coxwell Ave At Queen St East,43.6666899,"South, East","['22', '322']","['South', 'East']",1795
 11845,-79.3129499,489,Queen St East At Kingston Rd,43.66703,"South, East","['22', '301', '501']","['South', 'East', 'East']",11845
-11181,-79.31274,308,Eastern Ave At Queen St East South Side,43.6667899,"North, West","['22', '31', '322']","['North', 'North', 'West']",11181
-11183,-79.3163099,2754,Emdaabiimok Ave At Queen St East,43.6659399,"North, West","['22', '322']","['North', 'West']",11183
-1787,-79.3173899,1129,Coxwell Ave At Dundas St East,43.6685399,"North, West","['22', '322']","['North', 'West']",1787
-1796,-79.3178999,5934,Coxwell Ave At Robbins Ave,43.6697799,"North, West","['22', '322']","['North', 'West']",1796
-1790,-79.3191,5576,Coxwell Ave At Eastwood Rd,43.67271,"North, West","['22', '322']","['North', 'West']",1790
-1800,-79.32009,8980,Coxwell Ave At Gerrard St East,43.6750999,"North, East, West","['22', '306', '322', '506']","['North', 'East', 'West', 'East']",1800
-1783,-79.32096,7359,Coxwell Ave At Casci Ave,43.6772999,"North, West","['22', '322']","['North', 'West']",1783
-1793,-79.32198,8251,Coxwell Ave At Hanson St,43.67967,"North, West","['22', '322']","['North', 'West']",1793
-16837,-79.3224899,25375,Coxwell Ave At Earl Haig Ave,43.6809099,"North, West","['22', '322']","['North', 'West']",16837
-1785,-79.32344,9658,Coxwell Ave At Danforth Ave,43.68321,"North, West","['22', '322']","['North', 'West']",1785
 3092,-79.30553,8570,195 Rexleigh Dr,43.7046099,South,['23'],['South'],3092
 3094,-79.3069899,7805,Rexleigh Dr At St Clair Ave East,43.7064799,South,['23'],['South'],3094
 3122,-79.29644,813,St Clair Ave East At Victoria Park Ave,43.70873,South,['23'],['South'],3122
@@ -1535,15 +1533,14 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 2108,-79.45866,7299,Dufferin St At Wilson Ave,43.73181,North,"['29', '329', '929']","['North', 'North', 'North']",2108
 9899,-79.45294,891,Wilson Ave At Billy Bishop Way,43.7331599,"North, East","['29', '96B', '96A', '96A', '396', '996']","['North', 'East', 'East', 'East', 'East', 'East']",9899
 14799,-79.45092,14316,Wilson Station,43.7344799,South,"['29A', '329S', '929']","['South', 'South', 'South']",14799
-1666,-79.4535799,896,Wilson Ave At Transit Rd West Side,43.7333399,"South, West, North","['29A', '96A', '96B', '101', '329', '396']","['South', 'West', 'West', 'North', 'South', 'West']",1666
-2107,-79.45878,8894,Dufferin St At Wilson Ave South Side,43.73113,South,"['29A', '329', '929']","['South', 'South', 'South']",2107
-2105,-79.4583699,5570,Dufferin St At Whitley Ave,43.72935,South,"['29A', '329']","['South', 'South']",2105
-2024,-79.4576799,8141,Dufferin St At Bridgeland Ave South Side,43.72635,South,"['29A', '329']","['South', 'South']",2024
-2064,-79.4573,7108,Dufferin St At Jane Osler Blvd - Yorkdale Shopping Centre,43.72474,South,"['29A', '329', '929']","['South', 'South', 'South']",2064
-2076,-79.4562799,8933,Dufferin St At Orfus Rd,43.72056,South,"['29A', '329', '929']","['South', 'South', 'South']",2076
-2087,-79.45567,6806,Dufferin St At Samor Rd South Side,43.71788,South,"['29A', '329']","['South', 'South']",2087
+2107,-79.4587799,8894,Dufferin St At Wilson Ave South Side,43.7311299,South,"['29A', '329', '929']","['South', 'South', 'South']",2107
+2105,-79.4583699,5570,Dufferin St At Whitley Ave,43.7293499,South,"['29A', '329']","['South', 'South']",2105
+2024,-79.4576799,8141,Dufferin St At Bridgeland Ave South Side,43.7263499,South,"['29A', '329']","['South', 'South']",2024
+2064,-79.4572999,7108,Dufferin St At Jane Osler Blvd - Yorkdale Shopping Centre,43.72474,South,"['29A', '329', '929']","['South', 'South', 'South']",2064
+2076,-79.4562799,8933,Dufferin St At Orfus Rd,43.7205599,South,"['29A', '329', '929']","['South', 'South', 'South']",2076
+2087,-79.4556699,6806,Dufferin St At Samor Rd South Side,43.7178799,South,"['29A', '329']","['South', 'South']",2087
 2016,-79.4553399,3943,Dufferin St At Apex Rd South Side,43.71631,South,"['29A', '329']","['South', 'South']",2016
-2070,-79.4549199,8930,Dufferin St At Lawrence Ave West,43.7142399,South,"['29A', '329', '929']","['South', 'South', 'South']",2070
+2070,-79.45492,8930,Dufferin St At Lawrence Ave West,43.71424,South,"['29A', '329', '929']","['South', 'South', 'South']",2070
 2078,-79.45418,9109,Dufferin St At Playfair Ave,43.7109799,South,"['29A', '329']","['South', 'South']",2078
 2056,-79.4537799,3302,Dufferin St At Glengrove Ave,43.7090999,South,"['29A', '329']","['South', 'South']",2056
 2054,-79.4533699,955,Dufferin St At Glencairn Ave,43.7071399,South,"['29A', '329', '929']","['South', 'South', 'South']",2054
@@ -1577,7 +1574,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 2074,-79.4281,5611,Dufferin St At Melbourne Ave,43.6406399,"South, East","['29A', '301L', '329']","['South', 'East', 'South']",2074
 2067,-79.4274999,9605,Dufferin St At King St West,43.6390699,"South, East","['29A', '301L', '329', '929']","['South', 'East', 'South', 'South']",2067
 2072,-79.42689,6129,Dufferin St At Liberty St,43.63741,"South, East, West","['29A', '301L', '329', '504B', '929']","['South', 'East', 'South', 'West', 'South']",2072
-2092,-79.42593,4396,Dufferin St At Springhurst Ave - Toronto Stadium,43.63501,"South, East, West","['29A', '301L', '504B', '929']","['South', 'East', 'West', 'South']",2092
+2092,-79.42593,4396,Dufferin St At Springhurst Ave,43.63501,"South, East, West","['29A', '301L', '504B', '929']","['South', 'East', 'West', 'South']",2092
 14695,-79.46635,14215,High Park Station,43.6539699,North,['30'],['North'],14695
 3697,-79.46664,754,High Park Ave At Glenlake Ave,43.65703,North,['30'],['North'],3697
 3698,-79.46809,8030,High Park Ave At Humberside Ave,43.66041,North,['30'],['North'],3698
@@ -1630,10 +1627,10 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 16156,-79.31632,24610,Eastern Ave At Emdaabiimok Ave,43.6654299,South,['31'],['South'],16156
 13486,-79.31247,309,Eastern Ave At Queen St East,43.6670399,South,['31'],['South'],13486
 16596,-79.48756,24872,Mount Dennis Station,43.6886599,West,"['32', '334S', '334A', '334S']","['West', 'West', 'West', 'West']",16596
-16243,-79.49932,24484,Eglinton Ave West At Jane St West Side,43.6844599,West,"['32', '334S', '334A', '334S', '334A']","['West', 'West', 'West', 'West', 'West']",16243
+2365,-79.49854,8955,Eglinton Ave West At Jane St,43.6846699,West,"['32', '334S', '334A', '334S', '334A']","['West', 'West', 'West', 'West', 'West']",2365
 15360,-79.50397,15160,Eglinton Ave West At Emmett Ave,43.6843799,West,"['32', '334S', '334A', '334S', '334A']","['West', 'West', 'West', 'West', 'West']",15360
-11716,-79.5081399,8353,Eglinton Ave West At Walkway To Emmett Ave,43.6845899,"West, South","['32', '73', '334S', '334A', '334S', '334A']","['West', 'South', 'West', 'West', 'West', 'West']",11716
-2407,-79.5112499,934,Eglinton Ave West At Scarlett Rd,43.6841,"West, South","['32', '73', '334S', '334A', '334S', '334A']","['West', 'South', 'West', 'West', 'West', 'West']",2407
+11716,-79.50814,8353,Eglinton Ave West At Walkway To Emmett Ave,43.6845899,"West, South","['32', '73', '334S', '334A', '334S', '334A']","['West', 'South', 'West', 'West', 'West', 'West']",11716
+2407,-79.51125,934,Eglinton Ave West At Scarlett Rd,43.6840999,"West, South","['32', '73', '334S', '334A', '334S', '334A']","['West', 'South', 'West', 'West', 'West', 'West']",2407
 2384,-79.5168999,7191,Eglinton Ave West At Walkway To Lemonwood Dr,43.6835099,West,"['32', '334S', '334A', '334S', '334A']","['West', 'West', 'West', 'West', 'West']",2384
 2403,-79.52634,8132,Eglinton Ave West At Royal York Rd,43.6824699,West,"['32', '334S', '334A', '334S', '334A']","['West', 'West', 'West', 'West', 'West']",2403
 16757,-79.53341,25209,Eglinton Ave West At Russell Rd,43.6810599,West,"['32', '334S', '334A', '334S', '334A']","['West', 'West', 'West', 'West', 'West']",16757
@@ -1790,12 +1787,12 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 15964,-79.48259,24765,Eglinton Ave West At Black Creek Dr,43.6885399,West,"['34', '164', '334S', '334A', '334B', '334S', '334A']","['West', 'West', 'West', 'West', 'West', 'West', 'West']",15964
 16598,-79.48694,24874,Mount Dennis Station,43.6887899,North,"['35B', '35A']","['North', 'North']",16598
 3886,-79.49875,1687,Jane St At Eglinton Ave West North Side,43.6848599,"North, South","['35B', '35A', '73', '335', '935']","['North', 'North', 'South', 'North', 'North']",3886
-3874,-79.50015,4423,Jane St At Cornell Ave,43.68918,"North, South","['35B', '35A', '73', '335']","['North', 'North', 'South', 'North']",3874
+16879,-79.50043,25444,Jane St At Bala Ave,43.68997,North,"['35B', '35A', '335']","['North', 'North', 'North']",16879
 3936,-79.50068,2525,Jane St At Weston Rd,43.69099,North,"['35B', '35A', '335', '935']","['North', 'North', 'North', 'North']",3936
 3932,-79.50216,1724,Jane St At Trethewey Dr,43.6972999,North,"['35B', '35A', '335', '935']","['North', 'North', 'North', 'North']",3932
 2736,-79.5026799,4102,Jane St At Harding Ave,43.6994599,"North, West","['35B', '35A', '158', '335']","['North', 'North', 'West', 'North']",2736
 15045,-79.5030499,14814,Jane St At Wright Ave,43.7006799,"North, West","['35B', '35A', '158', '335']","['North', 'North', 'West', 'North']",15045
-3906,-79.50354,3208,Jane St At Lawrence Ave West,43.7025999,North,"['35B', '35A', '335', '935']","['North', 'North', 'North', 'North']",3906
+3906,-79.50354,3208,Jane St At Lawrence Ave West,43.7026,North,"['35B', '35A', '335', '935']","['North', 'North', 'North', 'North']",3906
 3914,-79.50423,8533,Jane St At Patika Ave,43.7051899,North,"['35B', '35A', '335']","['North', 'North', 'North']",3914
 15152,-79.50467,14963,Jane St At John St,43.70657,North,"['35B', '35A', '335']","['North', 'North', 'North']",15152
 3908,-79.50531,9271,Jane St At Maple Leaf Dr,43.70912,North,"['35B', '35A', '335', '935']","['North', 'North', 'North', 'North']",3908
@@ -1809,14 +1806,14 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 3888,-79.5106,8405,Jane St At Exbury Rd North Side,43.72965,"North, West","['35B', '35A', '120', '335', '935']","['North', 'North', 'West', 'North', 'North']",3888
 3934,-79.51113,8033,Jane St At Troutbrooke Dr North Side,43.7321199,"North, West","['35B', '35A', '120', '335']","['North', 'North', 'West', 'North']",3934
 3896,-79.51182,2777,Jane St At Giltspur Dr North Side,43.7348599,"North, West","['35B', '35A', '120', '335']","['North', 'North', 'West', 'North']",3896
-3920,-79.5129499,1116,Jane St At Sheppard Ave West,43.7392099,"North, West","['35B', '35A', '120', '335', '935']","['North', 'North', 'West', 'North', 'North']",3920
-3924,-79.51348,4203,Jane St At Spenvalley Dr,43.7411499,North,"['35B', '35A', '335']","['North', 'North', 'North']",3924
-3919,-79.51405,3277,Jane St At Rita Dr North Side,43.74342,North,"['35B', '35A', '335']","['North', 'North', 'North']",3919
-3875,-79.5144,10213,Jane St At Courage Ave,43.74478,North,"['35B', '35A', '335']","['North', 'North', 'North']",3875
+16886,-79.51319,25451,Jane St At Sheppard Ave West,43.7399399,North,"['35B', '35A', '335', '935']","['North', 'North', 'North', 'North']",16886
+3924,-79.51348,4203,Jane St At Spenvalley Dr,43.74115,North,"['35B', '35A', '335']","['North', 'North', 'North']",3924
+3919,-79.51405,3277,Jane St At Rita Dr North Side,43.7434199,North,"['35B', '35A', '335']","['North', 'North', 'North']",3919
+3875,-79.5144,10213,Jane St At Courage Ave,43.7447799,North,"['35B', '35A', '335']","['North', 'North', 'North']",3875
 3899,-79.51493,5079,Jane St At Grandravine Dr,43.7470099,North,"['35B', '35A', '335', '935']","['North', 'North', 'North', 'North']",3899
-3884,-79.5154399,9570,Jane St At Eddystone Ave,43.7490299,North,"['35B', '35A', '335']","['North', 'North', 'North']",3884
-3946,-79.51584,6658,Jane St At Yorkwoods Gate,43.75067,North,"['35B', '35A', '335']","['North', 'North', 'North']",3946
-3944,-79.51696,1542,Jane St At Yewtree Blvd North Side,43.7551399,North,"['35B', '35A', '335']","['North', 'North', 'North']",3944
+3884,-79.51544,9570,Jane St At Eddystone Ave,43.74903,North,"['35B', '35A', '335']","['North', 'North', 'North']",3884
+3946,-79.5158399,6658,Jane St At Yorkwoods Gate,43.7506699,North,"['35B', '35A', '335']","['North', 'North', 'North']",3946
+3944,-79.51696,1542,Jane St At Yewtree Blvd North Side,43.75514,North,"['35B', '35A', '335']","['North', 'North', 'North']",3944
 3890,-79.51763,9888,Jane St At Finch Ave West North Side,43.7577299,North,"['35B', '35A', '335', '935']","['North', 'North', 'North', 'North']",3890
 3864,-79.51803,9347,Jane St At San Romanoway North Side,43.7593499,North,"['35B', '35A', '335']","['North', 'North', 'North']",3864
 4737,-79.5193899,2915,York Gate Blvd At Jane St West Side,43.7619199,North,['35B'],['North'],4737
@@ -1833,7 +1830,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 12088,-79.5220899,841,Steeles Ave West At Jane St,43.77523,"North, East, West","['35B', '60', '60', '84D', '166', '960B']","['North', 'East', 'East', 'West', 'East', 'East']",12088
 1592,-79.51642,6251,Steeles Ave West At Murray Ross Pkwy East Side,43.7763399,"North, East, West","['35B', '35A', '60', '60', '84D', '108B', '108A', '166', '335', '960B']","['North', 'North', 'East', 'East', 'West', 'West', 'West', 'East', 'North', 'East']",1592
 15577,-79.50966,23854,Pioneer Village Station,43.7770599,South,"['35B', '35A']","['South', 'South']",15577
-1602,-79.51077,8599,Steeles Ave West At Northwest Gate,43.7779199,"South, West, East","['35B', '35A', '60D', '60B', '84', '108A', '108B', '166', '335', '960D']","['South', 'South', 'West', 'West', 'East', 'East', 'East', 'West', 'South', 'West']",1602
+1602,-79.51077,8599,Steeles Ave West At Northwest Gate,43.7779199,"South, West, East","['35B', '35A', '60D', '60B', '84', '108A', '108B', '166', '335', '935', '960D']","['South', 'South', 'West', 'West', 'East', 'East', 'East', 'West', 'South', 'South', 'West']",1602
 1593,-79.5167799,7909,Steeles Ave West At Murray Ross Pkwy,43.77661,"South, West, East","['35B', '35A', '60D', '60B', '84', '166', '335', '960D']","['South', 'South', 'West', 'West', 'East', 'West', 'South', 'West']",1593
 1173,-79.52186,8682,Jane St At Steeles Ave West South Side,43.7748899,South,"['35B', '35A', '335', '935']","['South', 'South', 'South', 'South']",1173
 3904,-79.52158,665,Jane St At Hullmar Dr,43.77336,South,"['35B', '35A', '335']","['South', 'South', 'South']",3904
@@ -1853,11 +1850,11 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 3892,-79.5171199,8394,Jane St At Firgrove Cres (North) South Side,43.75455,"South, North","['35B', '35A', '99', '335']","['South', 'South', 'North', 'South']",3892
 3893,-79.5160999,4521,Jane St At Firgrove Cres (South) South Side,43.75044,"South, North","['35B', '35A', '99', '335']","['South', 'South', 'North', 'South']",3893
 3885,-79.5157999,8780,Jane St At Eddystone Ave,43.7492199,"South, North","['35B', '35A', '99', '335']","['South', 'South', 'North', 'South']",3885
-3894,-79.5151299,2121,Jane St At Frith Rd,43.7465299,"South, North","['35B', '35A', '99', '335', '935']","['South', 'South', 'North', 'South', 'South']",3894
-3876,-79.5146699,1840,Jane St At Courage Ave South Side,43.74473,"South, North","['35B', '35A', '99', '335']","['South', 'South', 'North', 'South']",3876
-3930,-79.5143099,7974,Jane St At Stanley Rd,43.7431499,"South, North","['35B', '35A', '99', '335']","['South', 'South', 'North', 'South']",3930
-3873,-79.51384,3227,Jane St At Clair Rd,43.74134,"South, North","['35B', '35A', '99', '335']","['South', 'South', 'North', 'South']",3873
-3921,-79.5133999,2567,Jane St At Sheppard Ave West,43.7395099,South,"['35B', '35A', '99', '335', '935']","['South', 'South', 'South', 'South', 'South']",3921
+16885,-79.51525,25450,Jane St At Grandravine Dr,43.74722,"South, North","['35B', '35A', '99', '335', '935']","['South', 'South', 'North', 'South', 'South']",16885
+3876,-79.5146699,1840,Jane St At Courage Ave South Side,43.7447299,"South, North","['35B', '35A', '99', '335']","['South', 'South', 'North', 'South']",3876
+3930,-79.51431,7974,Jane St At Stanley Rd,43.74315,"South, North","['35B', '35A', '99', '335']","['South', 'South', 'North', 'South']",3930
+3873,-79.5138399,3227,Jane St At Clair Rd,43.7413399,"South, North","['35B', '35A', '99', '335']","['South', 'South', 'North', 'South']",3873
+3921,-79.5134,2567,Jane St At Sheppard Ave West,43.73951,South,"['35B', '35A', '99', '335', '935']","['South', 'South', 'South', 'South', 'South']",3921
 10616,-79.51325,8228,Jane St At Sheppard Ave West South Side,43.7389099,South,"['35B', '35A', '335']","['South', 'South', 'South']",10616
 3897,-79.51206,5173,Jane St At Giltspur Dr,43.73472,South,"['35B', '35A', '335']","['South', 'South', 'South']",3897
 14257,-79.5114399,6009,Jane St At Troutbrooke Dr,43.7320899,"South, East","['35B', '35A', '120', '335']","['South', 'South', 'East', 'South']",14257
@@ -1873,20 +1870,20 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 3907,-79.50397,9547,Jane St At Lawrence Ave West,43.70311,South,"['35B', '35A', '335', '935']","['South', 'South', 'South', 'South']",3907
 2740,-79.50341,668,Jane St At Wright Ave,43.7010899,"South, East","['35B', '35A', '158', '335']","['South', 'South', 'East', 'South']",2740
 2737,-79.5030699,7235,Jane St At Harding Ave,43.6997499,"South, East","['35B', '35A', '158', '335']","['South', 'South', 'East', 'South']",2737
-3878,-79.50258,661,Jane St At Trethewey Dr,43.69782,South,"['35B', '35A', '335', '935']","['South', 'South', 'South', 'South']",3878
+16878,-79.50237,25443,Jane St At Denison Rd East South Side,43.69708,South,"['35B', '35A', '335', '935']","['South', 'South', 'South', 'South']",16878
 3935,-79.5011099,1383,Jane St At Weston Rd,43.69169,South,"['35B', '35A', '335', '935']","['South', 'South', 'South', 'South']",3935
-2735,-79.5004199,1895,Jane St At Goldwin Ave South Side,43.68901,"South, North","['35B', '35A', '73B', '335']","['South', 'South', 'North', 'South']",2735
+16880,-79.50075,25445,Jane St At Emmett Ave,43.6903,South,"['35B', '35A', '335']","['South', 'South', 'South']",16880
 3861,-79.5209999,7255,4800 Jane St,43.7710799,South,"['35A', '335']","['South', 'South']",3861
-3923,-79.5205399,8895,Jane St At Shoreham Dr,43.7689199,South,"['35A', '335', '935']","['South', 'South', 'South']",3923
-3911,-79.51982,1136,Jane St At Milo Park Gate,43.7659599,South,"['35A', '335']","['South', 'South']",3911
+16884,-79.52039,25449,Jane St At Shoreham Dr,43.7684499,South,"['35A', '335', '935']","['South', 'South', 'South']",16884
+16881,-79.5197399,25446,Jane St At Milo Park Gt South Side,43.76566,South,"['35A', '335']","['South', 'South']",16881
 3858,-79.5193499,2733,Opposite 4355-4363 Jane St,43.7638899,South,"['35A', '335']","['South', 'South']",3858
-3931,-79.51862,1021,Jane St At Stong Crt,43.76179,North,"['35A', '335']","['North', 'North']",3931
-2739,-79.51911,9015,4359 Jane St,43.76405,North,"['35A', '335']","['North', 'North']",2739
+16882,-79.51878,25447,Jane St At Stong Crt North Side,43.7623199,North,"['35A', '335']","['North', 'North']",16882
+2739,-79.5191099,9015,4359 Jane St,43.7640499,North,"['35A', '335']","['North', 'North']",2739
 3880,-79.51959,6801,Jane St At Driftwood Ave North Side,43.76614,North,"['35A', '335']","['North', 'North']",3880
-3922,-79.52018,9993,Jane St At Shoreham Dr,43.76869,"North, West","['35A', '108B', '108A', '335', '935']","['North', 'West', 'West', 'North', 'North']",3922
-3860,-79.5208,6828,4717 Jane St,43.7711899,North,"['35A', '335']","['North', 'North']",3860
-10411,-79.52114,664,Jane St At Hullmar Dr,43.7728,North,"['35A', '335']","['North', 'North']",10411
-10412,-79.5215,669,Jane St At Steeles Ave West,43.77529,North,"['35A', '335', '935']","['North', 'North', 'North']",10412
+16883,-79.52036,25448,Jane St At Shoreham Dr,43.7693199,North,"['35A', '335', '935']","['North', 'North', 'North']",16883
+3860,-79.5208,6828,4717 Jane St,43.77119,North,"['35A', '335']","['North', 'North']",3860
+10411,-79.5211399,664,Jane St At Hullmar Dr,43.7727999,North,"['35A', '335']","['North', 'North']",10411
+10412,-79.5215,669,Jane St At Steeles Ave West,43.7752899,North,"['35A', '335', '935']","['North', 'North', 'North']",10412
 1601,-79.51047,9640,Steeles Ave West At Northwest Gate East Side,43.7777199,"North, East, West","['35A', '60', '60', '106', '108B', '108A', '166', '335', '353', '960B']","['North', 'East', 'East', 'West', 'West', 'West', 'East', 'North', 'East', 'East']",1601
 14686,-79.41454,14206,Finch Station,43.7802899,West,"['36', '336']","['West', 'West']",14686
 9130,-79.4161599,7753,Finch Ave West At Yonge St West Side,43.77973,West,"['36', '336', '339']","['West', 'West', 'West']",9130
@@ -1992,7 +1989,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 12038,-79.60073,6948,Queen'S Plate Dr (West) At Janda Crt,43.7231599,North,['37A'],['North'],12038
 13485,-79.6026599,10046,Queen'S Plate Dr (West) At Triple Crown Ave West Side,43.7226999,North,['37A'],['North'],13485
 9670,-79.60345,3936,Queen'S Plate Dr (West) At Rexdale Blvd,43.7194399,North,['37A'],['North'],9670
-13938,-79.60363,899,Woodbine Racetrack Loop (Main Entrance),43.7161799,"North, West","['37A', '336']","['North', 'West']",13938
+13938,-79.60363,899,Woodbine Racetrack Loop (Main Entrance),43.7161799,North,['37A'],['North'],13938
 11841,-79.61228,6398,Rexdale Blvd At Humberwood Blvd,43.7206099,"North, East","['37A', '336']","['North', 'East']",11841
 11286,-79.61282,7031,Humberwood Blvd At Hullrick Dr (South),43.7217499,"North, East","['37A', '336']","['North', 'East']",11286
 11287,-79.6164299,6246,Humberwood Blvd At Kingsplate Cres West Side,43.72389,"North, East","['37A', '336']","['North', 'East']",11287
@@ -3064,10 +3061,10 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 673,-79.55947,4207,Burnhamthorpe Rd At The East Mall East Side,43.6462399,East,['50'],['East'],673
 15437,-79.55647,15264,400 Burnhamthorpe Rd,43.6469899,East,['50'],['East'],15437
 694,-79.55136,10243,Burnhamthorpe Rd At Shaver Ave North East Side,43.64814,East,['50'],['East'],694
-669,-79.5497599,1615,Burnhamthorpe Rd At Martin Grove Rd,43.64852,East,['50'],['East'],669
+16897,-79.54931,25453,Burnhamthrope Rd At Martin Grove Rd,43.6486399,East,['50'],['East'],16897
 666,-79.5463199,2356,Burnhamthorpe Rd At Ashbourne Dr,43.64932,East,['50'],['East'],666
 668,-79.5418,2002,Burnhamthorpe Rd At Botfield Ave East Side,43.65037,East,['50'],['East'],668
-679,-79.5395199,3438,Burnhamthorpe Rd At Kipling Ave,43.65086,East,['50'],['East'],679
+679,-79.53952,3438,Burnhamthorpe Rd At Kipling Ave,43.65086,East,['50'],['East'],679
 676,-79.53443,6047,Burnhamthorpe Rd At Holloway Rd,43.6503699,East,['50'],['East'],676
 670,-79.5315799,3268,Burnhamthorpe Rd At Burnhamthorpe Cres,43.64945,East,['50'],['East'],670
 764,-79.5252799,9355,Central Park Rdwy At Islington Ave,43.64825,East,['50'],['East'],764
@@ -3079,10 +3076,10 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 678,-79.5397,4747,Burnhamthorpe Rd At Kipling Ave West Side,43.6510499,West,['50'],['West'],678
 675,-79.5426599,10064,Burnhamthorpe Rd At Echo Valley Rd West Side,43.6503599,West,['50'],['West'],675
 665,-79.5471999,3770,Burnhamthorpe Rd At Appleby Rd,43.64932,West,['50'],['West'],665
-681,-79.5494799,2631,Burnhamthorpe Rd At Martin Grove Rd West Side,43.64879,West,['50'],['West'],681
+16617,-79.54871,25442,Burnhamthorpe Rd At Martin Grove Rd,43.6489599,West,['50'],['West'],16617
 695,-79.5519899,7622,Burnhamthorpe Rd At Shaver Ave North West Side,43.6482099,West,['50'],['West'],695
 15438,-79.55617,15265,400 Burnhamthorpe Rd,43.6472099,West,['50'],['West'],15438
-674,-79.55967,6538,Burnhamthorpe Rd At The East Mall,43.6464599,West,['50'],['West'],674
+674,-79.5596699,6538,Burnhamthorpe Rd At The East Mall,43.64646,West,['50'],['West'],674
 698,-79.5670399,6760,Burnhamthorpe Rd At The West Mall,43.64475,West,['50'],['West'],698
 684,-79.56875,9448,Burnhamthorpe Rd At Mulgrove Dr,43.6442899,West,['50'],['West'],684
 690,-79.5728599,1787,Burnhamthorpe Rd At Renforth Dr West Side,43.6433899,West,['50'],['West'],690
@@ -3521,7 +3518,6 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 5232,-79.2357399,6910,Lawrence Ave East At Bellamy Rd North West Side,43.7577499,West,"['54', '154', '354']","['West', 'West', 'West']",5232
 5234,-79.2380999,9898,Lawrence Ave East At Ben Stanton Blvd,43.75725,West,"['54', '154', '354']","['West', 'West', 'West']",5234
 5241,-79.24142,8562,Lawrence Ave East At Burnview Cres West Side,43.7565299,West,"['54', '154', '354']","['West', 'West', 'West']",5241
-9650,-79.24528,1483,Lawrence Ave East At McCowan Rd,43.7557099,West,"['54', '154', '354', '954']","['West', 'West', 'West', 'West']",9650
 5289,-79.24665,9396,Lawrence Ave East At Valparaiso Ave Scarborough General Hospital,43.7554399,West,"['54', '154', '354', '954']","['West', 'West', 'West', 'West']",5289
 5230,-79.2513299,8801,Lawrence Ave East At Barrymore Rd,43.7544499,West,"['54', '154', '354']","['West', 'West', 'West']",5230
 5238,-79.25581,5937,Lawrence Ave East At Brimley Rd West Side,43.7535499,West,"['54', '154', '354']","['West', 'West', 'West']",5238
@@ -3998,7 +3994,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 5908,-79.43463,7474,Oakwood Ave At Highview Cres,43.6764,"South, East","['63', '161', '363']","['South', 'East', 'South']",5908
 5898,-79.4339799,3604,Oakwood Ave At Davenport Rd,43.6747799,"South, East","['63', '161', '363']","['South', 'East', 'South']",5898
 5958,-79.4308799,2952,Ossington Ave At Davenport Rd South Side,43.67434,South,"['63', '363']","['South', 'South']",5958
-5968,-79.42989,9849,Ossington Ave At Salvador Allende Crt South Side,43.67191,South,['63'],['South'],5968
+5968,-79.42989,9849,Ossington Ave At Salvador Allende Crt South Side,43.67191,South,"['63', '363']","['South', 'South']",5968
 13895,-79.4292399,2197,Ossington Ave At Dupont St,43.6704,South,"['63', '363']","['South', 'South']",13895
 5970,-79.42829,7017,Ossington Ave At Hallam St,43.6681099,South,"['63', '363']","['South', 'South']",5970
 5977,-79.4273999,2502,Ossington Ave At Pendrith St,43.6659899,South,"['63', '363']","['South', 'South']",5977
@@ -4048,8 +4044,8 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 6643,-79.36427,2501,Parliament St At Queen St East,43.6554299,North,"['65', '365']","['North', 'North']",6643
 6646,-79.36485,5446,Parliament St At Shuter St,43.6568399,North,"['65', '365']","['North', 'North']",6646
 15218,-79.36586,15033,Parliament St At Dundas St East,43.65935,North,"['65', '365']","['North', 'North']",15218
-6642,-79.36638,9500,Parliament St At Oak St,43.6606,North,"['65', '365']","['North', 'North']",6642
-6637,-79.3668099,2483,Parliament St At Gerrard St East,43.6617099,North,"['65', '365']","['North', 'North']",6637
+6642,-79.36638,9500,Parliament St At Oak St,43.6606,"North, East","['65', '306', '365', '506']","['North', 'East', 'North', 'East']",6642
+6637,-79.3668099,2483,Parliament St At Gerrard St East,43.6617099,"North, East","['65', '306', '365', '506']","['North', 'East', 'North', 'East']",6637
 13463,-79.3676399,4015,Parliament St At Carlton St,43.6637099,North,"['65', '365']","['North', 'North']",13463
 6653,-79.36848,2942,Parliament St At Winchester St,43.6657699,"North, East","['65', '94', '365']","['North', 'East', 'North']",6653
 6651,-79.36958,2107,Parliament St At Wellesley St East North Side,43.66851,"North, East","['65', '94', '365']","['North', 'East', 'North']",6651
@@ -4061,9 +4057,9 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 6652,-79.36955,1788,Parliament St At Wellesley St East South Side,43.66792,South,"['65', '365']","['South', 'South']",6652
 6654,-79.36874,5020,Parliament St At Winchester St,43.66594,South,"['65', '365']","['South', 'South']",6654
 6634,-79.3680999,1198,Parliament St At Carlton St,43.6643599,South,"['65', '365']","['South', 'South']",6634
-6650,-79.36731,9014,Parliament St At Gerrard St East,43.6624099,South,"['65', '365']","['South', 'South']",6650
-6641,-79.3667299,4204,Parliament St At Oak St,43.66098,South,"['65', '365']","['South', 'South']",6641
-6635,-79.36616,5551,Parliament St At Dundas St East,43.6596,South,"['65', '365']","['South', 'South']",6635
+6650,-79.36731,9014,Parliament St At Gerrard St East,43.6624099,"South, East","['65', '306B', '365', '506B']","['South', 'East', 'South', 'East']",6650
+6641,-79.3667299,4204,Parliament St At Oak St,43.66098,"South, West","['65', '306', '365', '506']","['South', 'West', 'South', 'West']",6641
+6635,-79.36616,5551,Parliament St At Dundas St East,43.6596,"South, West","['65', '306', '365', '506']","['South', 'West', 'South', 'West']",6635
 6647,-79.3651199,8685,Parliament St At Shuter St,43.6570199,South,"['65', '365']","['South', 'South']",6647
 6644,-79.3646099,6807,Parliament St At Queen St East,43.6557599,South,"['65', '365']","['South', 'South']",6644
 10229,-79.36413,3261,Parliament St At Richmond St East,43.6546199,South,"['65', '365']","['South', 'South']",10229
@@ -4496,10 +4492,11 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 4854,-79.3414799,1500,Carlaw Ave At Dundas St East,43.6647099,North,"['72', '325']","['North', 'North']",4854
 4856,-79.34286,6342,Carlaw Ave At Gerrard St East North Side,43.6681399,North,"['72', '325']","['North', 'North']",4856
 15444,-79.34346,24570,Carlaw Ave At Langley Ave,43.66964,North,"['72', '325']","['North', 'North']",15444
-16866,-79.34193,25424,Pape Ave At Withrow Ave,43.67202,North,"['72', '325']","['North', 'North']",16866
+5991,-79.34174,14564,Pape Ave At Riverdale Ave North Side,43.67155,North,"['72', '325']","['North', 'North']",5991
+5982,-79.3422199,5703,Pape Ave At Bain Ave,43.6727499,North,"['72', '325']","['North', 'North']",5982
 5993,-79.3431999,3678,Pape Ave At Wroxeter Ave,43.6750099,North,"['72', '325']","['North', 'North']",5993
-5986,-79.34412,4798,Pape Ave At Harcourt Ave,43.67729,North,"['72', '325']","['North', 'North']",5986
-5983,-79.3447399,6033,Pape Ave At Danforth Ave,43.6787799,North,"['72', '325']","['North', 'North']",5983
+5986,-79.3441199,4798,Pape Ave At Harcourt Ave,43.6772899,North,"['72', '325']","['North', 'North']",5986
+5983,-79.34474,6033,Pape Ave At Danforth Ave,43.67878,North,"['72', '325']","['North', 'North']",5983
 11846,-79.34514,612,Pape Ave At Lipton Ave North Side,43.6798899,North,"['72', '325']","['North', 'North']",11846
 3004,-79.3459399,4327,Pape Ave At Selkirk St,43.6820799,North,"['72', '325']","['North', 'North']",3004
 2999,-79.34732,8924,Pape Ave At Mortimer Ave,43.68567,North,"['72', '325']","['North', 'North']",2999
@@ -4567,8 +4564,8 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 6999,-79.5209699,5112,Royal York Rd At Hartfield Crt South Side,43.6689799,South,"['73', '73']","['South', 'South']",6999
 6972,-79.5197599,3864,Royal York Rd At Anglesey Blvd,43.6660899,South,"['73', '73']","['South', 'South']",6972
 16590,-79.48868,24866,Mount Dennis Station,43.6886999,South,['73'],['South'],16590
-16567,-79.5010699,25196,Emmett Ave At Jane St,43.69008,South,['73'],['South'],16567
-16566,-79.5040699,25195,Emmett Ave At Verona Ave,43.6889599,South,['73'],['South'],16566
+16567,-79.50107,25196,Emmett Ave At Jane St,43.6900799,South,['73'],['South'],16567
+16566,-79.5040699,25195,Emmett Ave At Verona Ave,43.68896,South,['73'],['South'],16566
 16565,-79.50635,25194,106 Emmett Ave,43.6873899,South,['73'],['South'],16565
 7099,-79.51242,2619,Scarlett Rd At Richview Rd North Side,43.6857699,"South, North","['73', '79B', '79A']","['South', 'North', 'North']",7099
 16564,-79.51427,25193,La Rose Ave At Scarlett Rd,43.6867699,South,['73'],['South'],16564
@@ -4992,7 +4989,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 6078,-79.51956,6174,Sheppard Ave West At Laura Rd East Side,43.7378399,East,"['84', '84', '84', '384']","['East', 'East', 'East', 'East']",6078
 7260,-79.51671,5794,Opposite 2002-2012 Sheppard Ave West,43.7385099,East,"['84', '84', '84', '384']","['East', 'East', 'East', 'East']",7260
 6067,-79.51349,8363,Sheppard Ave West At Jane St,43.7391899,East,"['84', '84', '84', '384', '984']","['East', 'East', 'East', 'East', 'East']",6067
-6069,-79.51258,536,Sheppard Ave West At Jane St East Side,43.7393699,East,"['84', '84', '84', '384', '984']","['East', 'East', 'East', 'East', 'East']",6069
+6069,-79.51258,536,Sheppard Ave West At Jane St East Side,43.7393699,"East, West","['84', '84', '84', '120', '384', '984']","['East', 'East', 'East', 'West', 'East', 'East']",6069
 6081,-79.50979,1458,Sheppard Ave West At Magellan Dr,43.73954,"East, West","['84', '84', '84', '120', '384']","['East', 'East', 'East', 'West', 'East']",6081
 6082,-79.5070099,1255,Sheppard Ave West At Min Ave,43.74016,"East, West","['84', '84', '84', '120', '384']","['East', 'East', 'East', 'West', 'East']",6082
 6062,-79.50407,4295,Sheppard Ave West At Buckland Rd,43.7407999,"East, West","['84', '84', '84', '120', '384']","['East', 'East', 'East', 'West', 'East']",6062
@@ -5374,7 +5371,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 7960,-79.36389,5769,McRae Dr At Laird Dr West Side,43.7100199,"West, South","['88', '156']","['West', 'South']",7960
 7963,-79.36568,3671,McRae Dr At Sutherland Dr West Side,43.7085599,"West, South","['88', '156']","['West', 'South']",7963
 7962,-79.3672399,8174,McRae Dr At Rumsey Rd,43.70739,"West, South","['88', '156']","['West', 'South']",7962
-7978,-79.3677,7387,Millwood Rd At McRae Dr South Side,43.70465,"West, South","['88', '156']","['West', 'South']",7978
+16895,-79.3671099,25452,Millwood Rd At Rumsey Rd,43.7045,"West, South","['88', '156']","['West', 'South']",16895
 8331,-79.36453,3410,Sutherland Dr At Millwood Rd West Side,43.7033199,West,"['88', '88']","['West', 'West']",8331
 8330,-79.36558,9636,Sutherland Dr At Hanna Rd,43.7016599,West,"['88', '88']","['West', 'West']",8330
 8334,-79.36711,6834,Sutherland Dr At Rolph Rd,43.7004699,West,"['88', '88']","['West', 'West']",8334
@@ -5435,7 +5432,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 6176,-79.5235199,2211,Weston Rd At Fern Ave,43.7023499,"North, West","['89', '158']","['North', 'West']",6176
 8704,-79.5251,1302,Weston Rd At Church St,43.70298,"North, West","['89', '158', '989']","['North', 'West', 'North']",8704
 14779,-79.41523,14296,St Clair West Station,43.6842299,North,['90'],['North'],14779
-14337,-79.41885,8870,St Clair Ave West At Bathurst St West Side,43.6830599,"North, South, West","['90', '126', '311', '312', '512']","['North', 'South', 'South', 'West', 'West']",14337
+14337,-79.41885,8870,St Clair Ave West At Bathurst St West Side,43.6830599,"North, South, West","['90', '126', '312', '512']","['North', 'South', 'West', 'West']",14337
 8421,-79.42059,7324,Vaughan Rd At St Clair Ave West North Side,43.6831499,North,['90'],['North'],8421
 8415,-79.4211999,1386,Vaughan Rd At Louise Ave,43.6841799,North,['90'],['North'],8415
 8418,-79.42183,867,Vaughan Rd At Maplewood Ave,43.68565,North,['90'],['North'],8418
@@ -5514,15 +5511,6 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 8056,-79.31936,2571,Railside Rd (East) At Lawrence Ave East South Side,43.7406599,North,['91'],['North'],8056
 16472,-79.3234499,24848,74 Railside Rd,43.73699,North,['91'],['North'],16472
 8046,-79.32662,5021,150 Railside Rd,43.7377299,North,['91'],['North'],8046
-14805,-79.31223,14322,Woodbine Station,43.6864599,South,['92'],['South'],14805
-15611,-79.31176,15683,Woodbine Ave At Merrill Ave South Side,43.68301,South,['92'],['South'],15611
-8919,-79.3109099,5327,Woodbine Ave At Gerrard St East,43.6809599,South,['92'],['South'],8919
-8909,-79.3099599,9424,Woodbine Ave At Cassels Ave South Side,43.6786499,South,['92'],['South'],8909
-16467,-79.3089499,25246,Woodbine Ave At Eastwood Rd South Side,43.6761199,South,['92'],['South'],16467
-8923,-79.3080499,8517,Woodbine Ave At Kingston Rd,43.6740499,South,['92'],['South'],8923
-8911,-79.30715,7200,Woodbine Ave At Columbine Ave,43.6718599,South,['92'],['South'],8911
-14144,-79.3059399,8456,Woodbine Ave At Queen St East,43.66886,South,['92'],['South'],14144
-14145,-79.30617,5960,1816 Lake Shore Blvd East,43.6644999,South,['92'],['South'],14145
 14146,-79.30903,9757,Woodbine Beach Loop At Lake Shore Blvd East,43.6633699,North,['92'],['North'],14146
 14273,-79.3063399,5456,1816 Lake Shore Blvd East,43.66423,North,['92'],['North'],14273
 8921,-79.30481,2975,Woodbine Ave At Kewbeach Ave,43.66551,North,['92'],['North'],8921
@@ -5533,6 +5521,15 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 8910,-79.3098099,2307,Woodbine Ave At Cassels Ave,43.6787499,North,['92'],['North'],8910
 8918,-79.3106099,1350,Woodbine Ave At Gerrard St East,43.6806899,North,['92'],['North'],8918
 15612,-79.3116699,15684,Woodbine Ave At Merrill Ave,43.6833199,North,['92'],['North'],15612
+14805,-79.31223,14322,Woodbine Station,43.6864599,South,['92'],['South'],14805
+15611,-79.31176,15683,Woodbine Ave At Merrill Ave South Side,43.68301,South,['92'],['South'],15611
+8919,-79.3109099,5327,Woodbine Ave At Gerrard St East,43.6809599,South,['92'],['South'],8919
+8909,-79.3099599,9424,Woodbine Ave At Cassels Ave South Side,43.6786499,South,['92'],['South'],8909
+16467,-79.3089499,25246,Woodbine Ave At Eastwood Rd South Side,43.6761199,South,['92'],['South'],16467
+8923,-79.3080499,8517,Woodbine Ave At Kingston Rd,43.6740499,South,['92'],['South'],8923
+8911,-79.30715,7200,Woodbine Ave At Columbine Ave,43.6718599,South,['92'],['South'],8911
+14144,-79.3059399,8456,Woodbine Ave At Queen St East,43.66886,South,['92'],['South'],14144
+14145,-79.30617,5960,1816 Lake Shore Blvd East,43.6644999,South,['92'],['South'],14145
 8018,-79.32825,8267,Parkview Hill Cres At Aspen Ave (North) East Side,43.7043999,South,['93'],['South'],8018
 8021,-79.32554,4188,Parkview Hill Cres At Hackberry St,43.7055199,South,['93'],['South'],8021
 7800,-79.32426,6914,Hackberry St At Elswick Rd,43.7059999,South,['93'],['South'],7800
@@ -5566,16 +5563,16 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 8626,-79.38108,2391,Wellesley St East At Church St,43.66561,East,['94'],['East'],8626
 8628,-79.3785,6402,Wellesley St East At Jarvis St,43.6661799,East,['94'],['East'],8628
 16891,-79.37625,25430,Carlton St At Jarvis St East Side,43.6624299,East,['94'],['East'],16891
-758,-79.37324,1942,Carlton St At Sherbourne St,43.6630699,East,"['94', '306', '506']","['East', 'East', 'East']",758
-755,-79.37064,7913,Carlton St At Ontario St,43.6636199,East,"['94', '306', '506']","['East', 'East', 'East']",755
+758,-79.37324,1942,Carlton St At Sherbourne St,43.6630699,East,"['94', '306B', '506B']","['East', 'East', 'East']",758
+755,-79.3706399,7913,Carlton St At Ontario St,43.66362,East,"['94', '306B', '506B']","['East', 'East', 'East']",755
 14642,-79.36885,14164,Castle Frank Station,43.6736299,West,['94A'],['West'],14642
 8632,-79.3700999,3392,Wellesley St East At Parliament St West Side,43.6681199,West,['94A'],['West'],8632
 8631,-79.3720499,3875,Wellesley St East At Ontario St,43.6677,West,['94A'],['West'],8631
 8637,-79.3744799,7030,Wellesley St East At Sherbourne St,43.66717,West,['94A'],['West'],8637
 8629,-79.37819,2712,Wellesley St East At Jarvis St,43.6663699,West,['94A'],['West'],8629
-8627,-79.3807799,4689,Wellesley St East At Church St,43.66579,West,['94A'],['West'],8627
+8627,-79.3807799,4689,Wellesley St East At Church St,43.66579,West,"['94A', '306B', '506B']","['West', 'West', 'West']",8627
 14797,-79.3839399,14314,Wellesley Station,43.6653599,West,['94A'],['West'],14797
-8640,-79.38448,3920,Wellesley St East At Yonge St,43.6650299,West,['94A'],['West'],8640
+8640,-79.38448,3920,Wellesley St East At Yonge St,43.6650299,West,"['94A', '306B', '506B']","['West', 'West', 'West']",8640
 8624,-79.38691,6482,Wellesley St West At Bay St,43.6644799,West,['94A'],['West'],8624
 8634,-79.3904799,5833,Wellesley St West At Queen'S Park Cres East,43.66371,West,['94A'],['West'],8634
 8038,-79.3937499,492,Queen'S Park Cres West At Hoskin Ave,43.6656,West,['94A'],['West'],8038
@@ -5817,7 +5814,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 7862,-79.59402,5412,Humber College Blvd At John Garland Blvd West Side,43.7335899,West,"['96D', '96B', '96A', '96A', '96B', '336']","['West', 'West', 'West', 'West', 'West', 'West']",7862
 7865,-79.5958699,5768,Humber College Blvd At Lynmont Rd,43.73211,West,"['96D', '96B', '96A', '96A', '96B', '336']","['West', 'West', 'West', 'West', 'West', 'West']",7865
 7867,-79.59887,5685,Humber College Blvd At Westmore Dr - William Osler Health,43.7311399,West,"['96D', '96B', '96A', '96A', '96B', '336', '996']","['West', 'West', 'West', 'West', 'West', 'West', 'West']",7867
-11272,-79.60233,5918,Humber College Blvd At Highway 27,43.7303499,"West, North","['96D', '96B', '96A', '96A', '96B', '336', '906', '927D', '927D', '927C', '996']","['West', 'West', 'West', 'West', 'West', 'West', 'North', 'North', 'North', 'North', 'West']",11272
+11272,-79.60233,5918,Humber College Blvd At Highway 27,43.7303499,"West, North","['96D', '96B', '96A', '96A', '96B', '336', '906', '927D', '927C', '927D', '996']","['West', 'West', 'West', 'West', 'West', 'West', 'North', 'North', 'North', 'North', 'West']",11272
 15403,-79.60453,15249,Humber College Bus Terminal,43.7289599,"West, East","['96D', '96B', '96A', '96A', '96B', '336', '336', '996']","['West', 'West', 'West', 'West', 'West', 'East', 'East', 'East']",15403
 7860,-79.60889,7712,Humber College Blvd At Humberline Dr,43.73212,"West, North","['96D', '96A', '96A', '927D', '927D']","['West', 'West', 'West', 'North', 'North']",7860
 14254,-79.60934,7911,Finch Ave West At Humber College Blvd East Side,43.73391,"West, North","['96D', '927D', '927D']","['West', 'North', 'North']",14254
@@ -5863,6 +5860,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 9906,-79.40597,919,York Mills Rd At Yonge St,43.7444199,West,"['96A', '96A', '96B', '396']","['West', 'West', 'West', 'West']",9906
 14253,-79.60967,6105,Humber College At Finch Ave West North Side,43.7344799,West,"['96A', '96A']","['West', 'West']",14253
 16280,-79.6101799,24561,326 Humber College Blvd,43.7367499,West,"['96A', '96A']","['West', 'West']",16280
+1666,-79.4535799,896,Wilson Ave At Transit Rd West Side,43.7333399,"West, North, South","['96A', '96B', '101', '329', '396']","['West', 'West', 'North', 'South', 'West']",1666
 7596,-79.6093599,9731,Carrier Dr At Humber College Blvd East Side,43.73808,East,['96D'],['East'],7596
 16036,-79.60562,24428,Carrier Dr At Highway 27,43.7389899,East,['96D'],['East'],16036
 14562,-79.6023899,14106,Opposite 91 Westmore Dr,43.7377699,East,['96D'],['East'],14562
@@ -6507,7 +6505,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 15615,-79.51153,23879,Driftwood Ave At Niska Rd North Side,43.76602,West,"['108B', '108A']","['West', 'West']",15615
 15614,-79.5145099,23878,Driftwood Ave At Driftwood Crt,43.7673199,West,"['108B', '108A']","['West', 'West']",15614
 15613,-79.5194299,23877,Driftwood Ave At Jane St,43.7659999,West,"['108B', '108A']","['West', 'West']",15613
-13618,-79.5187899,10372,Shoreham Dr At Shoreham Crt,43.76904,West,"['108B', '108A']","['West', 'West']",13618
+13618,-79.51879,10372,Shoreham Dr At Shoreham Crt,43.7690399,West,"['108B', '108A']","['West', 'West']",13618
 12658,-79.5138599,6622,Murray Ross Pkwy At Shoreham Dr North Side - Aviva Centre,43.7722399,West,"['108B', '108A']","['West', 'West']",12658
 3124,-79.48613,7520,St Regis Cres At St Regis Cres North West Side,43.7551399,West,['108A'],['West'],3124
 3123,-79.48789,6798,St Regis Cres At Keele St,43.7547399,West,['108A'],['West'],3123
@@ -6677,7 +6675,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 2196,-79.5413799,2965,Dundas St West At Wilmar Rd,43.6349299,"North, South","['111', '112C', '123C', '123B', '123F']","['North', 'North', 'South', 'South', 'South']",2196
 2184,-79.5446399,3225,Dundas St West At Shaver Ave South,43.63234,"North, South","['111', '112C', '123F']","['North', 'North', 'South']",2184
 2178,-79.5466299,10385,Dundas St West At Paulart Dr,43.63132,"North, South","['111', '112C', '123F']","['North', 'North', 'South']",2178
-2149,-79.5490399,6721,Dundas St West At East Mall Cres,43.63073,"North, South","['111', '112C', '123F', '900', '927D', '927D', '927C']","['North', 'North', 'South', 'North', 'North', 'North', 'North']",2149
+2149,-79.5490399,6721,Dundas St West At East Mall Cres,43.63073,"North, South","['111', '112C', '123F', '900', '927D', '927C', '927D']","['North', 'North', 'South', 'North', 'North', 'North', 'North']",2149
 2227,-79.55348,1573,The East Mall At Yarn Rd,43.6322899,North,['111'],['North'],2227
 2211,-79.55642,8536,The East Mall At Gordon Park Dr,43.6341,North,['111'],['North'],2211
 2201,-79.5564,7997,The East Mall At Bloor St West,43.6368299,North,['111'],['North'],2201
@@ -8378,8 +8376,8 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 5168,-79.5006399,1353,Lake Shore Blvd West At Third St,43.60188,West,"['301L', '507']","['West', 'West']",5168
 5171,-79.50286,4223,Lake Shore Blvd West At Fifth St,43.6013899,West,"['301L', '507']","['West', 'West']",5171
 5180,-79.5050899,6827,Lake Shore Blvd West At Islington Ave,43.6009,West,"['301L', '507']","['West', 'West']",5180
-5156,-79.5212499,1593,Lake Shore Blvd West At Twenty Second St,43.59734,West,"['301L', '507']","['West', 'West']",5156
-5158,-79.5242699,9317,Lake Shore Blvd West At Twenty Sixth St,43.59667,West,"['301L', '507']","['West', 'West']",5158
+5156,-79.52125,1593,Lake Shore Blvd West At Twenty Second St,43.5973399,West,"['301L', '507']","['West', 'West']",5156
+5158,-79.52427,9317,Lake Shore Blvd West At Twenty Sixth St,43.5966699,West,"['301L', '507']","['West', 'West']",5158
 5161,-79.52818,6463,Lake Shore Blvd West At Twenty Ninth St,43.5958099,West,"['301L', '507']","['West', 'West']",5161
 5162,-79.52966,1737,Lake Shore Blvd West At Thirtieth St,43.5954699,West,"['301L', '507']","['West', 'West']",5162
 6523,-79.47873,472,Humber Loop At The Queensway,43.6309999,East,"['301', '501']","['East', 'East']",6523
@@ -8418,8 +8416,8 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 3068,-79.3618699,5087,Queen St East At Sackville St,43.6561,East,"['301', '501']","['East', 'East']",3068
 3073,-79.3590099,10054,Queen St East At Sumach St,43.65674,East,"['301', '501']","['East', 'East']",3073
 3066,-79.35667,1301,Queen St East At River St,43.6572599,East,"['301', '501']","['East', 'East']",3066
-3038,-79.3524499,6678,Queen St East At Carroll St,43.6582,East,"['301', '304', '304', '501', '503', '504', '504B']","['East', 'East', 'East', 'East', 'East', 'East', 'East']",3038
-3032,-79.35006,3443,Queen St East At Broadview Ave,43.6587499,East,"['301', '304', '304', '501', '503', '504', '504B']","['East', 'East', 'East', 'East', 'East', 'East', 'East']",3032
+3038,-79.3524499,6678,Queen St East At Carroll St,43.6582,East,"['301', '304', '501', '503', '504', '504B']","['East', 'East', 'East', 'East', 'East', 'East']",3038
+3032,-79.35006,3443,Queen St East At Broadview Ave,43.6587499,East,"['301', '304', '501', '503', '504', '504B']","['East', 'East', 'East', 'East', 'East', 'East']",3032
 3072,-79.3471,7665,Queen St East At Saulter St East Side,43.6593999,East,"['301', '501', '503']","['East', 'East', 'East']",3072
 3046,-79.3445,7234,Queen St East At Empire Ave,43.6599899,East,"['301', '501', '503']","['East', 'East', 'East']",3046
 3058,-79.3426799,3836,Queen St East At Logan Ave,43.66039,East,"['301', '501', '503']","['East', 'East', 'East']",3058
@@ -8444,9 +8442,9 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 5159,-79.5250399,2957,Lake Shore Blvd West At Twenty Seventh St,43.59633,East,"['301L', '507']","['East', 'East']",5159
 5157,-79.52141,4779,Lake Shore Blvd West At Twenty Second St,43.59712,East,"['301L', '507']","['East', 'East']",5157
 5182,-79.5171799,7984,Lake Shore Blvd West At Colonel Samuel Smith Park Dr,43.59805,East,"['301L', '507']","['East', 'East']",5182
-5152,-79.51196,5479,Lake Shore Blvd West At Thirteenth St,43.59921,East,"['301L', '507']","['East', 'East']",5152
+5152,-79.51196,5479,Lake Shore Blvd West At Thirteenth St,43.5992099,East,"['301L', '507']","['East', 'East']",5152
 5150,-79.5088,5050,Lake Shore Blvd West At Tenth St,43.5998799,East,"['301L', '507']","['East', 'East']",5150
-5172,-79.50539,3370,Lake Shore Blvd West At Seventh St,43.6006399,East,"['301L', '507']","['East', 'East']",5172
+5172,-79.5053899,3370,Lake Shore Blvd West At Seventh St,43.60064,East,"['301L', '507']","['East', 'East']",5172
 5170,-79.50311,7245,Lake Shore Blvd West At Fifth St,43.6011499,East,"['301L', '507']","['East', 'East']",5170
 5167,-79.5008699,7612,Lake Shore Blvd West At Third St,43.60165,East,"['301L', '507']","['East', 'East']",5167
 13946,-79.4985899,6435,Lake Shore Blvd West At First St,43.60214,East,"['301L', '507']","['East', 'East']",13946
@@ -8531,7 +8529,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 4181,-79.3920099,6593,King St West At Peter St,43.64616,West,"['304', '504B', '504A']","['West', 'West', 'West']",4181
 15647,-79.39581,23894,King St West At Spadina Ave West Side,43.6453699,West,"['304', '504B', '504A']","['West', 'West', 'West']",15647
 10176,-79.39994,5279,King St West At Portland St,43.6445299,West,"['304', '504B', '504A']","['West', 'West', 'West']",10176
-4156,-79.4018899,7211,King St West At Bathurst St - Fifa Fan Festival Toronto,43.64414,West,"['304', '504B', '504A']","['West', 'West', 'West']",4156
+4156,-79.4018899,7211,King St West At Bathurst St,43.64414,West,"['304', '504B', '504A']","['West', 'West', 'West']",4156
 4190,-79.40505,954,King St West At Tecumseth St,43.6434899,West,"['304', '504B', '504A']","['West', 'West', 'West']",4190
 4179,-79.4075399,2333,King St West At Niagara St,43.64299,West,"['304', '504B', '504A']","['West', 'West', 'West']",4179
 4188,-79.4117799,2462,King St West At Strachan Ave,43.64213,West,"['304', '504B', '504A']","['West', 'West', 'West']",4188
@@ -8539,7 +8537,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 11021,-79.41718,2217,King St West At Sudbury St,43.6410599,West,"['304', '504B', '504A']","['West', 'West', 'West']",11021
 4175,-79.4220799,5091,King St West At Jefferson Ave,43.64007,West,"['304', '504B', '504A']","['West', 'West', 'West']",4175
 14400,-79.4234099,10438,King St West At Joe Shuster Way,43.6398,West,"['304', '504B', '504A']","['West', 'West', 'West']",14400
-4166,-79.427,4341,King St West At Dufferin St - Toronto Stadium,43.6390899,West,"['304', '504B', '504A']","['West', 'West', 'West']",4166
+4166,-79.427,4341,King St West At Dufferin St,43.6390899,West,"['304', '504B', '504A']","['West', 'West', 'West']",4166
 13890,-79.43076,5890,King St West At Spencer Ave,43.6383099,West,"['304', '504A']","['West', 'West']",13890
 4169,-79.4330599,5141,King St West At Dunn Ave,43.63784,West,"['304', '504A']","['West', 'West']",4169
 4174,-79.4358599,7460,King St West At Jameson Ave,43.63726,West,"['304', '504A']","['West', 'West']",4174
@@ -8568,14 +8566,14 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 4173,-79.4362099,10278,King St West At Jameson Ave,43.63708,East,"['304', '504', '504A']","['East', 'East', 'East']",4173
 4168,-79.4333799,5447,King St West At Dunn Ave,43.63765,East,"['304', '504', '504A']","['East', 'East', 'East']",4168
 4186,-79.431,945,King St West At Spencer Ave,43.6381299,East,"['304', '504', '504A']","['East', 'East', 'East']",4186
-4167,-79.4274899,4568,King St West At Dufferin St - Toronto Stadium,43.63882,East,"['304', '504', '504A']","['East', 'East', 'East']",4167
+4167,-79.4274899,4568,King St West At Dufferin St,43.63882,East,"['304', '504', '504A']","['East', 'East', 'East']",4167
 15353,-79.42372,15145,King St West At Joe Shuster Way,43.6395899,East,"['304', '504', '504B', '504A']","['East', 'East', 'East', 'East']",15353
 4155,-79.42141,5467,King St West At Atlantic Ave,43.6400499,East,"['304', '504', '504B', '504A']","['East', 'East', 'East', 'East']",4155
 4162,-79.41522,5422,King St West At Shaw St,43.6413099,East,"['304', '504', '504B', '504A']","['East', 'East', 'East', 'East']",4162
 4187,-79.41209,437,King St West At Strachan Ave,43.6419399,East,"['304', '504', '504B', '504A']","['East', 'East', 'East', 'East']",4187
 4178,-79.4077599,3039,King St West At Niagara St,43.64281,East,"['304', '504', '504B', '504A']","['East', 'East', 'East', 'East']",4178
 4189,-79.4053599,2452,King St West At Tecumseth St,43.6433,East,"['304', '504', '504B', '504A']","['East', 'East', 'East', 'East']",4189
-15650,-79.40181,23897,King St West At Bathurst St East Side - Fifa Fan Festival Toronto,43.6439899,East,"['304', '504', '504B', '504A']","['East', 'East', 'East', 'East']",15650
+15650,-79.40181,23897,King St West At Bathurst St East Side,43.6439899,East,"['304', '504', '504B', '504A']","['East', 'East', 'East', 'East']",15650
 15649,-79.3995,23896,King St West At Portland St East Side,43.6444599,East,"['304', '504', '504B', '504A']","['East', 'East', 'East', 'East']",15649
 15648,-79.3942999,23895,King St West At Spadina Ave East Side,43.64551,East,"['304', '504', '504B', '504A']","['East', 'East', 'East', 'East']",15648
 15646,-79.39164,23893,King St West At Blue Jays Way East Side,43.6460999,East,"['304', '504', '504B', '504A']","['East', 'East', 'East', 'East']",15646
@@ -8590,13 +8588,11 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 4140,-79.36337,8207,King St East At Parliament St,43.6525599,East,"['304', '503', '504', '504B', '504A']","['East', 'East', 'East', 'East', 'East']",4140
 4143,-79.36038,1712,King St East At Sackville St,43.6542999,East,"['304', '503', '504', '504B', '504A']","['East', 'East', 'East', 'East', 'East']",4143
 4148,-79.3586999,1909,King St East At Sumach St,43.65528,East,"['304', '503', '504', '504B', '504A']","['East', 'East', 'East', 'East', 'East']",4148
-15351,-79.3562499,15142,King St East At Lower River St,43.65673,East,"['304', '304', '503', '504', '504B']","['East', 'East', 'East', 'East', 'East']",15351
+15351,-79.3562499,15142,King St East At Lower River St,43.65673,East,"['304', '503', '504', '504B']","['East', 'East', 'East', 'East']",15351
 3372,-79.35117,1966,Broadview Ave At Dundas St East,43.6622499,East,"['304', '504B']","['East', 'East']",3372
 9317,-79.35187,3886,Broadview Ave At Mountstephen St,43.66394,East,"['304', '305', '504B', '505']","['East', 'East', 'East', 'East']",9317
 1757,-79.35244,6205,Broadview Ave At Gerrard St East,43.66527,East,"['304', '305', '504B', '505']","['East', 'East', 'East', 'East']",1757
-1755,-79.3586,6517,Broadview Ave At Danforth Ave,43.6760499,East,"['304', '305', '504B', '505']","['East', 'East', 'East', 'East']",1755
-15462,-79.35682,15356,Distillery Loop,43.6508599,East,['304'],['East'],15462
-15460,-79.3578399,15354,Cherry St At Front St East,43.6525099,East,['304'],['East'],15460
+1755,-79.3586,6517,Broadview Ave At Danforth Ave,43.6760499,East,"['304', '305', '505']","['East', 'East', 'East']",1755
 14666,-79.45346,14187,Dundas West Station,43.6566999,East,"['305', '505']","['East', 'East']",14666
 2181,-79.45126,6600,Dundas St West At Roncesvalles Ave East Side,43.6534799,East,"['305', '505']","['East', 'East']",2181
 2167,-79.4485199,2954,Dundas St West At Howard Park Ave,43.6522299,East,"['305', '505']","['East', 'East']",2167
@@ -8620,12 +8616,12 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 2193,-79.38874,7311,Dundas St West At University Ave - St Patrick Station,43.65468,East,"['305', '505']","['East', 'East']",2193
 2153,-79.3861299,6459,Dundas St West At Chestnut St,43.65514,East,"['305', '505']","['East', 'East']",2153
 2142,-79.3840099,2856,Dundas St West At Bay St,43.65558,East,"['305', '505']","['East', 'East']",2142
-2197,-79.38119,3874,Dundas St West At Yonge St - Tmu Station,43.6561899,East,"['305', '505']","['East', 'East']",2197
-2116,-79.37736,3471,Dundas St East At Church St,43.6563699,East,"['305', '505']","['East', 'East']",2116
-2118,-79.37471,3184,Dundas St East At Jarvis St,43.6569499,East,"['305', '505']","['East', 'East']",2118
-2130,-79.3713,2641,Dundas St East At Sherbourne St,43.65822,East,"['305', '505']","['East', 'East']",2130
-2122,-79.3686499,2749,Dundas St East At Ontario St,43.65875,East,"['305', '505']","['East', 'East']",2122
-2124,-79.36629,5988,Dundas St East At Parliament St,43.65928,East,"['305', '505']","['East', 'East']",2124
+2197,-79.38119,3874,Dundas St West At Yonge St - Tmu Station,43.6561899,East,"['305', '306', '505', '506']","['East', 'East', 'East', 'East']",2197
+2116,-79.37736,3471,Dundas St East At Church St,43.6563699,East,"['305', '306', '505', '506']","['East', 'East', 'East', 'East']",2116
+2118,-79.37471,3184,Dundas St East At Jarvis St,43.6569499,East,"['305', '306', '505', '506']","['East', 'East', 'East', 'East']",2118
+2130,-79.3713,2641,Dundas St East At Sherbourne St,43.65822,East,"['305', '306', '505', '506']","['East', 'East', 'East', 'East']",2130
+2122,-79.3686499,2749,Dundas St East At Ontario St,43.65875,East,"['305', '306', '505', '506']","['East', 'East', 'East', 'East']",2122
+2124,-79.36629,5988,Dundas St East At Parliament St,43.65928,East,"['305', '306', '505', '506']","['East', 'East', 'East', 'East']",2124
 15872,-79.36197,24274,Dundas St East At Regent Park Blvd,43.6602499,East,"['305', '505']","['East', 'East']",15872
 2126,-79.3582899,6694,Dundas St East At River St,43.66109,East,"['305', '505']","['East', 'East']",2126
 2115,-79.35181,8820,Dundas St East At Broadview Ave,43.6622499,East,"['305', '505']","['East', 'East']",2115
@@ -8633,17 +8629,17 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 2127,-79.358,1061,Dundas St East At River St,43.6612799,West,"['305', '505']","['West', 'West']",2127
 15873,-79.36165,24273,Dundas St East At Regent Park Blvd,43.6604699,West,"['305', '505']","['West', 'West']",15873
 2125,-79.3658799,4155,Dundas St East At Parliament St,43.65951,West,"['305', '505']","['West', 'West']",2125
-2123,-79.36836,8277,Dundas St East At Ontario St,43.6589599,West,"['305', '505']","['West', 'West']",2123
-2131,-79.37088,2704,Dundas St East At Sherbourne St,43.6584099,West,"['305', '505']","['West', 'West']",2131
-2119,-79.37438,9060,Dundas St East At Jarvis St,43.6571599,West,"['305', '505']","['West', 'West']",2119
-2117,-79.37699,3092,Dundas St East At Church St,43.6565799,West,"['305', '505']","['West', 'West']",2117
-2136,-79.38075,6839,Dundas St East At Yonge St - Tmu Station,43.6564299,West,"['305', '505']","['West', 'West']",2136
-2143,-79.38349,2261,Dundas St West At Bay St,43.6558499,West,"['305', '505']","['West', 'West']",2143
+2123,-79.36836,8277,Dundas St East At Ontario St,43.6589599,West,"['305', '306', '505', '506']","['West', 'West', 'West', 'West']",2123
+2131,-79.37088,2704,Dundas St East At Sherbourne St,43.6584099,West,"['305', '306', '505', '506']","['West', 'West', 'West', 'West']",2131
+2119,-79.37438,9060,Dundas St East At Jarvis St,43.6571599,West,"['305', '306', '505', '506']","['West', 'West', 'West', 'West']",2119
+2117,-79.37699,3092,Dundas St East At Church St,43.6565799,West,"['305', '306', '505', '506']","['West', 'West', 'West', 'West']",2117
+2136,-79.38075,6839,Dundas St East At Yonge St - Tmu Station,43.6564299,West,"['305', '306', '505', '506']","['West', 'West', 'West', 'West']",2136
+2143,-79.38349,2261,Dundas St West At Bay St,43.6558499,West,"['305', '306', '505', '506']","['West', 'West', 'West', 'West']",2143
 2154,-79.38587,7264,Dundas St West At Chestnut St,43.6553399,West,"['305', '505']","['West', 'West']",2154
 2194,-79.3878099,9824,Dundas St West At University Ave - St Patrick Station,43.65492,West,"['305', '505']","['West', 'West']",2194
-16064,-79.39014,24464,Dundas St West At St Patrick St,43.6545699,West,"['305', '505']","['West', 'West']",16064
+2174,-79.3912099,6087,Dundas St West At McCaul St,43.65441,West,"['305', '505']","['West', 'West']",2174
 2147,-79.39372,2368,Dundas St West At Beverley St,43.6538899,West,"['305', '505']","['West', 'West']",2147
-2190,-79.39771,1212,Dundas St West At Spadina Ave,43.6530599,West,"['305', '505']","['West', 'West']",2190
+2190,-79.3977099,1212,Dundas St West At Spadina Ave,43.65306,West,"['305', '505']","['West', 'West']",2190
 2157,-79.40216,4557,Dundas St West At Denison Ave,43.6521099,West,"['305', '505']","['West', 'West']",2157
 2141,-79.4058699,4491,Dundas St West At Bathurst St - Toronto Western Hospital,43.6524199,West,"['305', '505']","['West', 'West']",2141
 15355,-79.41082,15147,Dundas St West At Manning Ave,43.6513799,West,"['305', '505']","['West', 'West']",15355
@@ -8660,60 +8656,42 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 988,-79.44501,1195,Dundas St West At Sorauren Ave,43.6512,West,"['305', '306', '505', '506']","['West', 'West', 'West', 'West']",988
 986,-79.4474599,5094,Dundas St West At Howard Park Ave,43.6519199,West,"['305', '306', '505', '506']","['West', 'West', 'West', 'West']",986
 2182,-79.45136,5074,Dundas St West At Roncesvalles Ave,43.65369,West,"['305', '505']","['West', 'West']",2182
-14741,-79.3018,14260,Main Street Station,43.6888599,West,"['306', '506']","['West', 'West']",14741
-1263,-79.30201,3867,Main St At Danforth Ave - Danforth Go Station,43.6882999,West,['306'],['West'],1263
-1126,-79.30273,800,Gerrard St East At Norwood Rd,43.6834599,West,"['306', '506']","['West', 'West']",1126
-1119,-79.3058399,8056,Gerrard St East At Glenmount Park Rd,43.68277,West,"['306', '506']","['West', 'West']",1119
-1121,-79.3082899,4414,Gerrard St East At Golfview Ave,43.68209,West,"['306', '506']","['West', 'West']",1121
-1128,-79.3105899,2621,Gerrard St East At Woodbine Ave,43.68092,West,"['306', '506']","['West', 'West']",1128
-1123,-79.3126599,1268,Gerrard St East At Kingsmount Park Rd,43.6798599,West,"['306', '506']","['West', 'West']",1123
-1116,-79.3149099,6656,Gerrard St East At Bowmore Rd,43.67819,West,"['306', '506']","['West', 'West']",1116
-1114,-79.31688,4443,Gerrard St East At Beaton Ave,43.6762899,West,"['306', '506']","['West', 'West']",1114
-1117,-79.3198399,4650,Gerrard St East At Coxwell Ave,43.6756599,West,"['306', '506']","['West', 'West']",1117
-1794,-79.3194499,10283,Coxwell Ave At Lower Gerrard St East,43.6730899,West,"['306', '506']","['West', 'West']",1794
-1079,-79.32172,2048,Gerrard St East At Ashdale Ave,43.6723899,West,"['306', '506']","['West', 'West']",1079
-15357,-79.32368,15149,Gerrard St East At Woodfield Rd,43.6719499,West,"['306', '506']","['West', 'West']",15357
-1090,-79.3278599,4325,Gerrard St East At Greenwood Ave,43.671,West,"['306', '506']","['West', 'West']",1090
-1103,-79.33032,1123,Gerrard St East At Prust Ave,43.6704499,West,"['306', '506']","['West', 'West']",1103
-1095,-79.33293,7935,Gerrard St East At Leslie St,43.6698799,West,"['306', '506']","['West', 'West']",1095
-1093,-79.3354199,3292,Gerrard St East At Jones Ave,43.66933,West,"['306', '506']","['West', 'West']",1093
-1099,-79.33745,971,Gerrard St East At Marjory Ave,43.6688599,West,"['306', '506']","['West', 'West']",1099
-1101,-79.3402499,3164,Gerrard St East At Pape Ave,43.66823,West,"['306', '506']","['West', 'West']",1101
-1084,-79.3425999,8702,Gerrard St East At Carlaw Ave,43.66772,West,"['306', '506']","['West', 'West']",1084
-1097,-79.3450799,10019,Gerrard St East At Logan Ave,43.66716,West,"['306', '506']","['West', 'West']",1097
-1086,-79.3484199,7703,Gerrard St East At De Grassi St,43.66641,West,"['306', '506']","['West', 'West']",1086
-1082,-79.3523599,4575,Gerrard St East At Broadview Ave,43.66555,West,"['306', '506']","['West', 'West']",1082
-1105,-79.35905,7379,Gerrard St East At River St,43.6638199,West,"['306', '506']","['West', 'West']",1105
-1110,-79.36127,2976,Gerrard St East At Sumach St,43.6632699,West,"['306', '506']","['West', 'West']",1110
-1107,-79.3638999,2615,Gerrard St East At Sackville St,43.66269,West,"['306', '506']","['West', 'West']",1107
-1102,-79.3667,7132,Gerrard St East At Parliament St,43.6620699,West,"['306', '506']","['West', 'West']",1102
-1451,-79.36772,614,Parliament St At Carlton St,43.6639099,West,"['306', '506']","['West', 'West']",1451
-756,-79.3704,1694,Carlton St At Ontario St,43.6638199,West,"['306', '506']","['West', 'West']",756
-759,-79.3728999,2737,Carlton St At Sherbourne St,43.66329,West,"['306', '506']","['West', 'West']",759
-754,-79.3765699,4797,Carlton St At Jarvis St,43.66251,West,"['306', '506']","['West', 'West']",754
-752,-79.37919,1016,Carlton St At Church St,43.6619799,West,"['306', '506']","['West', 'West']",752
-760,-79.38291,3548,Carlton St At Yonge St - College Station,43.6614399,West,"['306', '506']","['West', 'West']",760
-814,-79.38557,7982,College St At Bay St,43.6609199,West,"['306', '506']","['West', 'West']",814
-829,-79.38727,8914,College St At Elizabeth St,43.6606199,West,"['306', '506']","['West', 'West']",829
-841,-79.3901399,5948,College St At Queen'S Park - Queen'S Park Station,43.66,West,"['306', '506']","['West', 'West']",841
-838,-79.39328,10367,College St At McCaul St,43.6593199,West,"['306', '506']","['West', 'West']",838
-845,-79.39574,5013,College St At St George St,43.6587999,West,"['306', '506']","['West', 'West']",845
-844,-79.39963,9193,College St At Spadina Ave,43.6580099,West,"['306', '506']","['West', 'West']",844
-12338,-79.40308,24697,College St At Augusta Ave,43.6574899,West,"['306', '506']","['West', 'West']",12338
-817,-79.40502,2878,College St At Borden St,43.6570599,West,"['306', '506']","['West', 'West']",817
-812,-79.40734,1566,College St At Bathurst St,43.6565699,West,"['306', '506']","['West', 'West']",812
-831,-79.4113,8274,College St At Euclid Ave,43.6558199,West,"['306', '506']","['West', 'West']",831
-833,-79.41544,8416,College St At Grace St,43.6549899,West,"['306', '506']","['West', 'West']",833
-823,-79.41887,2568,College St At Crawford St,43.6552299,West,"['306', '506']","['West', 'West']",823
-840,-79.42255,8354,College St At Ossington Ave,43.6544799,West,"['306', '506']","['West', 'West']",840
-825,-79.42625,4012,College St At Dovercourt Rd,43.6536899,West,"['306', '506']","['West', 'West']",825
-834,-79.4292699,3069,College St At Havelock St,43.65305,West,"['306', '506']","['West', 'West']",834
-827,-79.43242,1039,College St At Dufferin St,43.6526399,West,"['306', '506']","['West', 'West']",827
-819,-79.4362,10033,College St At Brock Ave,43.6518799,West,"['306', '506']","['West', 'West']",819
-836,-79.4398699,8135,College St At Lansdowne Ave,43.6511699,West,"['306', '506']","['West', 'West']",836
-1155,-79.45081,9132,Howard Park Ave At Roncesvalles Ave,43.6515899,West,"['306', '506']","['West', 'West']",1155
-1151,-79.45489,8457,Howard Park Ave At Indian Rd,43.6507599,West,"['306', '506']","['West', 'West']",1151
-1153,-79.45748,4538,Howard Park Ave At Parkside Dr,43.64916,West,"['306', '506']","['West', 'West']",1153
+14776,-79.40366,14623,Spadina Station,43.6674199,East,"['306B', '506B']","['East', 'East']",14776
+15081,-79.40396,14878,Spadina Rd At Bloor St West,43.6666999,East,"['306B', '506B']","['East', 'East']",15081
+16533,-79.4027799,24812,Spadina Ave At Sussex Ave South Side,43.66432,East,"['306B', '506B']","['East', 'East']",16533
+13160,-79.4023899,14871,Spadina Ave At Harbord St,43.6630799,East,"['306B', '506B']","['East', 'East']",13160
+15076,-79.40171,14859,Spadina Ave At Willcocks St,43.66132,East,"['306B', '506B']","['East', 'East']",15076
+16862,-79.39937,25415,College St At Spadina Ave East Side,43.6579599,East,"['306B', '506B']","['East', 'East']",16862
+815,-79.3963699,2748,College St At Beverley St,43.65855,East,"['306B', '306', '506', '506B']","['East', 'East', 'East', 'East']",815
+837,-79.39372,1459,College St At McCaul St,43.65906,East,"['306B', '306', '506', '506B']","['East', 'East', 'East', 'East']",837
+847,-79.3907699,3206,College St At University Ave - Queen'S Park Station,43.6597,East,"['306B', '306', '506', '506B']","['East', 'East', 'East', 'East']",847
+828,-79.38756,7426,College St At Elizabeth St,43.6603899,East,"['306B', '306', '506', '506B']","['East', 'East', 'East', 'East']",828
+813,-79.3861599,5462,College St At Bay St,43.66067,East,"['306B', '306', '506', '506B']","['East', 'East', 'East', 'East']",813
+848,-79.38324,4865,College St At Yonge St - College Station,43.6612599,East,"['306B', '506B']","['East', 'East']",848
+751,-79.37962,3962,Carlton St At Church St,43.6617199,East,"['306B', '506B']","['East', 'East']",751
+753,-79.37684,5993,Carlton St At Jarvis St,43.6623099,East,"['306B', '506B']","['East', 'East']",753
+757,-79.3681899,2350,Carlton St At Parliament St,43.66414,East,"['306B', '506B']","['East', 'East']",757
+1106,-79.36411,3246,Gerrard St East At Sackville St,43.6625099,East,"['306B', '306', '506', '506B']","['East', 'East', 'East', 'East']",1106
+1109,-79.3616,2676,Gerrard St East At Sumach St,43.6630599,East,"['306B', '306', '506', '506B']","['East', 'East', 'East', 'East']",1109
+1104,-79.35933,6259,Gerrard St East At River St,43.66356,East,"['306B', '306', '506', '506B']","['East', 'East', 'East', 'East']",1104
+16863,-79.3552299,25416,St Matthews Rd At Gerrard St East North Side,43.6651099,East,"['306B', '506B']","['East', 'East']",16863
+1105,-79.35905,7379,Gerrard St East At River St,43.6638199,West,"['306B', '306', '506', '506B']","['West', 'West', 'West', 'West']",1105
+1110,-79.36127,2976,Gerrard St East At Sumach St,43.6632699,West,"['306B', '306', '506', '506B']","['West', 'West', 'West', 'West']",1110
+1107,-79.3638999,2615,Gerrard St East At Sackville St,43.66269,West,"['306B', '306', '506', '506B']","['West', 'West', 'West', 'West']",1107
+1102,-79.3667,7132,Gerrard St East At Parliament St,43.6620699,West,"['306B', '306', '506', '506B']","['West', 'West', 'West', 'West']",1102
+1451,-79.36772,614,Parliament St At Carlton St,43.6639099,West,"['306B', '506B']","['West', 'West']",1451
+756,-79.3704,1694,Carlton St At Ontario St,43.6638199,West,"['306B', '506B']","['West', 'West']",756
+759,-79.3729,2737,Carlton St At Sherbourne St,43.6632899,West,"['306B', '506B']","['West', 'West']",759
+754,-79.3765699,4797,Carlton St At Jarvis St,43.66251,West,"['306B', '506B']","['West', 'West']",754
+829,-79.3872699,8914,College St At Elizabeth St,43.66062,West,"['306B', '306', '506', '506B']","['West', 'West', 'West', 'West']",829
+841,-79.39014,5948,College St At Queen'S Park - Queen'S Park Station,43.6599999,West,"['306B', '306', '506', '506B']","['West', 'West', 'West', 'West']",841
+838,-79.3932799,10367,College St At McCaul St,43.65932,West,"['306B', '306', '506', '506B']","['West', 'West', 'West', 'West']",838
+845,-79.39574,5013,College St At St George St,43.6587999,West,"['306B', '306', '506', '506B']","['West', 'West', 'West', 'West']",845
+16861,-79.40003,25414,Spadina Ave At College St North Side,43.6583599,West,"['306B', '506B']","['West', 'West']",16861
+15074,-79.40111,14857,Spadina Ave At Willcocks St,43.66127,West,"['306B', '506B']","['West', 'West']",15074
+15397,-79.4021099,15215,Spadina Ave At Harbord St North Side,43.6633999,West,"['306B', '506B']","['West', 'West']",15397
+15075,-79.4024399,14858,Spadina Ave At Sussex Ave,43.6646199,West,"['306B', '506B']","['West', 'West']",15075
+15082,-79.40358,14879,Spadina Ave At Bloor St West,43.6665499,West,"['306B', '506B']","['West', 'West']",15082
 1152,-79.45739,8673,Howard Park Ave At Parkside Dr East Side,43.6490499,East,"['306', '506']","['East', 'East']",1152
 1150,-79.4550599,2958,Howard Park Ave At Indian Rd,43.65056,East,"['306', '506']","['East', 'East']",1150
 1154,-79.45118,8763,Howard Park Ave At Roncesvalles Ave,43.6514299,East,"['306', '506']","['East', 'East']",1154
@@ -8731,19 +8709,6 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 816,-79.40528,4638,College St At Borden St,43.6568599,East,"['306', '506']","['East', 'East']",816
 809,-79.40325,6774,College St At Augusta Ave,43.65724,East,"['306', '506']","['East', 'East']",809
 843,-79.4004299,1010,College St At Spadina Ave,43.65786,East,"['306', '506']","['East', 'East']",843
-815,-79.3963699,2748,College St At Beverley St,43.65855,East,"['306', '506']","['East', 'East']",815
-837,-79.39372,1459,College St At McCaul St,43.65906,East,"['306', '506']","['East', 'East']",837
-847,-79.3907699,3206,College St At University Ave - Queen'S Park Station,43.6597,East,"['306', '506']","['East', 'East']",847
-828,-79.38756,7426,College St At Elizabeth St,43.6603899,East,"['306', '506']","['East', 'East']",828
-813,-79.3861599,5462,College St At Bay St,43.66067,East,"['306', '506']","['East', 'East']",813
-848,-79.38324,4865,College St At Yonge St - College Station,43.6612599,East,"['306', '506']","['East', 'East']",848
-751,-79.37962,3962,Carlton St At Church St,43.6617199,East,"['306', '506']","['East', 'East']",751
-753,-79.3768399,5993,Carlton St At Jarvis St,43.66231,East,"['306', '506']","['East', 'East']",753
-757,-79.3681899,2350,Carlton St At Parliament St,43.66414,East,"['306', '506']","['East', 'East']",757
-1452,-79.36717,615,Parliament St At Gerrard St East,43.66205,East,"['306', '506']","['East', 'East']",1452
-1106,-79.36411,3246,Gerrard St East At Sackville St,43.6625099,East,"['306', '506']","['East', 'East']",1106
-1109,-79.3615999,2676,Gerrard St East At Sumach St,43.66306,East,"['306', '506']","['East', 'East']",1109
-1104,-79.35933,6259,Gerrard St East At River St,43.66356,East,"['306', '506']","['East', 'East']",1104
 1081,-79.3529099,3903,Gerrard St East At Broadview Ave,43.66538,East,"['306', '506']","['East', 'East']",1081
 1087,-79.34875,9320,Gerrard St East At De Grassi St,43.6662099,East,"['306', '506']","['East', 'East']",1087
 1096,-79.34532,8985,Gerrard St East At Logan Ave,43.6669799,East,"['306', '506']","['East', 'East']",1096
@@ -8765,34 +8730,82 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 1125,-79.3032,9851,Gerrard St East At Norwood Rd,43.6832399,East,"['306', '506']","['East', 'East']",1125
 1124,-79.3003899,8500,Gerrard St East At Main St,43.68384,East,"['306', '506']","['East', 'East']",1124
 1262,-79.30163,549,Main St At Danforth Ave - Danforth Go Station,43.6880399,East,"['306', '506']","['East', 'East']",1262
-16871,-79.41172,25437,Bathurst St At London St,43.6666899,North,['307'],['North'],16871
+14741,-79.3018,14260,Main Street Station,43.6888599,West,['306'],['West'],14741
+1263,-79.30201,3867,Main St At Danforth Ave - Danforth Go Station,43.6882999,West,"['306', '506']","['West', 'West']",1263
+1126,-79.30273,800,Gerrard St East At Norwood Rd,43.6834599,West,"['306', '506']","['West', 'West']",1126
+1119,-79.3058399,8056,Gerrard St East At Glenmount Park Rd,43.68277,West,"['306', '506']","['West', 'West']",1119
+1121,-79.3082899,4414,Gerrard St East At Golfview Ave,43.68209,West,"['306', '506']","['West', 'West']",1121
+1128,-79.3105899,2621,Gerrard St East At Woodbine Ave,43.68092,West,"['306', '506']","['West', 'West']",1128
+1123,-79.3126599,1268,Gerrard St East At Kingsmount Park Rd,43.6798599,West,"['306', '506']","['West', 'West']",1123
+1116,-79.3149099,6656,Gerrard St East At Bowmore Rd,43.67819,West,"['306', '506']","['West', 'West']",1116
+1114,-79.31688,4443,Gerrard St East At Beaton Ave,43.6762899,West,"['306', '506']","['West', 'West']",1114
+1117,-79.3198399,4650,Gerrard St East At Coxwell Ave,43.6756599,West,"['306', '506']","['West', 'West']",1117
+1794,-79.3194499,10283,Coxwell Ave At Lower Gerrard St East,43.6730899,West,"['306', '506']","['West', 'West']",1794
+1079,-79.32172,2048,Gerrard St East At Ashdale Ave,43.6723899,West,"['306', '506']","['West', 'West']",1079
+15357,-79.32368,15149,Gerrard St East At Woodfield Rd,43.6719499,West,"['306', '506']","['West', 'West']",15357
+1090,-79.3278599,4325,Gerrard St East At Greenwood Ave,43.671,West,"['306', '506']","['West', 'West']",1090
+1103,-79.33032,1123,Gerrard St East At Prust Ave,43.6704499,West,"['306', '506']","['West', 'West']",1103
+1095,-79.33293,7935,Gerrard St East At Leslie St,43.6698799,West,"['306', '506']","['West', 'West']",1095
+1093,-79.3354199,3292,Gerrard St East At Jones Ave,43.66933,West,"['306', '506']","['West', 'West']",1093
+1099,-79.33745,971,Gerrard St East At Marjory Ave,43.6688599,West,"['306', '506']","['West', 'West']",1099
+1101,-79.3402499,3164,Gerrard St East At Pape Ave,43.66823,West,"['306', '506']","['West', 'West']",1101
+1084,-79.3425999,8702,Gerrard St East At Carlaw Ave,43.66772,West,"['306', '506']","['West', 'West']",1084
+1097,-79.3450799,10019,Gerrard St East At Logan Ave,43.66716,West,"['306', '506']","['West', 'West']",1097
+1086,-79.3484199,7703,Gerrard St East At De Grassi St,43.66641,West,"['306', '506']","['West', 'West']",1086
+1082,-79.3523599,4575,Gerrard St East At Broadview Ave,43.66555,West,"['306', '506']","['West', 'West']",1082
+844,-79.3996299,9193,College St At Spadina Ave,43.65801,West,"['306', '506']","['West', 'West']",844
+12338,-79.4030799,24697,College St At Augusta Ave,43.6574899,West,"['306', '506']","['West', 'West']",12338
+817,-79.4050199,2878,College St At Borden St,43.65706,West,"['306', '506']","['West', 'West']",817
+812,-79.4073399,1566,College St At Bathurst St,43.65657,West,"['306', '506']","['West', 'West']",812
+831,-79.4113,8274,College St At Euclid Ave,43.6558199,West,"['306', '506']","['West', 'West']",831
+833,-79.41544,8416,College St At Grace St,43.6549899,West,"['306', '506']","['West', 'West']",833
+823,-79.41887,2568,College St At Crawford St,43.6552299,West,"['306', '506']","['West', 'West']",823
+840,-79.42255,8354,College St At Ossington Ave,43.6544799,West,"['306', '506']","['West', 'West']",840
+825,-79.42625,4012,College St At Dovercourt Rd,43.6536899,West,"['306', '506']","['West', 'West']",825
+834,-79.4292699,3069,College St At Havelock St,43.65305,West,"['306', '506']","['West', 'West']",834
+827,-79.43242,1039,College St At Dufferin St,43.6526399,West,"['306', '506']","['West', 'West']",827
+819,-79.4362,10033,College St At Brock Ave,43.6518799,West,"['306', '506']","['West', 'West']",819
+836,-79.4398699,8135,College St At Lansdowne Ave,43.6511699,West,"['306', '506']","['West', 'West']",836
+1155,-79.45081,9132,Howard Park Ave At Roncesvalles Ave,43.6515899,West,"['306', '506']","['West', 'West']",1155
+1151,-79.45489,8457,Howard Park Ave At Indian Rd,43.6507599,West,"['306', '506']","['West', 'West']",1151
+1153,-79.45748,4538,Howard Park Ave At Parkside Dr,43.64916,West,"['306', '506']","['West', 'West']",1153
+12584,-79.41537,463,Exhibition Loop,43.6363299,North,"['307', '329', '363', '511']","['North', 'North', 'North', 'North']",12584
+1062,-79.41014,7734,Manitoba Dr At Strachan Ave,43.63617,"North, East","['307', '509', '511']","['North', 'East', 'North']",1062
+15502,-79.4073899,15328,Fleet St At Fort York Blvd,43.63628,North,['307'],['North'],15502
+15503,-79.40351,15329,Fort York Blvd At Bastion St East Side,43.63749,North,['307'],['North'],15503
+15864,-79.40154,24262,Fort York Blvd At Iannuzzi St East Side,43.63839,North,['307'],['North'],15864
+15362,-79.40166,25065,Bathurst St At Niagara St,43.6417099,North,['307'],['North'],15362
+15364,-79.4024999,15214,Bathurst St At King St West,43.6437999,North,['307'],['North'],15364
+15230,-79.40383,15051,Bathurst St At Queen St West,43.64709,North,['307'],['North'],15230
+15335,-79.40443,15126,Bathurst St At Carr St,43.6485999,North,"['307', '511']","['North', 'North']",15335
+126,-79.4058699,4322,Bathurst St At Dundas St West - Toronto Western Hospital,43.6521799,North,"['307', '511']","['North', 'North']",126
+16454,-79.40687,24777,Bathurst St At Nassau St - Toronto Western Hospital,43.65472,North,"['307', '511']","['North', 'North']",16454
+110,-79.40751,3455,Bathurst St At College St,43.65624,North,"['307', '511']","['North', 'North']",110
+212,-79.40892,8508,Bathurst St At Ulster St,43.6597299,North,"['307', '511']","['North', 'North']",212
+148,-79.40962,7317,Bathurst St At Harbord St,43.66142,North,"['307', '511']","['North', 'North']",148
+167,-79.41054,9659,Bathurst St At Lennox St,43.66373,North,"['307', '511']","['North', 'North']",167
+096,-79.41106,5953,Bathurst St At Bloor St West,43.66501,North,['307'],['North'],096
 1585,-79.44456,837_IB,Steeles Ave West At Bathurst St East Side,43.7925599,North,['307'],['North'],1585
 1617,-79.4407299,8853_IB,Village Gate At Steeles Ave West,43.7925599,North,['307'],['North'],1617
 1138,-79.4421299,2594_IB,Greenwin Village Rd At Elise Ter (West),43.79176,North,['307'],['North'],1138
 1139,-79.44293,10223_IB,Greenwin Village Rd At Regatta Cres,43.7911999,North,['307'],['North'],1139
-13366,-79.41471,462,Exhibition Loop At Manitoba Dr,43.6365099,East,"['309', '509']","['East', 'East']",13366
-1062,-79.41014,7734,Manitoba Dr At Strachan Ave,43.63617,"East, North","['309', '311', '509', '511']","['East', 'North', 'East', 'North']",1062
-15502,-79.4073899,15328,Fleet St At Fort York Blvd,43.63628,"East, South, North","['309', '311', '509', '511']","['East', 'South', 'East', 'North']",15502
-14512,-79.4037699,12898,Fleet St At Bastion St,43.63585,"East, North","['309', '311', '509', '511']","['East', 'North', 'East', 'North']",14512
-10210,-79.4001299,632,Fleet St At Bathurst St,43.63647,"East, North","['309', '311', '509', '511']","['East', 'North', 'East', 'North']",10210
-13371,-79.39777,1031,Queens Quay West At Bathurst St East Side Billy Bishop Airport,43.6360499,East,"['309', '509']","['East', 'East']",13371
-13369,-79.3961699,3926,Queens Quay West At Dan Leckie Way East Side,43.6368,East,"['309', '509']","['East', 'East']",13369
-13131,-79.39118,2125,Queens Quay West At Lower Spadina Ave East Side,43.6377599,"East, South","['309', '310', '509', '510']","['East', 'South', 'East', 'South']",13131
-15331,-79.3868,15122,Queens Quay West At Rees St,43.6387499,"East, South","['309', '310', '509', '510']","['East', 'South', 'East', 'South']",15331
-15332,-79.38176,15123,Queens Quay West At Harbourfront Centre,43.6396099,"East, South","['309', '310', '509', '510']","['East', 'South', 'East', 'South']",15332
-10945,-79.3771899,1551,Queens Quay/Ferry Docks Station,43.6418099,"East, South","['309', '310', '509', '510']","['East', 'South', 'East', 'South']",10945
-10935,-79.37921,9227,Union Station,43.6456499,"West, North","['309', '310', '509', '510']","['West', 'North', 'West', 'North']",10935
-10946,-79.37709,10390,Queens Quay/Ferry Docks Station,43.64142,"West, North","['309', '310', '509', '510']","['West', 'North', 'West', 'North']",10946
-15333,-79.38132,15124,Queens Quay West At Harbourfront Centre,43.6397799,"West, North","['309', '310', '509', '510']","['West', 'North', 'West', 'North']",15333
-6864,-79.3871599,7412,Queens Quay West At Rees St West Side,43.63876,"West, North","['309', '310', '509', '510']","['West', 'North', 'West', 'North']",6864
-13370,-79.39262,2128,Queens Quay West At Lower Spadina Ave West Side,43.6375299,West,"['309', '509']","['West', 'West']",13370
-13367,-79.3972999,1296,Queens Quay West At Dan Leckie Way West Side,43.63649,West,"['309', '509']","['West', 'West']",13367
-13368,-79.3988438,6761,Bathurst St At Queens Quay West North Side Billy Bishop Airport,43.6360064,West,"['309', '509']","['West', 'West']",13368
-13362,-79.40054,4439,Fleet St At Bathurst St West Side,43.6364199,"West, South","['309', '311', '509', '511']","['West', 'South', 'West', 'South']",13362
-14511,-79.4041499,12891,Fleet St At Bastion St West Side,43.6359699,"West, South","['309', '311', '509', '511']","['West', 'South', 'West', 'South']",14511
-14509,-79.407398,12919,Fleet Hub - Fifa World Cup,43.6364076,"West, North, South","['309', '311', '509', '511']","['West', 'North', 'West', 'South']",14509
-1063,-79.4104099,10399,Manitoba Dr At Strachan Ave West Side,43.6362999,"West, South","['309', '311', '509', '511']","['West', 'South', 'West', 'South']",1063
-15190,-79.41705,15016,Exhibition Loop,43.6358699,"West, South","['309', '311', '329', '363', '509', '511']","['West', 'South', 'South', 'South', 'West', 'South']",15190
+15518,-79.4113499,15361,Bathurst St At Bloor St West,43.66524,South,"['307', '511']","['South', 'South']",15518
+15334,-79.41081,15125,Bathurst St At Lennox St,43.6638999,South,"['307', '511']","['South', 'South']",15334
+149,-79.4098899,8105,Bathurst St At Harbord St,43.6616099,South,"['307', '511']","['South', 'South']",149
+213,-79.40919,6594,Bathurst St At Ulster St,43.65987,South,"['307', '511']","['South', 'South']",213
+111,-79.40786,10342,Bathurst St At College St,43.65663,South,"['307', '511']","['South', 'South']",111
+178,-79.40695,4389,Bathurst St At Nassau St - Toronto Western Hospital,43.6543499,South,"['307', '511']","['South', 'South']",178
+127,-79.4061799,2181,Bathurst St At Dundas St West - Toronto Western Hospital,43.6524799,South,"['307', '511']","['South', 'South']",127
+193,-79.40483,9662,Bathurst St At Robinson St,43.6491,South,"['307', '511']","['South', 'South']",193
+187,-79.40413,1068,Bathurst St At Queen St West,43.64738,South,"['307', '511']","['South', 'South']",187
+15365,-79.40286,15213,Bathurst St At King St West,43.6440599,South,['307'],['South'],15365
+15226,-79.4020299,15050,Bathurst St At Niagara St,43.6420099,South,['307'],['South'],15226
+100,-79.4007699,7478,Bathurst St At Fort York Blvd,43.6389499,South,"['307', '511']","['South', 'South']",100
+15499,-79.40394,15325,Fort York Blvd At Gzowski Blvd,43.6376099,South,['307'],['South'],15499
+15500,-79.4069899,15326,Fort York Blvd At Fleet St,43.63652,South,['307'],['South'],15500
+15501,-79.4085499,15327,Princes' Blvd At Strachan Ave,43.63509,South,['307'],['South'],15501
+1063,-79.41041,10399,Manitoba Dr At Strachan Ave West Side,43.6362999,"South, West","['307', '509', '511']","['South', 'West', 'South']",1063
+15190,-79.4170499,15016,Exhibition Loop,43.63587,"South, West","['307', '329', '363', '509', '511']","['South', 'South', 'South', 'West', 'South']",15190
 14816,-79.40366,14339,Spadina Station,43.6672199,South,"['310', '510']","['South', 'South']",14816
 8132,-79.40262,7162,Spadina Ave At Sussex Ave South Side,43.66422,South,"['310', '510']","['South', 'South']",8132
 8124,-79.40198,5136,Spadina Ave At Harbord St South Side,43.66265,South,"['310', '510']","['South', 'South']",8124
@@ -8805,6 +8818,14 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 8126,-79.3951699,10138,Spadina Ave At King St West,43.6456699,South,"['310', '510']","['South', 'South']",8126
 8123,-79.39403,6953,Spadina Ave At Front St West,43.6429299,South,"['310', '510']","['South', 'South']",8123
 10929,-79.39317,6639,Spadina Ave At Bremner Blvd,43.64081,South,"['310', '510']","['South', 'South']",10929
+13131,-79.39118,2125,Queens Quay West At Lower Spadina Ave East Side,43.6377599,"South, East","['310', '509', '510']","['South', 'East', 'South']",13131
+15331,-79.3868,15122,Queens Quay West At Rees St,43.6387499,"South, East","['310', '509', '510']","['South', 'East', 'South']",15331
+15332,-79.38176,15123,Queens Quay West At Harbourfront Centre,43.6396099,"South, East","['310', '509', '510']","['South', 'East', 'South']",15332
+10945,-79.3771899,1551,Queens Quay/Ferry Docks Station,43.6418099,"South, East","['310', '509', '510']","['South', 'East', 'South']",10945
+10935,-79.37921,9227,Union Station,43.6456499,"North, West","['310', '509', '510']","['North', 'West', 'North']",10935
+10946,-79.37709,10390,Queens Quay/Ferry Docks Station,43.64142,"North, West","['310', '509', '510']","['North', 'West', 'North']",10946
+15333,-79.38132,15124,Queens Quay West At Harbourfront Centre,43.6397799,"North, West","['310', '509', '510']","['North', 'West', 'North']",15333
+6864,-79.3871599,7412,Queens Quay West At Rees St West Side,43.63876,"North, West","['310', '509', '510']","['North', 'West', 'North']",6864
 12085,-79.39201,6075,Spadina Ave At Queens Quay West North Side,43.6381399,North,"['310', '510']","['North', 'North']",12085
 10777,-79.39319,9243,Spadina Ave At Bremner Blvd North Side,43.64123,North,"['310', '510']","['North', 'North']",10777
 7346,-79.39403,8068,Spadina Ave At Front St West North Side,43.6431799,North,"['310', '510']","['North', 'North']",7346
@@ -8818,32 +8839,6 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 7358,-79.40126,6145,Spadina Ave At Willcocks St,43.66112,North,"['310', '510']","['North', 'North']",7358
 7351,-79.4022299,2291,Spadina Ave At Harbord St North Side,43.6635399,North,"['310', '510']","['North', 'North']",7351
 7357,-79.40261,5927,Spadina Ave At Sussex Ave,43.66451,North,"['310', '510']","['North', 'North']",7357
-12584,-79.41537,463,Exhibition Loop,43.6363299,North,"['311', '329', '363', '511']","['North', 'North', 'North', 'North']",12584
-13672,-79.40047,2380,Bathurst St At Fort York Blvd,43.6386799,North,"['311', '511']","['North', 'North']",13672
-15224,-79.40175,15048,Bathurst St At Niagara St,43.64178,North,"['311', '511']","['North', 'North']",15224
-161,-79.4025199,7197,Bathurst St At King St West,43.6436599,North,"['311', '511']","['North', 'North']",161
-186,-79.4039,5399,Bathurst St At Queen St West,43.6470699,North,"['311', '511']","['North', 'North']",186
-15335,-79.40443,15126,Bathurst St At Carr St,43.6485999,North,"['311', '511']","['North', 'North']",15335
-126,-79.40587,4322,Bathurst St At Dundas St West - Toronto Western Hospital,43.65218,North,"['311', '511']","['North', 'North']",126
-16454,-79.4068699,24777,Bathurst St At Nassau St - Toronto Western Hospital,43.6547199,North,"['311', '511']","['North', 'North']",16454
-110,-79.40751,3455,Bathurst St At College St,43.6562399,North,"['311', '511']","['North', 'North']",110
-212,-79.40892,8508,Bathurst St At Ulster St,43.6597299,North,"['311', '511']","['North', 'North']",212
-148,-79.40962,7317,Bathurst St At Harbord St,43.66142,North,"['311', '511']","['North', 'North']",148
-167,-79.41054,9659,Bathurst St At Lennox St,43.66373,North,"['311', '511']","['North', 'North']",167
-096,-79.41106,5953,Bathurst St At Bloor St West,43.66501,North,['311'],['North'],096
-14780,-79.41555,14297,St Clair West Station,43.6844499,"South, West","['311', '512']","['South', 'West']",14780
-15518,-79.4113499,15361,Bathurst St At Bloor St West,43.6652399,South,"['311', '511']","['South', 'South']",15518
-15334,-79.41081,15125,Bathurst St At Lennox St,43.6638999,South,"['311', '511']","['South', 'South']",15334
-149,-79.40989,8105,Bathurst St At Harbord St,43.66161,South,"['311', '511']","['South', 'South']",149
-213,-79.40919,6594,Bathurst St At Ulster St,43.65987,South,"['311', '511']","['South', 'South']",213
-111,-79.4078599,10342,Bathurst St At College St,43.6566299,South,"['311', '511']","['South', 'South']",111
-178,-79.40695,4389,Bathurst St At Nassau St - Toronto Western Hospital,43.6543499,South,"['311', '511']","['South', 'South']",178
-127,-79.4061799,2181,Bathurst St At Dundas St West - Toronto Western Hospital,43.6524799,South,"['311', '511']","['South', 'South']",127
-193,-79.40483,9662,Bathurst St At Robinson St,43.6491,South,"['311', '511']","['South', 'South']",193
-187,-79.40413,1068,Bathurst St At Queen St West,43.64738,South,"['311', '511']","['South', 'South']",187
-162,-79.40283,5469,Bathurst St At King St West,43.6441399,South,"['311', '511']","['South', 'South']",162
-15225,-79.40198,15049,Bathurst St At Niagara St,43.6420299,South,"['311', '511']","['South', 'South']",15225
-100,-79.40077,7478,Bathurst St At Fort York Blvd,43.63895,South,"['311', '511']","['South', 'South']",100
 14958,-79.47184,14688,Gunns Loop At St Clair Ave West,43.6719099,East,"['312', '512']","['East', 'East']",14958
 14939,-79.4678399,14674,St Clair Ave West At Keele St/ Weston Rd,43.67245,East,"['312', '512']","['East', 'East']",14939
 14937,-79.46244,14672,St Clair Ave West At Old Weston Rd East Side,43.6736,East,"['312', '512']","['East', 'East']",14937
@@ -8912,7 +8907,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 2779,-79.29464,797,Kingston Rd At Glen Manor Dr,43.6796299,East,"['322', '503']","['East', 'East']",2779
 2766,-79.29089,7957,Kingston Rd At Beech Ave,43.68016,East,"['322', '503']","['East', 'East']",2766
 2794,-79.2871899,4019,Kingston Rd At Scarborough Rd,43.68047,East,"['322', '503']","['East', 'East']",2794
-2768,-79.2850999,5686,Kingston Rd At Bingham Ave,43.68065,East,['322'],['East'],2768
+2768,-79.2850999,5686,Kingston Rd At Bingham Ave,43.68065,East,"['322', '503']","['East', 'East']",2768
 12013,-79.30812,874,Warden Ave At Sheppard Ave East North Side,43.7794299,North,['324'],['North'],12013
 13462,-79.32509,6229,Warden Loop At Steeles Ave East,43.8209699,South,['324'],['South'],13462
 14258,-79.3391199,270,Don Mills Rd At Eglinton Ave East,43.7206699,"South, West","['325', '354']","['South', 'West']",14258
@@ -8989,7 +8984,6 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 15432,-79.2203699,15258,204 Staines Rd,43.8257299,West,['353'],['West'],15432
 16063,-79.41147,24463,Strachan Ave At Wellington St West,43.64109,North,['363'],['North'],16063
 14676,-79.43649,14197,Cedarvale Station,43.6994499,South,['363'],['South'],14676
-16487,-79.43003,24790,Ossington Ave At Salvador Allende Ct,43.67229,South,['363'],['South'],16487
 6051,-79.4168499,491,Queen St West At Shaw St,43.6445,South,['363'],['South'],6051
 10701,-79.54612,2223,Weston Rd At Garyray Dr,43.7677999,East,['384'],['East'],10701
 10702,-79.5454999,6573,Weston Rd At Ormont Dr,43.7649599,"East, South","['384', '989']","['East', 'South']",10702
@@ -9010,7 +9004,6 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 13874,-79.3842199,9965,Richmond St West At York St,43.6506,West,['501'],['West'],13874
 15824,-79.38357,24211,York St At King St West North Side,43.6482299,East,['503'],['East'],15824
 15838,-79.38574,24233,University Ave At Adelaide St West,43.64897,East,['503'],['East'],15838
-4265,-79.2843099,1030,Kingston Rd At Victoria Park Ave,43.68071,East,['503'],['East'],4265
 14665,-79.45346,14186,Dundas West Station,43.6568199,East,"['504', '504A']","['East', 'East']",14665
 15516,-79.4271499,15344,Dufferin St At King St West,43.6386799,East,['504B'],['East'],15516
 15461,-79.35809,15355,Cherry St At Front St East,43.6528399,East,['504A'],['East'],15461
@@ -9018,8 +9011,27 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 1252,-79.45804,5292,High Park Loop,43.6476799,East,['506'],['East'],1252
 13692,-79.47867,473,Humber Loop At The Queensway,43.6311999,West,['507'],['West'],13692
 5199,-79.4781499,9423,2111 Lake Shore Blvd West,43.62907,West,['507M'],['West'],5199
+13366,-79.41471,462,Exhibition Loop At Manitoba Dr,43.6365099,East,['509'],['East'],13366
+14508,-79.40628,12913,Fleet St At Fort York Blvd East Side,43.6362599,"East, North","['509', '511']","['East', 'North']",14508
+14512,-79.4037699,12898,Fleet St At Bastion St,43.63585,"East, North","['509', '511']","['East', 'North']",14512
+10210,-79.40013,632,Fleet St At Bathurst St,43.6364699,"East, North","['509', '511']","['East', 'North']",10210
+13371,-79.39777,1031,Queens Quay West At Bathurst St East Side Billy Bishop Airport,43.6360499,East,['509'],['East'],13371
+13369,-79.3961699,3926,Queens Quay West At Dan Leckie Way East Side,43.6368,East,['509'],['East'],13369
+13370,-79.39262,2128,Queens Quay West At Lower Spadina Ave West Side,43.6375299,West,['509'],['West'],13370
+13367,-79.3972999,1296,Queens Quay West At Dan Leckie Way West Side,43.63649,West,['509'],['West'],13367
+13368,-79.3988438,6761,Bathurst St At Queens Quay West North Side Billy Bishop Airport,43.6360064,West,['509'],['West'],13368
+13362,-79.40054,4439,Fleet St At Bathurst St West Side,43.6364199,"West, South","['509', '511']","['West', 'South']",13362
+14511,-79.4041499,12891,Fleet St At Bastion St West Side,43.6359699,"West, South","['509', '511']","['West', 'South']",14511
+14509,-79.407398,12919,Fleet St At Fort York Blvd West Side,43.6364076,"West, South","['509', '511']","['West', 'South']",14509
+13672,-79.40047,2380,Bathurst St At Fort York Blvd,43.6386799,North,['511'],['North'],13672
+15224,-79.40175,15048,Bathurst St At Niagara St,43.64178,North,['511'],['North'],15224
+161,-79.4025199,7197,Bathurst St At King St West,43.6436599,North,['511'],['North'],161
+186,-79.4039,5399,Bathurst St At Queen St West,43.6470699,North,['511'],['North'],186
+162,-79.40283,5469,Bathurst St At King St West,43.6441399,South,['511'],['South'],162
+15225,-79.40198,15049,Bathurst St At Niagara St,43.6420299,South,['511'],['South'],15225
 14778,-79.39196,14295,St Clair Station,43.6878599,West,['512'],['West'],14778
 8163,-79.4054699,5819,St Clair Ave West At Dunvegan Rd West Side,43.68586,West,['512'],['West'],8163
+14780,-79.41555,14297,St Clair West Station,43.68445,West,['512'],['West'],14780
 14871,-79.4240299,14392,St Clair Ave West At Wychwood Ave West Side,43.68208,West,['512'],['West'],14871
 14884,-79.4413799,14398,St Clair Ave West At Northcliffe Blvd West Side,43.67834,West,['512'],['West'],14884
 14936,-79.4605499,14671,St Clair Ave West At Silverthorn Ave West Side,43.6741099,West,['512'],['West'],14936
@@ -9039,7 +9051,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 14711,-79.26401,14231,Kennedy Station - Platform A,43.7322699,East,"['905B', '986']","['East', 'East']",14711
 16760,-79.61545,25286,Toronto Pearson Airport - Viscount Station,43.6896099,North,['906'],['North'],16760
 16694,-79.6196399,25273,American Dr At Viscount Rd,43.6913,North,['906'],['North'],16694
-11504,-79.59778,646,Highway 27 At Queen'S Plate Dr - Woodbine Centre,43.7224499,North,"['906', '927D', '927D', '927C']","['North', 'North', 'North', 'North']",11504
+11504,-79.59778,646,Highway 27 At Queen'S Plate Dr - Woodbine Centre,43.7224499,North,"['906', '927D', '927C', '927D']","['North', 'North', 'North', 'North']",11504
 15406,-79.6048,15247,Humber College Bus Terminal,43.7285999,North,"['906', '927D', '927D']","['North', 'North', 'North']",15406
 15404,-79.60535,15246,Humber College Bus Terminal,43.7287999,South,"['906', '927D', '927D', '927C']","['South', 'South', 'South', 'South']",15404
 11505,-79.59807,3749,Highway 27 At Queen'S Plate Dr South Side - Woodbine Centre,43.7220799,South,"['906', '927D', '927D', '927C']","['South', 'South', 'South', 'South']",11505
@@ -9048,25 +9060,23 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 14636,-79.35824,14158,Broadview Station,43.6768899,North,['925'],['North'],14636
 14626,-79.34515,14148,Don Mills Station,43.7760099,North,['925'],['North'],14626
 14624,-79.34585,14146,Don Mills Station,43.7760399,South,['925'],['South'],14624
-14722,-79.53521,14241,Kipling Station,43.6379599,North,"['927D', '927D', '927C']","['North', 'North', 'North']",14722
+14722,-79.53521,14241,Kipling Station,43.6379599,North,"['927D', '927C', '927D']","['North', 'North', 'North']",14722
 2640,-79.60118,2214,Finch Ave West At Westmore Dr,43.7344999,North,"['927D', '927D']","['North', 'North']",2640
 2610,-79.59506,3319,Finch Ave West At John Garland Blvd,43.7358899,North,"['927D', '927D']","['North', 'North']",2610
 11331,-79.5917099,560,Martin Grove Rd At Finch Ave West North Side,43.7372399,North,"['927D', '927D']","['North', 'North']",11331
-11518,-79.5999499,1078,Royalcrest Rd At Martin Grove Rd West Side,43.75221,North,['927D'],['North'],11518
-11519,-79.6039299,10104,Royalcrest Rd At Cabernet Cir,43.7513,North,['927D'],['North'],11519
-11520,-79.60713,1913,Royalcrest Rd At Leading Rd,43.7505499,North,['927D'],['North'],11520
-11521,-79.6093699,6384,Royalcrest Rd At Highway 27,43.75004,North,['927D'],['North'],11521
-11523,-79.60932,4258,Royalcrest Rd At Highway 27 East Side,43.7498999,South,['927D'],['South'],11523
-11524,-79.6070799,1439,Royalcrest Rd At Leading Rd East Side,43.75042,South,['927D'],['South'],11524
-11525,-79.60384,7380,Royalcrest Rd At Cabernet Cir East Side,43.7511499,South,['927D'],['South'],11525
-11526,-79.59964,8497,Royalcrest Rd At Martin Grove Rd,43.7521499,South,['927D'],['South'],11526
 16511,-79.59189,25046,Martin Grove Rd At Finch Ave West,43.73694,South,"['927D', '927D']","['South', 'South']",16511
 2631,-79.59475,3066,Finch Ave West At Silverstone Dr,43.7361699,South,"['927D', '927D']","['South', 'South']",2631
 16516,-79.60151,25076,Finch Ave West At Westmore Dr,43.7347099,South,"['927D', '927D']","['South', 'South']",16516
 7857,-79.6101299,1367,Humber College Blvd At Finch Ave West South Side,43.7337199,South,"['927D', '927D']","['South', 'South']",7857
+11524,-79.60708,1439,Royalcrest Rd At Leading Rd East Side,43.7504199,South,['927D'],['South'],11524
+11525,-79.60384,7380,Royalcrest Rd At Cabernet Cir East Side,43.7511499,South,['927D'],['South'],11525
+11526,-79.59964,8497,Royalcrest Rd At Martin Grove Rd,43.7521499,South,['927D'],['South'],11526
 3299,-79.58952,377,Attwell Dr At Marmac Dr South Side,43.6952399,South,['927C'],['South'],3299
 9304,-79.5887599,378,Attwell Dr At McLachlan Dr,43.6936599,South,['927C'],['South'],9304
 11202,-79.5868699,362,Farnboro Rd At Attwell Dr East Side,43.69155,South,['927C'],['South'],11202
+11518,-79.5999499,1078,Royalcrest Rd At Martin Grove Rd West Side,43.75221,North,['927D'],['North'],11518
+11519,-79.6039299,10104,Royalcrest Rd At Cabernet Cir,43.7513,North,['927D'],['North'],11519
+11520,-79.60713,1913,Royalcrest Rd At Leading Rd,43.7505499,North,['927D'],['North'],11520
 14702,-79.4836,14222,Jane Station,43.6500399,North,['935'],['North'],14702
 15578,-79.5094,23855,Pioneer Village Station,43.7769999,South,['935'],['South'],15578
 14968,-79.26745,14694,Finch Ave East At McCowan Rd West Side,43.8079199,West,"['939C', '939B']","['West', 'West']",14968
