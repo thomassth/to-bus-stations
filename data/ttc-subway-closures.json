@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 3,
+  "Count": 4,
   "Results": [
     {
       "Id": "0111207c-8dac-4b0f-b92a-a2ec9561ae59",
@@ -18,6 +18,14 @@
       "Url": "/service-advisories/subway-service/Line-6-Humber-College-to-Finch-West-Late-opening-Aug-3-2026",
       "Name": null,
       "Html": "<a title=\"Line 6 Humber College to Finch West Late opening Aug 3 2026\" href=\"/service-advisories/subway-service/Line-6-Humber-College-to-Finch-West-Late-opening-Aug-3-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 6 (Finch West)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Humber College to Finch West stations – Late opening at 4 p.m. on Monday, August 3, 2026  </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>August 3, 2026<span>&nbsp;</span></div>"
+    },
+    {
+      "Id": "c99c31c2-caa2-44fe-a750-f9107456d6b2",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Lawrence West to St George Nightly early closures Aug 4 to 6",
+      "Url": "/service-advisories/subway-service/Line-1-Lawrence-West-to-St-George-Nightly-early-closures-Aug-4-to-6",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Lawrence West to St George Nightly early closures Aug 4 to 6\" href=\"/service-advisories/subway-service/Line-1-Lawrence-West-to-St-George-Nightly-early-closures-Aug-4-to-6\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Lawrence West to St George stations – Nightly early closures starting at 1 a.m. - Tuesday, August 4 to Thursday, August 6, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">August 4, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">August 6, 2026</span></div>"
     }
   ]
 }
