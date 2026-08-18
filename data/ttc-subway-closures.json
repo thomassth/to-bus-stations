@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 4,
+  "Count": 3,
   "Results": [
-    {
-      "Id": "c9369c3e-7843-48fb-91c1-97dda3ef9003",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Sheppard West to St Clair West Early closure and full weekend closure Aug 14 to16 2026",
-      "Url": "/service-advisories/subway-service/Line-1-Sheppard-West-to-St-Clair-West-Early-closure-and-full-weekend-closure-Aug-14-to16-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 1 Sheppard West to St Clair West Early closure and full weekend closure Aug 14 to16 2026\" href=\"/service-advisories/subway-service/Line-1-Sheppard-West-to-St-Clair-West-Early-closure-and-full-weekend-closure-Aug-14-to16-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University) </span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard West to St Clair West stations – Early closure and full weekend closure - Friday, August 14 at 11:59 p.m. to end of service on Sunday, August 16, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">August 14, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">August 16, 2026</span></div>"
-    },
     {
       "Id": "33cccd52-4aaa-4cef-8e48-9b957481b5c7",
       "Language": "en",
