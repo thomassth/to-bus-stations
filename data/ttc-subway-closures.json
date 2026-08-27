@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 3,
+  "Count": 9,
   "Results": [
     {
       "Id": "60e186da-b21a-4c75-ab60-78d60b99f3f7",
@@ -10,6 +10,54 @@
       "Url": "/service-advisories/subway-service/Line-2-St-George-to-Broadview-Nightly-early-closures-Aug-31-to-Sep-3",
       "Name": null,
       "Html": "<a title=\"Line 2 St George to Broadview Nightly early closures Aug 31 to Sep 3\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Broadview-Nightly-early-closures-Aug-31-to-Sep-3\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Broadview stations – Nightly early closures starting at 11:59 p.m. – Monday, August 31 to Thursday, September 3 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">August 31, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">September 3, 2026</span></div>"
+    },
+    {
+      "Id": "6407b229-2abb-4361-b448-bda5a632b5d1",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair to College Nightly early closures Sept 8 to 11 2026",
+      "Url": "/service-advisories/subway-service/Line-1-St-Clair-to-College-Nightly-early-closures-Sept-8-to-11-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 St Clair to College Nightly early closures Sept 8 to 11 2026\" href=\"/service-advisories/subway-service/Line-1-St-Clair-to-College-Nightly-early-closures-Sept-8-to-11-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University) </span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair to College stations – Nightly early closures starting at 11:59 p.m. - Tuesday, September 8 to Friday, September 11, 2026  </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 8, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">September 11, 2026</span></div>"
+    },
+    {
+      "Id": "d98969bd-4783-45cd-849e-c13aa537d5a0",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Broadview Late opening Sept 13 2026",
+      "Url": "/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-Sept-13-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 2 St George to Broadview Late opening Sept 13 2026\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Broadview-Late-opening-Sept-13-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Broadview stations – Late opening at 11 a.m. on Sunday, September 13, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>September 13, 2026<span>&nbsp;</span></div>"
+    },
+    {
+      "Id": "e54f1a9c-0498-4033-aea0-d100ce9ef2a9",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair to College Nightly early closures Sept 14 to 18 2026",
+      "Url": "/service-advisories/subway-service/Line-1-St-Clair-to-College-Nightly-early-closures-Sept-14-to-18-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 St Clair to College Nightly early closures Sept 14 to 18 2026\" href=\"/service-advisories/subway-service/Line-1-St-Clair-to-College-Nightly-early-closures-Sept-14-to-18-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair to College stations – Nightly early closures starting at 11:59 p.m. – Monday, September 14 to Friday, September 18, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 14, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">September 18, 2026</span></div>"
+    },
+    {
+      "Id": "e4114600-1b42-494a-b081-c06d8f4c8ba1",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair to College Full weekend closure Sept 19 and 20 2026",
+      "Url": "/service-advisories/subway-service/Line-1-St-Clair-to-College-Full-weekend-closure-Sept-19-and-20-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 St Clair to College Full weekend closure Sept 19 and 20 2026\" href=\"/service-advisories/subway-service/Line-1-St-Clair-to-College-Full-weekend-closure-Sept-19-and-20-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair to College stations – Full weekend closure – Saturday, September 19 and Sunday, September 20, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 19, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">September 20, 2026</span></div>"
+    },
+    {
+      "Id": "f7f00bd1-0d75-46fa-986a-3c2254902445",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair to College Nightly early closures Sept 21 to 25 2026",
+      "Url": "/service-advisories/subway-service/Line-1-St-Clair-to-College-Nightly-early-closures-Sept-21-to-25-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 St Clair to College Nightly early closures Sept 21 to 25 2026\" href=\"/service-advisories/subway-service/Line-1-St-Clair-to-College-Nightly-early-closures-Sept-21-to-25-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair to College stations – Nightly early closures starting at 11:59 p.m. – Monday, September 21 to Friday, September 25, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 21, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">September 25, 2026</span></div>"
+    },
+    {
+      "Id": "9ac3706e-a8e5-4991-8427-521e794a26b6",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Sheppard West to St Clair West Full weekend closure Sept 26 and 27 2026",
+      "Url": "/service-advisories/subway-service/Line-1-Sheppard-West-to-St-Clair-West-Full-weekend-closure-Sept-26-and-27-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Sheppard West to St Clair West Full weekend closure Sept 26 and 27 2026\" href=\"/service-advisories/subway-service/Line-1-Sheppard-West-to-St-Clair-West-Full-weekend-closure-Sept-26-and-27-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Sheppard West to St Clair West stations – Full weekend closure – Saturday, September 26 and Sunday, September 27, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 26, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">September 27, 2026</span></div>"
     }
   ]
 }
