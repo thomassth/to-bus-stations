@@ -1,15 +1,16 @@
 Line,Location,Length of defect (metres),Distance between stations (metres),Track under reduced speed (%),Reduced speed (km/h),Normal speed (km/h),Reason,Target removal
-Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Southbound Wellesley to College,183,528,35,40,44,Track issue,TBD
+Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Southbound Wellesley to College,183,528,35,40,44,Track issue,Early October
 Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Northbound St Clair West to Cedarvale,582,"2,617",22,35,53,Track issue,Late September
 Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Northbound Glencairn to Lawrence West,183,763,24,40,52,Track issue,Early September
 Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Northbound Wilson to Sheppard West,410,"2,032",20,35,71,Track issue,Early September
-Line 1 (Yonge-University) to Finch Station,Southbound Lawrence West to Glencairn,158,750,21,20,61,Track issue,TBD
+Line 1 (Yonge-University) to Finch Station,Southbound Sheppard West to Wilson,158,"2,047",8,20,63,Track issue,TBD
+Line 1 (Yonge-University) to Finch Station,Southbound Wilson to Yorkdale,186,"1,105",17,20,60,Track issue,TBD
+Line 1 (Yonge-University) to Finch Station,Southbound Lawrence West to Glencairn,158,750,21,20,61,Track issue,Early September
 Line 1 (Yonge-University) to Finch Station,Southbound Cedarvale to St Clair West,293,"2,629",11,40,60,Track issue,Late September
 Line 1 (Yonge-University) to Finch Station,Southbound St Clair West to Dupont,279,"1,441",19,25,65,Track issue,Late October
-Line 1 (Yonge-University) to Finch Station,Northbound Union to King,168,454,37,20,36,Track issue,TBD
+Line 1 (Yonge-University) to Finch Station,Northbound Union to King,168,454,37,20,36,Track issue,Early October
 Line 1 (Yonge-University) to Finch Station,Northbound College to Wellesley,152,528,29,25,45,Track issue,Early September
-Line 1 (Yonge-University) to Finch Station,Northbound Bloor-Yonge to Rosedale,229,743,31,30,56,Track issue,TBD
-Line 1 (Yonge-University) to Finch Station,Northbound Davisville to Eglinton,174,895,19,40,48,Track issue,TBD
-Line 2 (Bloor-Danforth) to Kennedy Station,Eastbound Bay to Bloor-Yonge,168,480,35,25,46,Track issue,TBD
+Line 1 (Yonge-University) to Finch Station,Northbound Bloor-Yonge to Rosedale,229,743,31,30,56,Track issue,Early October
+Line 1 (Yonge-University) to Finch Station,Northbound Davisville to Eglinton,174,895,19,40,48,Track issue,Early December
+Line 2 (Bloor-Danforth) to Kennedy Station,Eastbound Bay to Bloor-Yonge,168,480,35,25,46,Track issue,Late September
 Line 2 (Bloor-Danforth) to Kennedy Station,Eastbound Castle Frank to Broadview,195,877,22,20,58,Track issue,TBD
-Line 2 (Bloor-Danforth) to Kipling Station,Westbound Main Street to Woodbine,192,960,20,20,63,Track issue,Early September
