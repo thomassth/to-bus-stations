@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 8,
+  "Count": 7,
   "Results": [
-    {
-      "Id": "6407b229-2abb-4361-b448-bda5a632b5d1",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair to College Nightly early closures Sept 8 to 11 2026",
-      "Url": "/service-advisories/subway-service/Line-1-St-Clair-to-College-Nightly-early-closures-Sept-8-to-11-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 1 St Clair to College Nightly early closures Sept 8 to 11 2026\" href=\"/service-advisories/subway-service/Line-1-St-Clair-to-College-Nightly-early-closures-Sept-8-to-11-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University) </span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair to College stations – Nightly early closures starting at 11:59 p.m. - Tuesday, September 8 to Friday, September 11, 2026  </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 8, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">September 11, 2026</span></div>"
-    },
     {
       "Id": "d98969bd-4783-45cd-849e-c13aa537d5a0",
       "Language": "en",
