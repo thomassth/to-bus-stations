@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 3,
+  "Count": 5,
   "Results": [
     {
       "Id": "f7f00bd1-0d75-46fa-986a-3c2254902445",
@@ -10,6 +10,22 @@
       "Url": "/service-advisories/subway-service/Line-1-St-Clair-to-College-Nightly-early-closures-Sept-21-to-24-2026",
       "Name": null,
       "Html": "<a title=\"Line 1 St Clair to College Nightly early closures Sept 21 to 24 2026\" href=\"/service-advisories/subway-service/Line-1-St-Clair-to-College-Nightly-early-closures-Sept-21-to-24-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair to College stations – Nightly early closures starting at 11:59 p.m. – Monday, September 21 to Thursday, September 24, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 21, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">September 24, 2026</span></div>"
+    },
+    {
+      "Id": "b9a5eda0-d517-4b9a-ab8f-e9b72da98df7",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch to Sheppard-Yonge Full weekend closure Sep 25 to 27 2026",
+      "Url": "/service-advisories/subway-service/Line-1-Finch-to-Sheppard-Yonge-Full-weekend-closure-Sep-25-to-27-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Finch to Sheppard-Yonge Full weekend closure Sep 25 to 27 2026\" href=\"/service-advisories/subway-service/Line-1-Finch-to-Sheppard-Yonge-Full-weekend-closure-Sep-25-to-27-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch to Sheppard-Yonge stations – Full weekend closure – starting on Friday, September 25 at 11:59 p.m. to end of service on Sunday, September 27, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 25, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">September 27, 2026</span></div>"
+    },
+    {
+      "Id": "9d0dd18c-c7f7-47a7-9192-12b0070dd7b2",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Vaughan Metropolitan Centre to Finch West Planned single-track operation Sep 28 to Oct 1 2026",
+      "Url": "/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Finch-West-Planned-single-track-operation-Sep-28-to-Oct-1-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Vaughan Metropolitan Centre to Finch West Planned single-track operation Sep 28 to Oct 1 2026\" href=\"/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Finch-West-Planned-single-track-operation-Sep-28-to-Oct-1-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Vaughan Metropolitan Centre to Finch West stations – Planned single-track operation, nightly starting at 11 p.m. from Monday, September 28 to Thursday, October 1, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 28, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">October 1, 2026</span></div>"
     }
   ]
 }
