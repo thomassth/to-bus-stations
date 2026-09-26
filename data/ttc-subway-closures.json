@@ -20,12 +20,12 @@
       "Html": "<a title=\"Line 1 Vaughan Metropolitan Centre to Finch West Planned single-track operation Sep 28 to Oct 1 2026\" href=\"/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Finch-West-Planned-single-track-operation-Sep-28-to-Oct-1-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Vaughan Metropolitan Centre to Finch West stations – Planned single-track operation, nightly starting at 11 p.m. from Monday, September 28 to Thursday, October 1, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 28, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">October 1, 2026</span></div>"
     },
     {
-      "Id": "158c009b-985a-4300-8c07-a1a7e9d09d87",
+      "Id": "3d4485c3-44a8-4ee0-8146-24bccbb82da8",
       "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Jane Nightly early closures Sep 28 to 2 2026",
-      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Jane-Nightly-early-closures-Sep-28-to-2-2026",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 St Clair to College Nightly early closures Sep 28 to Oct 2 2026",
+      "Url": "/service-advisories/subway-service/Line-1-St-Clair-to-College-Nightly-early-closures-Sep-28-to-Oct-2-2026",
       "Name": null,
-      "Html": "<a title=\"Line 2 Kipling to Jane Nightly early closures Sep 28 to 2 2026\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Jane-Nightly-early-closures-Sep-28-to-2-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Jane stations – Nightly early closures starting at 11:59 p.m. – Monday, September 28 to Friday, October 2, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 28, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">October 2, 2026</span></div>"
+      "Html": "<a title=\"Line 1 St Clair to College Nightly early closures Sep 28 to Oct 2 2026\" href=\"/service-advisories/subway-service/Line-1-St-Clair-to-College-Nightly-early-closures-Sep-28-to-Oct-2-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St Clair to College stations – Nightly early closures starting at 11:59 p.m. - Monday, September 28 to Friday, October 2, 2026  </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">September 28, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">October 2, 2026</span></div>"
     }
   ]
 }
