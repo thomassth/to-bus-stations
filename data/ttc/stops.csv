@@ -1374,10 +1374,10 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 1972,-79.33703,5763,Don Mills Rd At St Dennis Dr,43.71639,North,"['25A', '72', '325', '925']","['North', 'North', 'North', 'North']",1972
 15731,-79.33874,24108,Don Mills Rd At Eglinton Ave East - Don Valley Station,43.7202699,North,"['25A', '72', '325', '925']","['North', 'North', 'North', 'North']",15731
 1977,-79.33933,280,Don Mills Rd At Wynford Dr,43.7228499,"North, East","['25A', '325', '354']","['North', 'North', 'East']",1977
-1942,-79.34062,8401,Don Mills Rd At Green Belt Dr North Side,43.72749,"North, East","['25A', '54A', '191', '191', '325', '354', '354', '925', '954']","['North', 'East', 'North', 'North', 'North', 'East', 'East', 'North', 'East']",1942
-1922,-79.34203,8421,Don Mills Rd At The Donway East (South) North Side,43.73264,"North, East","['25A', '54A', '191', '191', '325', '354', '354']","['North', 'East', 'North', 'North', 'North', 'East', 'East']",1922
-1961,-79.34248,4950,Don Mills Rd At Clock Tower Rd,43.7342799,"North, East","['25A', '54A', '191', '191', '325', '354', '354']","['North', 'East', 'North', 'North', 'North', 'East', 'East']",1961
-1946,-79.34314,4096,Don Mills Rd At Lawrence Ave East,43.7368,"North, East","['25A', '54A', '191', '191', '325', '354', '354', '925', '954']","['North', 'East', 'North', 'North', 'North', 'East', 'East', 'North', 'East']",1946
+1942,-79.34062,8401,Don Mills Rd At Green Belt Dr North Side,43.72749,"North, East","['25A', '54B', '54A', '191', '191', '325', '354', '354', '925', '954']","['North', 'East', 'East', 'North', 'North', 'North', 'East', 'East', 'North', 'East']",1942
+1922,-79.34203,8421,Don Mills Rd At The Donway East (South) North Side,43.73264,"North, East","['25A', '54B', '54A', '191', '191', '325', '354', '354']","['North', 'East', 'East', 'North', 'North', 'North', 'East', 'East']",1922
+1961,-79.34248,4950,Don Mills Rd At Clock Tower Rd,43.7342799,"North, East","['25A', '54B', '54A', '191', '191', '325', '354', '354']","['North', 'East', 'East', 'North', 'North', 'North', 'East', 'East']",1961
+1946,-79.34314,4096,Don Mills Rd At Lawrence Ave East,43.7368,"North, East","['25A', '54B', '54A', '191', '191', '325', '354', '354', '925', '954']","['North', 'East', 'East', 'North', 'North', 'North', 'East', 'East', 'North', 'East']",1946
 1920,-79.34419,1305,Don Mills Rd At The Donway East (North),43.7406899,North,"['25A', '325']","['North', 'North']",1920
 1913,-79.34524,3286,Don Mills Rd At Chipping Rd,43.7446,North,"['25A', '325']","['North', 'North']",1913
 1948,-79.34568,5740,Don Mills Rd At Legato Crt,43.74621,North,"['25A', '325']","['North', 'North']",1948
@@ -2094,8 +2094,9 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 6254,-79.5597,2234,Bergamot Ave At Rexdale Blvd North Side,43.71387,South,['37'],['South'],6254
 6253,-79.55636,5353,Bergamot Ave At Islington Ave,43.71677,South,['37'],['South'],6253
 16390,-79.26357,24682,Kennedy Station - Platform B,43.7319799,"East, North","['38A', '133', '334A', '334A', '334A', '334B', '334B', '334A', '386', '938']","['East', 'North', 'East', 'East', 'East', 'East', 'East', 'East', 'East', 'East']",16390
-16373,-79.27499,24676,Kennedy Rd At Lawrence Ave East East Side,43.7499599,"East, North, West","['38A', '129A', '131', '133', '903A', '904', '938', '939B']","['East', 'North', 'East', 'North', 'North', 'North', 'East', 'West']",16373
-4079,-79.28087,3014,Kennedy Rd At Ellesmere Rd,43.7655999,"East, North, West","['38A', '129A', '131', '133', '903A', '904', '938', '939B']","['East', 'North', 'East', 'North', 'North', 'North', 'East', 'West']",4079
+16912,-79.26703,25471,Tara Avenue,43.7426799,"East, North, West","['38A', '129A', '131', '133', '154', '903A', '904', '938', '939B']","['East', 'North', 'East', 'North', 'East', 'North', 'North', 'East', 'West']",16912
+16914,-79.26996,25473,Lawrence East,43.7496399,"East, North, West","['38A', '129A', '131', '133', '154', '903A', '904', '938', '939B']","['East', 'North', 'East', 'North', 'East', 'North', 'North', 'East', 'West']",16914
+16916,-79.27646,25475,Ellesmere,43.7668199,"East, North, West","['38A', '129A', '131', '133', '903A', '904', '938', '939B']","['East', 'North', 'East', 'North', 'North', 'North', 'East', 'West']",16916
 16374,-79.2704,24677,Ellesmere Rd At Midland Ave East Side,43.7679899,"East, North, West","['38A', '129A', '131', '133', '903A', '904', '938', '939B']","['East', 'North', 'East', 'North', 'North', 'North', 'East', 'West']",16374
 16335,-79.25638,24580,Scarborough Centre Station,43.7748099,East,"['38A', '938']","['East', 'East']",16335
 9604,-79.25047,351,Ellesmere Rd At McCowan Rd East Side,43.7722499,"East, North","['38A', '133']","['East', 'North']",9604
@@ -2161,8 +2162,10 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 7712,-79.24584,5002,Ellesmere Rd At Parkington Cres,43.7735399,"West, South","['38', '95', '95', '133', '395']","['West', 'West', 'West', 'South', 'West']",7712
 7695,-79.25116,8644,Ellesmere Rd At McCowan Rd,43.7723699,"West, South","['38', '95', '95', '133', '395', '995']","['West', 'West', 'West', 'South', 'West', 'West']",7695
 14766,-79.25725,14285,Scarborough Centre Station,43.7744999,"West, South, East","['38', '129', '131', '131', '133', '903A', '904', '938', '939B']","['West', 'South', 'West', 'West', 'South', 'South', 'South', 'West', 'East']",14766
-16375,-79.27116,24678,Midland Ave At Ellesmere Rd South Side,43.7674699,"West, South, East","['38', '129', '131', '131', '133', '903A', '904', '938', '939B']","['West', 'South', 'West', 'West', 'South', 'South', 'South', 'West', 'East']",16375
-16376,-79.265,24679,Midland Ave At Lawrence Ave East South Side,43.7507699,"West, South, East","['38', '129', '131', '131', '133', '154', '903A', '904', '938', '939B']","['West', 'South', 'West', 'West', 'South', 'West', 'South', 'South', 'West', 'East']",16376
+7697,-79.2707899,2799,Ellesmere Rd At Midland Ave,43.76815,"West, South, East","['38', '95', '95', '129', '131', '131', '133', '395', '903A', '904', '938', '939B', '995', '996']","['West', 'West', 'West', 'South', 'West', 'West', 'South', 'West', 'South', 'South', 'West', 'East', 'West', 'West']",7697
+16917,-79.27653,25476,Ellesmere,43.7664699,"West, South, East","['38', '129', '131', '131', '133', '903A', '904', '938', '939B']","['West', 'South', 'West', 'West', 'South', 'South', 'South', 'West', 'East']",16917
+16915,-79.27,25474,Lawrence East,43.7493799,"West, South, East","['38', '129', '131', '131', '133', '154', '903A', '904', '938', '939B']","['West', 'South', 'West', 'West', 'South', 'West', 'South', 'South', 'West', 'East']",16915
+16913,-79.26692,25472,Tara Avenue,43.7420299,"West, South, East","['38', '129', '131', '131', '133', '154', '903A', '904', '938', '939B']","['West', 'South', 'West', 'West', 'South', 'West', 'South', 'South', 'West', 'East']",16913
 14690,-79.41506,14210,Finch Station,43.7811099,East,['39C'],['East'],14690
 2516,-79.4125199,5410,Finch Ave East At Kenneth Ave,43.78032,East,"['39C', '39B', '339']","['East', 'East', 'East']",2516
 2507,-79.40983,4707,Finch Ave East At Dudley Ave,43.7809299,East,"['39C', '39B', '339']","['East', 'East', 'East']",2507
@@ -3511,7 +3514,8 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 5238,-79.25581,5937,Lawrence Ave East At Brimley Rd West Side,43.7535499,West,"['54', '154', '354']","['West', 'West', 'West']",5238
 16737,-79.25975,25161,Lawrence Ave East At Danielle Moore Cir West Side,43.7527299,West,"['54', '154', '354']","['West', 'West', 'West']",16737
 5240,-79.26236,2658,Lawrence Ave East At Brockley Dr,43.7522099,West,"['54', '154', '354', '954']","['West', 'West', 'West', 'West']",5240
-5293,-79.2657099,5823,Lawrence Ave East At Midland Ave West Side,43.7515299,West,"['54', '354', '954']","['West', 'West', 'West']",5293
+5293,-79.2657099,5823,Lawrence Ave East At Midland Ave West Side,43.7515299,West,"['54', '154', '354', '954']","['West', 'West', 'West', 'West']",5293
+14728,-79.27036,14247,Lawrence East Station,43.75035,West,"['54', '954']","['West', 'West']",14728
 5280,-79.27563,9844,Lawrence Ave East At Kennedy Rd West Side,43.7495099,West,"['54', '354', '954']","['West', 'West', 'West']",5280
 5253,-79.2795199,8849,2216 Lawrence Ave East,43.7487199,West,"['54', '354']","['West', 'West']",5253
 15243,-79.28463,24123,Lawrence Ave East At Birchmount Rd,43.7476799,West,"['54', '354', '954']","['West', 'West', 'West']",15243
@@ -3530,46 +3534,49 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 14255,-79.34344,273,Don Mills Rd At Lawrence Ave East South Side,43.7366299,"West, South","['54', '191', '191', '354', '954']","['West', 'South', 'South', 'West', 'West']",14255
 4720,-79.33834,7497,Wynford Dr At Don Mills Rd East Side,43.7231,"West, East, South","['54', '162', '191', '191']","['West', 'East', 'South', 'South']",4720
 4725,-79.3365899,4391,Wynford Dr At Gervais Dr,43.72339,"West, East, South","['54', '162', '191', '191']","['West', 'East', 'South', 'South']",4725
-16603,-79.33768,24879,Don Valley Station,43.7215999,East,"['54A', '354', '954']","['East', 'East', 'East']",16603
-16748,-79.3391799,25204,Wynford Dr At Don Mills Rd,43.7231599,"East, West, North","['54A', '162', '191', '191']","['East', 'West', 'North', 'North']",16748
-5259,-79.34112,9562,Lawrence Ave East At The Donway East,43.7375699,"East, North","['54A', '191', '191', '354', '354', '954']","['East', 'North', 'North', 'East', 'East', 'East']",5259
-5275,-79.3375299,6191,Lawrence Ave East At Greenland Rd East Side,43.73833,"East, North","['54A', '191', '191', '354', '354']","['East', 'North', 'North', 'East', 'East']",5275
-5313,-79.32382,4299,Lawrence Ave East At Railside Rd (West) East Side,43.74074,"East, South","['54A', '91', '91', '354', '354', '954']","['East', 'South', 'South', 'East', 'East', 'East']",5313
-5312,-79.3197,10194,Lawrence Ave East At Railside Rd (East),43.74104,"East, South","['54A', '91', '91', '354', '354']","['East', 'South', 'South', 'East', 'East']",5312
-5245,-79.31382,10210,Lawrence Ave East At Carnforth Rd East Side,43.74139,"East, South","['54A', '91', '91', '354', '354']","['East', 'South', 'South', 'East', 'East']",5245
-5328,-79.3100799,4536,Lawrence Ave East At Victoria Park Ave,43.7419,East,"['54A', '354', '354', '954']","['East', 'East', 'East', 'East']",5328
-16527,-79.30756,24799,Lawrence Ave East At Townley Ave,43.7425199,East,"['54A', '354', '354']","['East', 'East', 'East']",16527
-5305,-79.30486,2679,Lawrence Ave East At Pharmacy Ave,43.7430299,East,"['54A', '354', '354', '954']","['East', 'East', 'East', 'East']",5305
-16526,-79.3009,24798,Lawrence Ave East At Elinor Ave,43.7439399,East,"['54A', '354', '354']","['East', 'East', 'East']",16526
-5330,-79.2950099,7761,Lawrence Ave East At Warden Ave,43.74519,East,"['54A', '354', '354', '954']","['East', 'East', 'East', 'East']",5330
-5255,-79.29154,2932,Lawrence Ave East At Crockford Blvd,43.7459299,East,"['54A', '354', '354']","['East', 'East', 'East']",5255
-5325,-79.2882699,9065,Lawrence Ave East At Underwriters Rd,43.74663,East,"['54A', '354', '354']","['East', 'East', 'East']",5325
-11676,-79.2851299,7578,Lawrence Ave East At Birchmount Rd,43.74729,East,"['54A', '354', '354', '954']","['East', 'East', 'East', 'East']",11676
-16611,-79.2798299,25367,2231 Lawrence Ave East,43.74843,East,"['54A', '354', '354']","['East', 'East', 'East']",16611
-5279,-79.27428,9129,Lawrence Ave East At Kennedy Rd East Side,43.7494799,East,"['54A', '154', '354', '354', '954']","['East', 'East', 'East', 'East', 'East']",5279
-5311,-79.26666,8634,Lawrence Ave East At Prudential Dr East Side,43.75106,East,"['54A', '154', '354', '354']","['East', 'East', 'East', 'East']",5311
-5294,-79.26421,8843,Lawrence Ave East At Midland Ave East Side,43.7515799,East,"['54A', '154', '354', '354', '954']","['East', 'East', 'East', 'East', 'East']",5294
-9930,-79.26141,4339,Lawrence Ave East At Brockley Dr East Side,43.75215,East,"['54A', '154', '354', '354']","['East', 'East', 'East', 'East']",9930
-5286,-79.25864,9684,Lawrence Ave East At Marcos Blvd,43.7526999,East,"['54A', '154', '354', '354']","['East', 'East', 'East', 'East']",5286
-5239,-79.2556,6926,Lawrence Ave East At Brimley Rd,43.75332,East,"['54A', '154', '354', '354']","['East', 'East', 'East', 'East']",5239
-5229,-79.2516699,2744,Lawrence Ave East At Barrymore Rd,43.75413,East,"['54A', '154', '354', '354']","['East', 'East', 'East', 'East']",5229
-16865,-79.2468899,25423,Lawrence Ave E At Valparaiso Ave - Scarborough General Hospital,43.75514,East,"['54A', '154', '354', '354', '954']","['East', 'East', 'East', 'East', 'East']",16865
-5242,-79.23971,6421,Lawrence Ave East At Burnview Cres East Side,43.7566499,East,"['54A', '154', '354', '354']","['East', 'East', 'East', 'East']",5242
-5235,-79.2381799,8222,Lawrence Ave East At Ben Stanton Blvd East Side,43.75696,East,"['54A', '154', '354', '354']","['East', 'East', 'East', 'East']",5235
-5233,-79.23561,9794,Lawrence Ave East At Bellamy Rd North,43.7575099,East,"['54A', '154', '354', '354']","['East', 'East', 'East', 'East']",5233
-5273,-79.23268,9247,Lawrence Ave East At Greencedar Circt East Side,43.75814,East,"['54A', '154', '354', '354']","['East', 'East', 'East', 'East']",5273
-5307,-79.2299699,2151,Lawrence Ave East At Cedarbrae Mall,43.7587,East,"['54A', '154', '354', '354']","['East', 'East', 'East', 'East']",5307
-9503,-79.22555,7724,Lawrence Ave East At Markham Rd,43.75963,East,"['54A', '154', '354', '354', '954']","['East', 'East', 'East', 'East', 'East']",9503
-5274,-79.22308,5340,Lawrence Ave East At Greencrest Circt East Side,43.7601399,East,"['54A', '154', '354', '354', '954']","['East', 'East', 'East', 'East', 'East']",5274
-5264,-79.2198199,958,Lawrence Ave East At Fortune Gate East Side,43.76084,East,"['54A', '154', '354', '354', '954']","['East', 'East', 'East', 'East', 'East']",5264
-5316,-79.2161199,4285,Lawrence Ave East At Scarborough Golf Club Rd,43.76165,East,"['54A', '354', '354', '954']","['East', 'East', 'East', 'East']",5316
-5297,-79.21118,4059,Lawrence Ave East At Mossbank Dr,43.7627299,East,"['54A', '354', '354']","['East', 'East', 'East']",5297
-5319,-79.2090699,9495,Lawrence Ave East At Susan St,43.76316,East,"['54A', '354', '354']","['East', 'East', 'East']",5319
-5299,-79.2057699,448,Lawrence Ave East At Orton Park Rd,43.76388,East,"['54A', '354', '354', '954']","['East', 'East', 'East', 'East']",5299
-5302,-79.1995499,6381,Lawrence Ave East At Overture Rd,43.76531,East,"['54A', '354', '354']","['East', 'East', 'East']",5302
-5266,-79.19657,10020,Lawrence Ave East At Galloway Rd,43.7659799,East,"['54A', '354', '354', '954']","['East', 'East', 'East', 'East']",5266
-5228,-79.19325,5393,4121 Lawrence Ave East,43.7667099,East,"['54A', '354', '354']","['East', 'East', 'East']",5228
-5281,-79.1901299,5270,Lawrence Ave East At Kingston Rd,43.76743,East,"['54A', '354', '354', '954']","['East', 'East', 'East', 'East']",5281
+16603,-79.33768,24879,Don Valley Station,43.7215999,East,"['54B', '54A', '354', '954']","['East', 'East', 'East', 'East']",16603
+16748,-79.3391799,25204,Wynford Dr At Don Mills Rd,43.7231599,"East, West, North","['54B', '54A', '162', '191', '191']","['East', 'East', 'West', 'North', 'North']",16748
+5259,-79.34112,9562,Lawrence Ave East At The Donway East,43.7375699,"East, North","['54B', '54A', '191', '191', '354', '354', '954']","['East', 'East', 'North', 'North', 'East', 'East', 'East']",5259
+5275,-79.3375299,6191,Lawrence Ave East At Greenland Rd East Side,43.73833,"East, North","['54B', '54A', '191', '191', '354', '354']","['East', 'East', 'North', 'North', 'East', 'East']",5275
+5313,-79.32382,4299,Lawrence Ave East At Railside Rd (West) East Side,43.74074,"East, South","['54B', '54A', '91', '91', '354', '354', '954']","['East', 'East', 'South', 'South', 'East', 'East', 'East']",5313
+5312,-79.3197,10194,Lawrence Ave East At Railside Rd (East),43.74104,"East, South","['54B', '54A', '91', '91', '354', '354']","['East', 'East', 'South', 'South', 'East', 'East']",5312
+5245,-79.31382,10210,Lawrence Ave East At Carnforth Rd East Side,43.74139,"East, South","['54B', '54A', '91', '91', '354', '354']","['East', 'East', 'South', 'South', 'East', 'East']",5245
+5328,-79.3100799,4536,Lawrence Ave East At Victoria Park Ave,43.7419,East,"['54B', '54A', '354', '354', '954']","['East', 'East', 'East', 'East', 'East']",5328
+16527,-79.30756,24799,Lawrence Ave East At Townley Ave,43.7425199,East,"['54B', '54A', '354', '354']","['East', 'East', 'East', 'East']",16527
+5305,-79.30486,2679,Lawrence Ave East At Pharmacy Ave,43.7430299,East,"['54B', '54A', '354', '354', '954']","['East', 'East', 'East', 'East', 'East']",5305
+16526,-79.3009,24798,Lawrence Ave East At Elinor Ave,43.7439399,East,"['54B', '54A', '354', '354']","['East', 'East', 'East', 'East']",16526
+5330,-79.2950099,7761,Lawrence Ave East At Warden Ave,43.74519,East,"['54B', '54A', '354', '354', '954']","['East', 'East', 'East', 'East', 'East']",5330
+5255,-79.29154,2932,Lawrence Ave East At Crockford Blvd,43.7459299,East,"['54B', '54A', '354', '354']","['East', 'East', 'East', 'East']",5255
+5325,-79.2882699,9065,Lawrence Ave East At Underwriters Rd,43.74663,East,"['54B', '54A', '354', '354']","['East', 'East', 'East', 'East']",5325
+11676,-79.2851299,7578,Lawrence Ave East At Birchmount Rd,43.74729,East,"['54B', '54A', '354', '354', '954']","['East', 'East', 'East', 'East', 'East']",11676
+16611,-79.2798299,25367,2231 Lawrence Ave East,43.74843,East,"['54B', '54A', '354', '354']","['East', 'East', 'East', 'East']",16611
+5279,-79.27428,9129,Lawrence Ave East At Kennedy Rd East Side,43.7494799,East,"['54B', '54A', '354', '354', '954']","['East', 'East', 'East', 'East', 'East']",5279
+14729,-79.27043,14248,Lawrence East Station,43.75053,East,['54B'],['East'],14729
+5311,-79.26666,8634,Lawrence Ave East At Prudential Dr East Side,43.75106,East,"['54B', '54A', '154', '354', '354']","['East', 'East', 'East', 'East', 'East']",5311
+5294,-79.26421,8843,Lawrence Ave East At Midland Ave East Side,43.7515799,East,"['54B', '54A', '154', '354', '354', '954']","['East', 'East', 'East', 'East', 'East', 'East']",5294
+9930,-79.26141,4339,Lawrence Ave East At Brockley Dr East Side,43.75215,East,"['54B', '54A', '154', '354', '354']","['East', 'East', 'East', 'East', 'East']",9930
+5286,-79.25864,9684,Lawrence Ave East At Marcos Blvd,43.7526999,East,"['54B', '54A', '154', '354', '354']","['East', 'East', 'East', 'East', 'East']",5286
+5239,-79.2555999,6926,Lawrence Ave East At Brimley Rd,43.75332,East,"['54B', '54A', '154', '354', '354']","['East', 'East', 'East', 'East', 'East']",5239
+5229,-79.2516699,2744,Lawrence Ave East At Barrymore Rd,43.75413,East,"['54B', '54A', '154', '354', '354']","['East', 'East', 'East', 'East', 'East']",5229
+16865,-79.2468899,25423,Lawrence Ave E At Valparaiso Ave - Scarborough General Hospital,43.75514,East,"['54B', '54A', '154', '354', '354', '954']","['East', 'East', 'East', 'East', 'East', 'East']",16865
+5242,-79.23971,6421,Lawrence Ave East At Burnview Cres East Side,43.7566499,East,"['54B', '54A', '154', '354', '354']","['East', 'East', 'East', 'East', 'East']",5242
+5235,-79.2381799,8222,Lawrence Ave East At Ben Stanton Blvd East Side,43.75696,East,"['54B', '54A', '154', '354', '354']","['East', 'East', 'East', 'East', 'East']",5235
+5233,-79.23561,9794,Lawrence Ave East At Bellamy Rd North,43.7575099,East,"['54B', '54A', '154', '354', '354']","['East', 'East', 'East', 'East', 'East']",5233
+5273,-79.23268,9247,Lawrence Ave East At Greencedar Circt East Side,43.75814,East,"['54B', '54A', '154', '354', '354']","['East', 'East', 'East', 'East', 'East']",5273
+5307,-79.2299699,2151,Lawrence Ave East At Cedarbrae Mall,43.7587,East,"['54B', '54A', '154', '354', '354']","['East', 'East', 'East', 'East', 'East']",5307
+9503,-79.22555,7724,Lawrence Ave East At Markham Rd,43.75963,East,"['54B', '54A', '154', '354', '354', '954']","['East', 'East', 'East', 'East', 'East', 'East']",9503
+5274,-79.22308,5340,Lawrence Ave East At Greencrest Circt East Side,43.7601399,East,"['54B', '54A', '154', '354', '354', '954']","['East', 'East', 'East', 'East', 'East', 'East']",5274
+5264,-79.2198199,958,Lawrence Ave East At Fortune Gate East Side,43.76084,East,"['54B', '54A', '154', '354', '354', '954']","['East', 'East', 'East', 'East', 'East', 'East']",5264
+5316,-79.2161199,4285,Lawrence Ave East At Scarborough Golf Club Rd,43.76165,East,"['54B', '54A', '354', '354', '954']","['East', 'East', 'East', 'East', 'East']",5316
+5297,-79.21118,4059,Lawrence Ave East At Mossbank Dr,43.7627299,East,"['54B', '54A', '354', '354']","['East', 'East', 'East', 'East']",5297
+5319,-79.2090699,9495,Lawrence Ave East At Susan St,43.76316,East,"['54B', '54A', '354', '354']","['East', 'East', 'East', 'East']",5319
+5299,-79.2057699,448,Lawrence Ave East At Orton Park Rd,43.76388,East,"['54B', '54A', '354', '354', '954']","['East', 'East', 'East', 'East', 'East']",5299
+5302,-79.1995499,6381,Lawrence Ave East At Overture Rd,43.76531,East,"['54B', '54A', '354', '354']","['East', 'East', 'East', 'East']",5302
+5266,-79.19657,10020,Lawrence Ave East At Galloway Rd,43.7659799,East,"['54B', '54A', '354', '354', '954']","['East', 'East', 'East', 'East', 'East']",5266
+5228,-79.19325,5393,4121 Lawrence Ave East,43.7667099,East,"['54B', '54A', '354', '354']","['East', 'East', 'East', 'East']",5228
+5281,-79.1901299,5270,Lawrence Ave East At Kingston Rd,43.76743,East,"['54B', '54A', '354', '354', '954']","['East', 'East', 'East', 'East', 'East']",5281
+16766,-79.1865,25288,255 Morningside Ave,43.7699499,East,"['54B', '116', '334B', '334B']","['East', 'East', 'East', 'East']",16766
+14730,-79.2705,14249,Lawrence East Station,43.7506699,East,"['54A', '954']","['East', 'East']",14730
 4423,-79.18655,7708,Lawrence Ave East At Morningside Ave,43.7682099,East,"['54A', '86D', '354', '354', '954']","['East', 'East', 'East', 'East', 'East']",4423
 4419,-79.18293,7274,Lawrence Ave East At Ling Rd,43.7689999,East,"['54A', '86D', '354', '354', '954']","['East', 'East', 'East', 'East', 'East']",4419
 4418,-79.1803299,3887,Lawrence Ave East At Homestead Rd,43.76964,East,"['54A', '86D', '354', '354', '954']","['East', 'East', 'East', 'East', 'East']",4418
@@ -3767,7 +3774,7 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 9261,-79.5971199,5408,Steeles Ave West At Gihon Spring Dr,43.7591,East,"['60', '60', '353', '960B']","['East', 'East', 'East', 'East']",9261
 9262,-79.5929599,9724,Steeles Ave West At Walkway To Cathy Jean Cres,43.75931,East,"['60', '60', '353', '960B']","['East', 'East', 'East', 'East']",9262
 9826,-79.5900699,5978,Steeles Ave West At Kipling Ave,43.75939,East,"['60', '60', '353', '960B']","['East', 'East', 'East', 'East']",9826
-10866,-79.58636,5632,Steeles Ave West At Markbrook Lane,43.7599399,"East, South","['60', '60', '353', '373', '960B']","['East', 'East', 'East', 'South', 'East']",10866
+10866,-79.58638,5632,Steeles Ave West At Markbrook Lane,43.7599899,"East, South","['60', '60', '353', '373', '960B']","['East', 'East', 'East', 'South', 'East']",10866
 8284,-79.57411,2513,Steeles Ave West At Islington Ave East Side,43.7643299,"East, South","['60', '60', '166', '353', '373', '384', '960B']","['East', 'East', 'East', 'East', 'South', 'East', 'East']",8284
 8272,-79.57122,6490,Steeles Ave West At Walkway To Plunkett Rd,43.7649699,"East, South","['60', '60', '166', '353', '373', '384', '960B']","['East', 'East', 'East', 'East', 'South', 'East', 'East']",8272
 8271,-79.5637499,7180,Steeles Ave West At Fenmar Dr East Side,43.76657,"East, South","['60', '60', '166', '353', '373', '384', '960B']","['East', 'East', 'East', 'East', 'South', 'East', 'East']",8271
@@ -5678,7 +5685,6 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 7672,-79.2644499,5817,1300 Ellesmere Rd,43.7695399,West,"['95', '95', '395']","['West', 'West', 'West']",7672
 7681,-79.26641,4421,Ellesmere Rd At Birkdale Rd,43.7690999,West,"['95', '95', '395']","['West', 'West', 'West']",7681
 7707,-79.2687099,3761,Ellesmere Rd At Oakley Blvd,43.7686,West,"['95', '95', '395']","['West', 'West', 'West']",7707
-7697,-79.2707899,2799,Ellesmere Rd At Midland Ave,43.76815,West,"['95', '95', '395', '995', '996']","['West', 'West', 'West', 'West', 'West']",7697
 9619,-79.2725999,350,Ellesmere Rd At East Service Rd,43.76774,West,"['95', '95', '395']","['West', 'West', 'West']",9619
 9620,-79.27868,355,Ellesmere Rd At West Service Rd,43.7664599,West,"['95', '95', '395']","['West', 'West', 'West']",9620
 7692,-79.2807599,2010,Ellesmere Rd At Kennedy Rd,43.76602,West,"['95', '95', '395', '995', '996']","['West', 'West', 'West', 'West', 'West']",7692
@@ -6931,7 +6937,6 @@ stopId,lon,tag,title,lat,directions,lines,directionPerLine,id
 2940,-79.1847499,5082,Morningside Ave At Danzig St,43.7647699,East,"['116', '334B', '334B']","['East', 'East', 'East']",2940
 2954,-79.1855,8259,Morningside Ave At Ling Rd,43.7665,East,"['116', '334B', '334B']","['East', 'East', 'East']",2954
 2952,-79.18603,8058,Morningside Ave At Lawrence Ave East South Side,43.76823,East,"['116', '334B', '334B']","['East', 'East', 'East']",2952
-16766,-79.1865,25288,255 Morningside Ave,43.7699499,East,"['116', '334B', '334B']","['East', 'East', 'East']",16766
 2958,-79.19396,2254,Morningside Ave At Military Trail,43.7888699,East,['116'],['East'],2958
 2933,-79.1952999,3345,Morningside Ave At Tams Rd,43.7919099,East,['116'],['East'],2933
 14327,-79.19745,8862,Morningside Ave At Cinemart Dr,43.79771,East,['116'],['East'],14327
