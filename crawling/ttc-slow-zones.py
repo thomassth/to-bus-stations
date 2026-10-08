@@ -1,7 +1,7 @@
 # %%
-import requests
-import json
 from pathlib import Path
+
+import requests
 
 # %%
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64); to-bus-stations'}
@@ -13,6 +13,3 @@ print(response)
 # store the result into a json file.
 with open(path + '/ttc-slow-zones.html', 'w',  encoding='utf-8') as outfile:
     outfile.write(response.text)
-
-
-

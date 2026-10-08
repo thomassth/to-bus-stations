@@ -1,8 +1,9 @@
 # %%
-from bs4 import BeautifulSoup
-import requests
-import pandas as pd
 from pathlib import Path
+
+import pandas as pd
+import requests
+from bs4 import BeautifulSoup
 
 # %%
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64); to-bus-stations'}
@@ -59,7 +60,7 @@ for row_index,table in enumerate(tables):
         row_data = [col.get_text(strip=True) for col in cols]
         row_data.insert(0, table_name)
         rows.append(row_data)
-    
+
     table_header=rows[0]
     df = pd.DataFrame(rows[1:])
     slow_zone_table.append(df)
@@ -79,6 +80,3 @@ Path(path).mkdir(parents=True, exist_ok=True)
 
 # Save to CSV
 merged.to_csv(path + 'ttc-slow-zones.csv', index=False, header=False)
-
-
-

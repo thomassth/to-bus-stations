@@ -1,7 +1,8 @@
 # %%
-import requests
 import json
 from pathlib import Path
+
+import requests
 
 # %%
 # Part 1: get a list of routes
@@ -26,5 +27,3 @@ for route in routes:
   with open(path + '/' + str(route) + '.json', 'w') as outfile:
     print('now processing ' + str(route))
     json.dump(response.json(), outfile)
-
-

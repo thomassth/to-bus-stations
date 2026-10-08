@@ -1,7 +1,8 @@
 # %%
-import requests
 import json
 from pathlib import Path
+
+import requests
 
 # %%
 # Part 1: get a list of routes
@@ -17,7 +18,7 @@ routesData = data['result']['lines']
 
 for route in routesData:
   line_number=route['lineAbbr'].replace("|", "_")
-  print('now processing ' + str(line_number))  
+  print('now processing ' + str(line_number))
   # making a POST request
   data = {
     "version":"1.1","method":"GetLineDetails","params":{"lineId":route['lineIdContexts'][0]['lineId']}
@@ -29,5 +30,3 @@ for route in routesData:
   # store the result into a json file.
   with open(path + '/' + str(line_number) + '.json', 'w') as outfile:
     json.dump(response.json(), outfile)
-
-

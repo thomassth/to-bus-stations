@@ -28,11 +28,19 @@ for i, html in enumerate(html_parts):
     effective_date_elem = soup.select_one('.sa-effective-date').get_text()
     line_text = soup.select_one('.field-routename').get_text()
     desc_text = soup.select_one('.field-satitle').get_text()
+    start_date_elem = soup.select_one('.starteffectivedate')
+    end_date_elem = soup.select_one('.endeffectivedate')
 
 
     start_date = ''
     end_date = ''
-    if "to" in effective_date_elem:
+    if(start_date_elem):
+        start_date = clean_text(start_date_elem.get_text())
+        if (end_date_elem):
+            end_date = clean_text(end_date_elem.get_text())
+        else:
+            end_date = start_date
+    elif "to " in clean_text(effective_date_elem):
         start_date, end_date = [d.strip() for d in effective_date_elem.split("to ", 1)]
     else:
         start_date = effective_date_elem
