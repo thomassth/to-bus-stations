@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 4,
+  "Count": 6,
   "Results": [
     {
       "Id": "9b013f73-5c4c-4510-b89f-c4f7929fd283",
@@ -18,6 +18,22 @@
       "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Jane-Nightly-early-closures-Oct-13-to-16-2026",
       "Name": null,
       "Html": "<a title=\"Line 2 Kipling to Jane Nightly early closures Oct 13 to 16 2026\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Jane-Nightly-early-closures-Oct-13-to-16-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Jane stations – Nightly early closures starting at 11:59 p.m. – Tuesday, October 13 to Friday, October 16, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">October 13, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">October 16, 2026</span></div>"
+    },
+    {
+      "Id": "05266118-5b16-4146-8af1-e191e7bcfdf3",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 York Mills to Eglinton Nightly early closures Oct 19 to 22 2026",
+      "Url": "/service-advisories/subway-service/Line-1-York-Mills-to-Eglinton-Nightly-early-closures-Oct-19-to-22-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 York Mills to Eglinton Nightly early closures Oct 19 to 22 2026\" href=\"/service-advisories/subway-service/Line-1-York-Mills-to-Eglinton-Nightly-early-closures-Oct-19-to-22-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">York Mills to Eglinton stations – Nightly early closures starting at 11 p.m. – Monday, October 19 to Thursday, October 22, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">October 19, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">October 22, 2026</span></div>"
+    },
+    {
+      "Id": "4f84747f-b154-4a26-96c8-638bdd212328",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Jane Nightly early closures Oct 19 to 23 2026",
+      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Jane-Nightly-early-closures-Oct-19-to-23-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Kipling to Jane Nightly early closures Oct 19 to 23 2026\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Jane-Nightly-early-closures-Oct-19-to-23-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Jane stations – Nightly early closures starting at 11:59 p.m. – Monday, October 19 to Friday, October 23, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">October 19, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">October 23, 2026</span></div>"
     }
   ]
 }
