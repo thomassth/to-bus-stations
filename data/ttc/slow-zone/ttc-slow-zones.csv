@@ -1,6 +1,5 @@
 Line,Location,Length of defect (metres),Distance between stations (metres),Track under reduced speed (%),Reduced speed (km/h),Normal speed (km/h),Reason,Target removal
 Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Southbound Sheppard-Yonge to York Mills,168,"1,957",9,25,56,Track issue,TBD
-Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Southbound Eglinton to Davisville,158,891,18,15,44,Track issue,Late October
 Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Northbound St Clair West to Cedarvale,582,"2,617",22,35,53,Track issue,Late November
 Line 1 (Yonge-University) to Vaughan Metropolitan Centre Station,Northbound Wilson to Sheppard West,410,"2,032",20,35,71,Track issue,Early November
 Line 1 (Yonge-University) to Finch Station,Southbound Cedarvale to St Clair West,293,"2,629",11,40,60,Track issue,Late November
