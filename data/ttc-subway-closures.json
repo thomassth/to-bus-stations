@@ -1,24 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 8,
+  "Count": 6,
   "Results": [
-    {
-      "Id": "7b21c607-23a8-484e-bf80-02bae7c24a16",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Jane Single-day closure Oct 24 2026",
-      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Jane-Single-day-closure-Oct-24-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Kipling to Jane Single-day closure Oct 24 2026\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Jane-Single-day-closure-Oct-24-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Jane stations – Single-day closure – Saturday, October 24, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>October 24, 2026<span>&nbsp;</span></div>"
-    },
-    {
-      "Id": "39f95faa-ab5a-4e06-8423-d3552ded5e3c",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Keele Single day closure Oct 25 2026",
-      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Keele-Single-day-closure-Oct-25-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Kipling to Keele Single day closure Oct 25 2026\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Keele-Single-day-closure-Oct-25-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Keele stations – Single-day closure – Sunday, October 25, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>October 25, 2026<span>&nbsp;</span></div>"
-    },
     {
       "Id": "9248bf9a-0208-4afb-b179-142919a3359b",
       "Language": "en",
