@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 6,
+  "Count": 7,
   "Results": [
     {
       "Id": "9248bf9a-0208-4afb-b179-142919a3359b",
@@ -34,6 +34,14 @@
       "Url": "/service-advisories/subway-service/Line-1-Lawrence-West-to-St-Andrew-Nightly-early-closures-Nov-2-to-6-2026",
       "Name": null,
       "Html": "<a title=\"Line 1 Lawrence West to St Andrew Nightly early closures Nov 2 to 6 2026\" href=\"/service-advisories/subway-service/Line-1-Lawrence-West-to-St-Andrew-Nightly-early-closures-Nov-2-to-6-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University) </span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Lawrence West to St Andrew stations – Nightly early closures starting at 11:59 p.m. – Monday, November 2 to Friday, November 6, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 2, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 6, 2026</span></div>"
+    },
+    {
+      "Id": "609544b6-7bf5-474c-8a1c-f02c873f2d68",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Broadview Full weekend closure Nov 7 and 8 2026",
+      "Url": "/service-advisories/subway-service/Line-2-St-George-to-Broadview-Full-weekend-closure-Nov-7-and-8-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 2 St George to Broadview Full weekend closure Nov 7 and 8 2026\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Broadview-Full-weekend-closure-Nov-7-and-8-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Broadview stations – Full weekend closure – Saturday, November 7 and Sunday, November 8, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 7, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 8, 2026</span></div>"
     }
   ]
 }
