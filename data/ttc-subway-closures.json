@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 7,
+  "Count": 8,
   "Results": [
     {
       "Id": "9248bf9a-0208-4afb-b179-142919a3359b",
@@ -42,6 +42,14 @@
       "Url": "/service-advisories/subway-service/Line-2-St-George-to-Broadview-Full-weekend-closure-Nov-7-and-8-2026",
       "Name": null,
       "Html": "<a title=\"Line 2 St George to Broadview Full weekend closure Nov 7 and 8 2026\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Broadview-Full-weekend-closure-Nov-7-and-8-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Broadview stations – Full weekend closure – Saturday, November 7 and Sunday, November 8, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 7, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 8, 2026</span></div>"
+    },
+    {
+      "Id": "40fe36aa-f10a-4d25-8621-e2622ba323d1",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Keele to St George Nightly early closures Nov 9 to 12 2026",
+      "Url": "/service-advisories/subway-service/Line-2-Keele-to-St-George-Nightly-early-closures-Nov-9-to-12-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Keele to St George Nightly early closures Nov 9 to 12 2026\" href=\"/service-advisories/subway-service/Line-2-Keele-to-St-George-Nightly-early-closures-Nov-9-to-12-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Keele to St George stations – Nightly early closures starting at 11:59 p.m. – Monday, November 9 to Thursday, November 12, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 9, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 12, 2026</span></div>"
     }
   ]
 }
