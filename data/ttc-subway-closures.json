@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 8,
+  "Count": 7,
   "Results": [
-    {
-      "Id": "9248bf9a-0208-4afb-b179-142919a3359b",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Lawrence West to St George Nightly early closures Oct 26 to 29",
-      "Url": "/service-advisories/subway-service/Line-1-Lawrence-West-to-St-George-Nightly-early-closures-Oct-26-to-29",
-      "Name": null,
-      "Html": "<a title=\"Line 1 Lawrence West to St George Nightly early closures Oct 26 to 29\" href=\"/service-advisories/subway-service/Line-1-Lawrence-West-to-St-George-Nightly-early-closures-Oct-26-to-29\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Lawrence West to St George stations – Nightly early closures starting at 11:59 p.m. – Monday, October 26 to Thursday, October 29 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">October 26, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">October 29, 2026</span></div>"
-    },
     {
       "Id": "5bbf1581-d5ea-4367-be7b-6d5d5b6f898a",
       "Language": "en",
