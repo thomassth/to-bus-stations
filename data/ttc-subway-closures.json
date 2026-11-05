@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 5,
+  "Count": 7,
   "Results": [
     {
       "Id": "24d6853c-4b0a-48e6-b766-64b20e1fcf82",
@@ -26,6 +26,22 @@
       "Url": "/service-advisories/subway-service/Line-2-Keele-to-St-George-Nightly-early-closures-Nov-9-to-12-2026",
       "Name": null,
       "Html": "<a title=\"Line 2 Keele to St George Nightly early closures Nov 9 to 12 2026\" href=\"/service-advisories/subway-service/Line-2-Keele-to-St-George-Nightly-early-closures-Nov-9-to-12-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Keele to St George stations – Nightly early closures starting at 11:59 p.m. – Monday, November 9 to Thursday, November 12, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 9, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 12, 2026</span></div>"
+    },
+    {
+      "Id": "0184252f-c975-4b79-b92a-5926ae41a0f9",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Vaughan Metropolitan Centre to Finch West Planned single-track operation Nov 9 to 12 2026",
+      "Url": "/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Finch-West-Planned-single-track-operation-Nov-9-to-12-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Vaughan Metropolitan Centre to Finch West Planned single-track operation Nov 9 to 12 2026\" href=\"/service-advisories/subway-service/Line-1-Vaughan-Metropolitan-Centre-to-Finch-West-Planned-single-track-operation-Nov-9-to-12-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Vaughan Metropolitan Centre to Finch West stations – Planned single-track operation, nightly starting at 11 p.m. – Monday, November 9 to Thursday, November 12, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 9, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 12, 2026</span></div>"
+    },
+    {
+      "Id": "643c010f-6141-4742-aa48-d2b99faee155",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Victoria Park to Kennedy Full weekend closure Nov 14 and 15 2026",
+      "Url": "/service-advisories/subway-service/Line-2-Victoria-Park-to-Kennedy-Full-weekend-closure-Nov-14-and-15-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Victoria Park to Kennedy Full weekend closure Nov 14 and 15 2026\" href=\"/service-advisories/subway-service/Line-2-Victoria-Park-to-Kennedy-Full-weekend-closure-Nov-14-and-15-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Victoria Park to Kennedy stations – Full weekend closure – Saturday, November 14 and Sunday, November 15, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 14, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 15, 2026</span></div>"
     }
   ]
 }
