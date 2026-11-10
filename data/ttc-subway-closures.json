@@ -44,12 +44,12 @@
       "Html": "<a title=\"Line 1 York Mills to Eglinton Nightly early closures Nov 16 to 18 2026\" href=\"/service-advisories/subway-service/Line-1-York-Mills-to-Eglinton-Nightly-early-closures-Nov-16-to-18-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">York Mills to Eglinton stations – Nightly early closures starting at 11 p.m. – Monday, November 16 to Wednesday, November 18, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 16, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 18, 2026</span></div>"
     },
     {
-      "Id": "6f89edc7-2e8e-4681-8a62-3620fb681b45",
+      "Id": "0cf8976f-7409-41ef-b37a-fea993948527",
       "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Kipling to Keele Single-day closure Nov 21 2026",
-      "Url": "/service-advisories/subway-service/Line-2-Kipling-to-Keele-Single-day-closure-Nov-21-2026",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Broadview Single-day closure Nov 21 2026",
+      "Url": "/service-advisories/subway-service/Line-2-St-George-to-Broadview-Single-day-closure-Nov-21-2026",
       "Name": null,
-      "Html": "<a title=\"Line 2 Kipling to Keele Single-day closure Nov 21 2026\" href=\"/service-advisories/subway-service/Line-2-Kipling-to-Keele-Single-day-closure-Nov-21-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Kipling to Keele stations – Single-day closure – Saturday, November 21, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>November 21, 2026<span>&nbsp;</span></div>"
+      "Html": "<a title=\"Line 2 St George to Broadview Single-day closure Nov 21 2026\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Broadview-Single-day-closure-Nov-21-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Broadview stations – Single-day closure – Saturday, November 21, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>November 21, 2026<span>&nbsp;</span></div>"
     }
   ]
 }
