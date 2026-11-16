@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 6,
+  "Count": 5,
   "Results": [
-    {
-      "Id": "643c010f-6141-4742-aa48-d2b99faee155",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Victoria Park to Kennedy Full weekend closure Nov 14 and 15 2026",
-      "Url": "/service-advisories/subway-service/Line-2-Victoria-Park-to-Kennedy-Full-weekend-closure-Nov-14-and-15-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 2 Victoria Park to Kennedy Full weekend closure Nov 14 and 15 2026\" href=\"/service-advisories/subway-service/Line-2-Victoria-Park-to-Kennedy-Full-weekend-closure-Nov-14-and-15-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Victoria Park to Kennedy stations – Full weekend closure – Saturday, November 14 and Sunday, November 15, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 14, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 15, 2026</span></div>"
-    },
     {
       "Id": "e9124bd8-61c3-4911-bb9c-efd3ebf4fefe",
       "Language": "en",
