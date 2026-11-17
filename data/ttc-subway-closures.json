@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 5,
+  "Count": 7,
   "Results": [
     {
       "Id": "e9124bd8-61c3-4911-bb9c-efd3ebf4fefe",
@@ -20,12 +20,28 @@
       "Html": "<a title=\"Line 1 York Mills to Eglinton Nightly early closures Nov 16 to 18 2026\" href=\"/service-advisories/subway-service/Line-1-York-Mills-to-Eglinton-Nightly-early-closures-Nov-16-to-18-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">York Mills to Eglinton stations – Nightly early closures starting at 11 p.m. – Monday, November 16 to Wednesday, November 18, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 16, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 18, 2026</span></div>"
     },
     {
+      "Id": "5159a4ee-42c3-478f-8183-8c04d2d77419",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Finch West to Wilson Nightly early closures November 19 and 20",
+      "Url": "/service-advisories/subway-service/Line-1-Finch-West-to-Wilson-Nightly-early-closures-November-19-and-20",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Finch West to Wilson Nightly early closures November 19 and 20\" href=\"/service-advisories/subway-service/Line-1-Finch-West-to-Wilson-Nightly-early-closures-November-19-and-20\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Finch West to Wilson stations – Nightly early closures starting at 11:59 p.m. – Thursday, November 19 and Friday, November 20, 2026</span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 19, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 20, 2026</span></div>"
+    },
+    {
       "Id": "0cf8976f-7409-41ef-b37a-fea993948527",
       "Language": "en",
       "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Broadview Single-day closure Nov 21 2026",
       "Url": "/service-advisories/subway-service/Line-2-St-George-to-Broadview-Single-day-closure-Nov-21-2026",
       "Name": null,
       "Html": "<a title=\"Line 2 St George to Broadview Single-day closure Nov 21 2026\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Broadview-Single-day-closure-Nov-21-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Broadview stations – Single-day closure – Saturday, November 21, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>November 21, 2026<span>&nbsp;</span></div>"
+    },
+    {
+      "Id": "b441a3c7-f052-4fb0-8b78-4276b873a137",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Bloor-Yonge to Osgoode Nightly early closures Nov 23 to 27 2026",
+      "Url": "/service-advisories/subway-service/Line-1-Bloor-Yonge-to-Osgoode-Nightly-early-closures-Nov-23-to-27-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Bloor-Yonge to Osgoode Nightly early closures Nov 23 to 27 2026\" href=\"/service-advisories/subway-service/Line-1-Bloor-Yonge-to-Osgoode-Nightly-early-closures-Nov-23-to-27-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Bloor-Yonge to Osgoode stations – Nightly early closures starting at 11:59 p.m. – Monday, November 23 to Friday, November 27, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 23, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 27, 2026</span></div>"
     }
   ]
 }
