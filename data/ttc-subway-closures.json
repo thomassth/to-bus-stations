@@ -1,24 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 7,
+  "Count": 8,
   "Results": [
-    {
-      "Id": "e9124bd8-61c3-4911-bb9c-efd3ebf4fefe",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Pioneer Village to Sheppard West single-track operation Nov 16 to 18 2026",
-      "Url": "/service-advisories/subway-service/Line-1-Pioneer-Village-to-Sheppard-West-single-track-operation-Nov-16-to-18-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 1 Pioneer Village to Sheppard West single-track operation Nov 16 to 18 2026\" href=\"/service-advisories/subway-service/Line-1-Pioneer-Village-to-Sheppard-West-single-track-operation-Nov-16-to-18-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Pioneer Village to Sheppard West stations – Planned single-track operation, nightly starting at 11 p.m. – Monday, November 16 to Wednesday, November 18, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 16, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 18, 2026</span></div>"
-    },
-    {
-      "Id": "d2ebc062-0d6c-4310-a470-f253cf55e029",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 York Mills to Eglinton Nightly early closures Nov 16 to 18 2026",
-      "Url": "/service-advisories/subway-service/Line-1-York-Mills-to-Eglinton-Nightly-early-closures-Nov-16-to-18-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 1 York Mills to Eglinton Nightly early closures Nov 16 to 18 2026\" href=\"/service-advisories/subway-service/Line-1-York-Mills-to-Eglinton-Nightly-early-closures-Nov-16-to-18-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">York Mills to Eglinton stations – Nightly early closures starting at 11 p.m. – Monday, November 16 to Wednesday, November 18, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 16, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 18, 2026</span></div>"
-    },
     {
       "Id": "5159a4ee-42c3-478f-8183-8c04d2d77419",
       "Language": "en",
@@ -42,6 +26,30 @@
       "Url": "/service-advisories/subway-service/Line-1-Bloor-Yonge-to-Osgoode-Nightly-early-closures-Nov-23-to-27-2026",
       "Name": null,
       "Html": "<a title=\"Line 1 Bloor-Yonge to Osgoode Nightly early closures Nov 23 to 27 2026\" href=\"/service-advisories/subway-service/Line-1-Bloor-Yonge-to-Osgoode-Nightly-early-closures-Nov-23-to-27-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Bloor-Yonge to Osgoode stations – Nightly early closures starting at 11:59 p.m. – Monday, November 23 to Friday, November 27, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 23, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 27, 2026</span></div>"
+    },
+    {
+      "Id": "beb771ba-160d-48f3-940a-049dd05e124e",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 Warden to Kennedy Full weekend closure Nov 28 and 29",
+      "Url": "/service-advisories/subway-service/Line-2-Warden-to-Kennedy-Full-weekend-closure-Nov-28-and-29",
+      "Name": null,
+      "Html": "<a title=\"Line 2 Warden to Kennedy Full weekend closure Nov 28 and 29\" href=\"/service-advisories/subway-service/Line-2-Warden-to-Kennedy-Full-weekend-closure-Nov-28-and-29\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Warden to Kennedy stations – Full weekend closure – Saturday, November 28 and Sunday, November 29 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 28, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 29, 2026</span></div>"
+    },
+    {
+      "Id": "4c798bc5-2866-42ce-8660-0a01da2e3f35",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Bloor-Yonge to Osgoode Nightly early closures Nov 30 to Dec 3 2026",
+      "Url": "/service-advisories/subway-service/Line-1-Bloor-Yonge-to-Osgoode-Nightly-early-closures-Nov-30-to-Dec-3-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 Bloor-Yonge to Osgoode Nightly early closures Nov 30 to Dec 3 2026\" href=\"/service-advisories/subway-service/Line-1-Bloor-Yonge-to-Osgoode-Nightly-early-closures-Nov-30-to-Dec-3-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Bloor-Yonge to Osgoode stations – Nightly early closures starting at 11:59 p.m. – Monday, November 30 to Thursday, December 3, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 30, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">December 3, 2026</span></div>"
+    },
+    {
+      "Id": "9d67df5c-ec91-4311-a70c-923c7067237d",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 College to Osgoode Full weekend closure Dec 4 to 6 2026",
+      "Url": "/service-advisories/subway-service/Line-1-College-to-Osgoode-Full-weekend-closure-Dec-4-to-6-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 1 College to Osgoode Full weekend closure Dec 4 to 6 2026\" href=\"/service-advisories/subway-service/Line-1-College-to-Osgoode-Full-weekend-closure-Dec-4-to-6-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">College to Osgoode stations – Full weekend closure starting at 11:59 p.m. on Friday, December 4 to Sunday, December 6, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">December 4, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">December 6, 2026</span></div>"
     }
   ]
 }
