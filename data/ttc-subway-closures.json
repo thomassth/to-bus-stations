@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 7,
+  "Count": 6,
   "Results": [
-    {
-      "Id": "0cf8976f-7409-41ef-b37a-fea993948527",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 2 St George to Broadview Single-day closure Nov 21 2026",
-      "Url": "/service-advisories/subway-service/Line-2-St-George-to-Broadview-Single-day-closure-Nov-21-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 2 St George to Broadview Single-day closure Nov 21 2026\" href=\"/service-advisories/subway-service/Line-2-St-George-to-Broadview-Single-day-closure-Nov-21-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 2 (Bloor-Danforth)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">St George to Broadview stations – Single-day closure – Saturday, November 21, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>November 21, 2026<span>&nbsp;</span></div>"
-    },
     {
       "Id": "b441a3c7-f052-4fb0-8b78-4276b873a137",
       "Language": "en",
