@@ -1,7 +1,7 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 6,
+  "Count": 7,
   "Results": [
     {
       "Id": "b441a3c7-f052-4fb0-8b78-4276b873a137",
@@ -34,6 +34,14 @@
       "Url": "/service-advisories/subway-service/Line-1-College-to-Osgoode-Full-weekend-closure-Dec-4-to-6-2026",
       "Name": null,
       "Html": "<a title=\"Line 1 College to Osgoode Full weekend closure Dec 4 to 6 2026\" href=\"/service-advisories/subway-service/Line-1-College-to-Osgoode-Full-weekend-closure-Dec-4-to-6-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">College to Osgoode stations – Full weekend closure starting at 11:59 p.m. on Friday, December 4 to Sunday, December 6, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">December 4, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">December 6, 2026</span></div>"
+    },
+    {
+      "Id": "54bad1dd-e1a4-4ad5-bbba-c67df7ef587f",
+      "Language": "en",
+      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 5 Mount Dennis to Kennedy Early closure starting Dec 5 2026",
+      "Url": "/service-advisories/subway-service/Line-5-Mount-Dennis-to-Kennedy-Early-closure-starting-Dec-5-2026",
+      "Name": null,
+      "Html": "<a title=\"Line 5 Mount Dennis to Kennedy Early closure starting Dec 5 2026\" href=\"/service-advisories/subway-service/Line-5-Mount-Dennis-to-Kennedy-Early-closure-starting-Dec-5-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 5 (Eglinton)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Mount Dennis to Kennedy stations – Early closure starting at 10 p.m. on Saturday, December 5, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"sa-start-date-label-wrapper\"></span>December 5, 2026<span>&nbsp;</span></div>"
     }
   ]
 }
