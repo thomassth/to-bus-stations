@@ -1,16 +1,8 @@
 {
   "Signature": "",
   "Index": "sitecore_sxa_web_index",
-  "Count": 7,
+  "Count": 6,
   "Results": [
-    {
-      "Id": "b441a3c7-f052-4fb0-8b78-4276b873a137",
-      "Language": "en",
-      "Path": "/sitecore/content/TTC/DevProto/Home/service-advisories/subway-service/Line 1 Bloor-Yonge to Osgoode Nightly early closures Nov 23 to 27 2026",
-      "Url": "/service-advisories/subway-service/Line-1-Bloor-Yonge-to-Osgoode-Nightly-early-closures-Nov-23-to-27-2026",
-      "Name": null,
-      "Html": "<a title=\"Line 1 Bloor-Yonge to Osgoode Nightly early closures Nov 23 to 27 2026\" href=\"/service-advisories/subway-service/Line-1-Bloor-Yonge-to-Osgoode-Nightly-early-closures-Nov-23-to-27-2026\" role=\"heading\" aria-level=\"2\"><div class=\"sa-title c-news-results__link u-mb-sm\"><span class=\"field-routename\">Line 1 (Yonge-University)</span><span class=\"sa-dash\">&#8211;</span><span class=\"field-satitle\">Bloor-Yonge to Osgoode stations – Nightly early closures starting at 11:59 p.m. – Monday, November 23 to Friday, November 27, 2026 </span></div></a><div class=\"sa-effective-date c-news-results__date\"><span class=\"ed-start-date field-starteffectivedate\">November 23, 2026<span>&nbsp;</span></span><span class=\"effective-date-tolabel\">to </span><span class=\"field-endeffectivedate\">November 27, 2026</span></div>"
-    },
     {
       "Id": "beb771ba-160d-48f3-940a-049dd05e124e",
       "Language": "en",
